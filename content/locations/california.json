@@ -1,0 +1,78 @@
+{
+ "slug": "california",
+ "title": "Sell Mineral Rights in California",
+ "type": "state",
+ "group": "San Joaquin, LA basin legacy",
+ "primaryKeyword": "mineral rights california",
+ "seo": {
+  "vol": 90,
+  "cpc": 2.99
+ },
+ "metaTitle": "Sell Mineral Rights in California | Oil Owner Guide",
+ "metaDescription": "California heavy oil declines slower than shale. See how Kern County and LA Basin royalties actually behave, then get a no-obligation offer on your interest.",
+ "heroLead": "California oil does not decline the way people expect from watching shale headlines. Kern County's heavy oil fields have been producing for over a century, and that slow curve changes how you should think about selling.",
+ "intro": [
+  "Most of California's oil comes from two places: the San Joaquin Valley around Bakersfield, home to giants like Midway-Sunset, Kern River, and Elk Hills, and the Los Angeles Basin, where fields like Long Beach, Signal Hill, and Wilmington sit under one of the most densely populated urban areas in the country. Both regions produce mostly heavy, viscous oil that requires steam injection or other thermal recovery to keep flowing, which is a very different production profile than a light-oil shale well in Texas or North Dakota.",
+  "That thermal, mature-field character is the single most important thing to understand about a California oil royalty. This page walks through why these wells decline the way they do, what steam-flood operations mean for your check, and how ownership and permitting realities in California affect both current production and any sale."
+ ],
+ "sections": [
+  {
+   "heading": "Why California Heavy Oil Declines So Slowly",
+   "paragraphs": [
+    "Kern River and Midway-Sunset have been on production since the early 1900s, and thermal recovery methods like cyclic steam and steamflooding have kept them producing far longer than a conventional light-oil field would last on natural pressure alone. Because these fields rely on continuous steam input rather than a single pressure drawdown, their decline curves are flatter and more gradual than almost any shale play, sometimes stretching production out over a hundred years.",
+    "For an owner, that means your royalty check is less about a well racing down a steep curve and more about the operator's ongoing steam and maintenance investment, plus the price of oil. A field still under active steam operations can hold its output steadier than you might assume from its age alone."
+   ]
+  },
+  {
+   "heading": "The LA Basin's Urban Oil Fields",
+   "paragraphs": [
+    "Los Angeles Basin production is a different story: mature, urban, and increasingly constrained by local drilling ordinances and setback rules that limit new wells near homes and schools. Fields like Wilmington and Long Beach are still producing, but new permitting in Los Angeles County has grown tighter in recent years, which tends to slow the pace of new drilling that would otherwise offset natural decline.",
+    "If your interest sits in an LA Basin field, that regulatory backdrop is worth factoring in. Existing wells keep producing under their current permits, but the odds of significant new drilling extending or boosting that production going forward are lower than in a basin with an open permitting environment."
+   ]
+  },
+  {
+   "heading": "What a California Royalty Statement Shows",
+   "paragraphs": [
+    "Because heavy oil requires more processing to get to market, your division order and statement may reflect higher transportation and processing deductions than a light-oil interest elsewhere, depending on your specific lease terms. It is worth reading your statement's deduction lines carefully, since heavy oil marketing costs are a real part of the economics in Kern County and the LA Basin.",
+    "Price realized for California heavy crude also typically trades at a discount to benchmark light crude prices, reflecting the extra refining required, so do not be surprised if your per-barrel price looks lower than a national oil price headline."
+   ]
+  },
+  {
+   "heading": "Selling a Mature California Interest",
+   "paragraphs": [
+    "A long, slow decline curve is generally easier to price with confidence than a fast-moving one, because there is often a century of production data showing exactly how the field behaves. We weigh your recent royalty history, the operator's current steam and workover activity, regional permitting conditions, and current heavy-crude pricing when we put together an offer.",
+    "If you are an heir to an interest that has been in the family since the early oil-boom era, we can also help track down the original lease and division order history through the county recorder before finalizing anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why is my Kern County oil check so steady compared to what I read about shale wells?",
+   "answer": "Kern County fields like Kern River and Midway-Sunset produce heavy oil under thermal recovery, which creates a much flatter, longer decline curve than a shale well drilled on light oil. Some of these fields have been producing for over a century."
+  },
+  {
+   "question": "Does LA Basin drilling regulation affect my royalty?",
+   "answer": "It can affect future drilling more than current production. Los Angeles County has tightened setback and permitting rules in recent years, which tends to limit new wells near existing fields, though wells already producing under existing permits continue as normal."
+  },
+  {
+   "question": "Why does my California oil sell for less per barrel than the national price?",
+   "answer": "Heavy California crude typically trades at a discount to light benchmark crude because it requires more processing to refine. Check your division order's deduction lines for transportation and processing costs specific to heavy oil marketing."
+  },
+  {
+   "question": "How long can a California heavy oil field keep producing?",
+   "answer": "Fields under active steam operations, like parts of Kern River, have produced for well over a hundred years and can continue as long as steam economics and oil prices support it. This is unusually long compared to most other oil basins."
+  },
+  {
+   "question": "What determines an offer on my California mineral interest?",
+   "answer": "We look at your recent royalty history, current steam and workover activity on the lease, heavy-crude pricing after typical discounts, and regional permitting conditions. The figure is grounded in that data rather than a guaranteed number."
+  }
+ ],
+ "status": "written",
+ "wordCount": 918,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-california.jpg",
+  "alt": "Sell Mineral Rights in California location",
+  "width": 1600,
+  "height": 1000
+ }
+}

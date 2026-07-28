@@ -1,0 +1,78 @@
+{
+ "slug": "dj-basin",
+ "title": "DJ Basin Mineral Rights",
+ "type": "basin",
+ "group": "CO/WY/NE",
+ "primaryKeyword": "dj basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "DJ Basin Mineral Rights: Sell Oil Royalties",
+ "metaDescription": "Own DJ Basin oil royalties in Colorado, Wyoming, or Nebraska? Learn how permitting rules and multi-well pads shape your decline curve and check.",
+ "heroLead": "In the Denver-Julesburg Basin, what shows up on your royalty check is shaped as much by local permitting and pad design as by the rock itself.",
+ "intro": [
+  "The Denver-Julesburg Basin, commonly shortened to the DJ Basin, stretches across northeastern Colorado into southeastern Wyoming and the western Nebraska panhandle, with the Niobrara and Codell formations as the main producing intervals. If your royalty comes from Colorado acreage specifically, you're in one of the more heavily regulated oil and gas environments in the country, and those rules affect how and when wells get drilled near you in ways that owners in other basins don't have to think about.",
+  "This page covers how DJ Basin wells decline, why they're increasingly drilled from large multi-well pads, and what Colorado's setback and permitting framework means for predicting future development on your specific tract."
+ ],
+ "sections": [
+  {
+   "heading": "The DJ decline curve and why it's a bit gentler",
+   "paragraphs": [
+    "DJ Basin horizontal wells in the Niobrara and Codell still follow the general shale pattern, a fast initial decline followed by a longer tail, but the steepest part is often somewhat less extreme than in the Permian or Bakken, commonly in the 50 to 60 percent range in the first year rather than 65 to 70 percent. That's a general tendency tied to the reservoir characteristics here, not a guarantee for any individual well, so always check your own well's actual production trend rather than assuming the basin average applies exactly.",
+    "After that first-year drop, DJ Basin wells typically settle into a moderate, multi-year decline that can remain economic for well over a decade, particularly on pads where the operator has optimized spacing and completion design based on years of basin-specific experience."
+   ]
+  },
+  {
+   "heading": "Multi-well pads and staggered completions",
+   "paragraphs": [
+    "It's common in the DJ Basin for an operator to drill and complete several wells from a single pad location in stages rather than all at once, sometimes turning wells to production months apart even though they were drilled around the same time. If you own royalty across a unit with a multi-well pad, don't be surprised if your check shows a series of step-ups over a year or two as each well in the sequence is completed and brought online.",
+    "This staggered approach also means your combined royalty stream can look choppier than a single clean decline curve, similar to the stacked-pay pattern seen in the Permian, but here it's driven more by pad-development sequencing and takeaway logistics than by multiple geologic benches."
+   ]
+  },
+  {
+   "heading": "Colorado's regulatory environment and what it means for timing",
+   "paragraphs": [
+    "Colorado has some of the strictest oil and gas siting and setback rules in the country, requiring larger distances between wells and occupied buildings than most other producing states, along with a more involved local and state permitting process. For mineral owners, this generally means development can take longer to materialize once permitted and can be more concentrated onto fewer, larger pad sites rather than spread across many smaller locations.",
+    "Practically, this makes it worth checking the Colorado Energy and Carbon Management Commission's permit and hearing records for your specific area before assuming a nearby quiet period means development has stopped. A project working through Colorado's permitting process can take a meaningful amount of time between initial application and first wells turned to production, and that lag doesn't necessarily reflect the underlying economics of your minerals."
+   ]
+  },
+  {
+   "heading": "Wyoming and Nebraska portions of the play",
+   "paragraphs": [
+    "The Wyoming and Nebraska panhandle portions of the DJ Basin generally see lighter regulatory friction than Colorado's Front Range counties, and development there tends to move on a more conventional permitting timeline. If your acreage is in this part of the basin, comparable well data and permit activity are usually more directly predictive of near-term drilling than in the Colorado portion, where local ordinances can add variability.",
+    "Whichever state your minerals sit in, a good practice before evaluating a sale offer is pulling recent permit filings for your section and the surrounding one-mile radius. A cluster of recent permits, wherever you are in the basin, generally means a buyer will price in near-term development upside; a long gap with no new filings suggests the current decline curve is closer to the whole story."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my DJ Basin check show wells coming online at different times even though they're on the same pad?",
+   "answer": "Operators here commonly drill several wells from one pad but complete and turn them to production in stages rather than all at once. Expect your combined royalty to show step-ups as each well in the sequence comes online, rather than one continuous decline curve."
+  },
+  {
+   "question": "Is DJ Basin decline gentler than the Permian or Bakken?",
+   "answer": "As a general tendency, first-year declines in the DJ Basin are often somewhat less steep, commonly in the 50 to 60 percent range versus 65 to 70 percent elsewhere, but this varies by well, so check your own production trend rather than assuming a basin-wide average applies to your specific interest."
+  },
+  {
+   "question": "Why hasn't anything been drilled near my Colorado DJ Basin acreage in years?",
+   "answer": "Colorado's setback and permitting requirements are among the strictest in the country and can add significant time between a project's initial application and wells actually being turned to production. Checking Colorado Energy and Carbon Management Commission permit records for your area is a more reliable indicator of pending activity than the absence of visible drilling."
+  },
+  {
+   "question": "Does it matter whether my DJ Basin minerals are in Colorado versus Wyoming or Nebraska?",
+   "answer": "It can. The Wyoming and Nebraska portions of the basin generally have lighter regulatory friction, so permit activity there tends to translate to drilling on a more predictable timeline, while Colorado's process can add variability worth accounting for when evaluating near-term development potential."
+  },
+  {
+   "question": "How can I tell if more drilling is planned near my DJ Basin tract?",
+   "answer": "Pull recent permit filings for your section and the surrounding area through your state's oil and gas regulatory agency. A cluster of recent permits suggests near-term development upside a buyer is likely to price in; a long gap with no filings suggests your current decline curve is closer to the full picture."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1040,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-dj-basin-selloilroyaltiesnow-com.jpg",
+  "alt": "DJ Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "metaTitle": "Mineral Deed Transfer: How Title Actually Moves",
+ "metaDescription": "How mineral deed transfer and title recording actually work when you sell, including closing steps, curative title issues, and courthouse recording basics.",
+ "heroLead": "Selling a mineral interest doesn't end with a signature, it ends when a new deed is recorded at the courthouse. Here's what happens between those two moments.",
+ "intro": [
+  "Title to minerals moves the same basic way title to any real property does, through a recorded deed, but the details that trip people up are specific to minerals: fractional interests split across heirs, old reservations buried in a 1960s deed, or a spacing unit that doesn't match county tax records. None of that is unusual, and none of it should be a surprise if it's handled correctly.",
+  "This guide walks through the transfer mechanics from signature to recording, and flags the title issues that most often slow a mineral closing down, so you know what to expect rather than treating a title request as a red flag."
+ ],
+ "sections": [
+  {
+   "heading": "The mineral deed itself",
+   "paragraphs": [
+    "A mineral deed is a short legal document that conveys your specific fractional interest in the oil, gas, and other minerals under a described tract, separate from any surface rights, which you keep or which may already belong to someone else entirely. It names you as grantor, the buyer as grantee, and describes the property using the legal description from the county records, not a street address. Once signed and notarized, it's the buyer's job to get it recorded in the county where the minerals lie."
+   ]
+  },
+  {
+   "heading": "Title work: what a buyer is actually checking",
+   "paragraphs": [
+    "Before closing, a buyer typically runs a title search, or has a landman or title company run one, tracing ownership back through the county's deed records to confirm you hold the interest you're selling and to calculate your exact net mineral acres. This is standard due diligence, not a sign of distrust, and it's the same work that protects you if the buyer's own title is ever questioned later."
+   ]
+  },
+  {
+   "heading": "Curative issues and how they're usually handled",
+   "paragraphs": [
+    "Older mineral tracts sometimes carry curative issues, small title problems from a prior generation: a missing heir's signature, an ambiguous legal description, or an old lease that was never formally released. These are common on land that's changed hands within a family multiple times, and a good buyer's title team will identify a fix, an affidavit, a quitclaim from a distant relative, a corrective deed, rather than treating the tract as unsellable. Expect curative work to add time to a closing, not necessarily cost."
+   ]
+  },
+  {
+   "heading": "Closing and recording",
+   "paragraphs": [
+    "At closing, funds are typically disbursed once the deed is signed and, in most transactions, held or tracked through a title company or escrow process until the deed is recorded. Recording is what makes the transfer public and enforceable against future claims, it's filed with the county clerk or recorder in the county where the property sits, and you should receive confirmation, or a recorded copy, once it's complete."
+   ]
+  },
+  {
+   "heading": "What happens to the operator's records after closing",
+   "paragraphs": [
+    "Once the deed is recorded, the buyer typically sends a copy to the well operator along with a request to update the division order, so future royalty payments route to the new owner going forward. This step is the buyer's responsibility, not yours, but it's worth confirming with the buyer that it's been handled, since a missed notice to the operator can occasionally cause a payment to be sent to the wrong party for a cycle or two before it's corrected.",
+    "You should not continue receiving royalty checks after the closing date, and if one does arrive, it's typically forwarded to the new owner rather than kept, since ownership transferred as of the recorded deed date, not the date the check happened to be mailed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do mineral rights and surface rights transfer together?",
+   "answer": "Not necessarily. Minerals and surface can be severed and owned separately, so a mineral deed transfers only your subsurface interest unless the document specifically states otherwise."
+  },
+  {
+   "question": "How long does title work usually take before closing?",
+   "answer": "It varies with how many prior transfers and heirs are in the chain of title, from a fairly quick review on a clean single-owner tract to longer if curative work is needed on an older, family-divided interest."
+  },
+  {
+   "question": "What if there's a title problem I didn't know about?",
+   "answer": "It's more common than people expect, especially on inherited land, and a competent buyer will identify a specific fix rather than walking away, so a title issue found during closing is usually a delay, not a dealbreaker, and worth discussing openly rather than treating as a surprise."
+  },
+  {
+   "question": "Do I need my own attorney to review the deed?",
+   "answer": "You're welcome to have a real estate or mineral attorney review any deed before you sign, and for larger or more complicated interests, especially ones with several heirs involved, it's a reasonable step to take."
+  },
+  {
+   "question": "Who pays to record the deed?",
+   "answer": "This is typically handled and paid for by the buyer as part of closing, along with any recording fees charged by the county clerk's office, and you should receive confirmation once the recorded deed is on file."
+  }
+ ],
+ "status": "written",
+ "wordCount": 852,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-selloilroyaltiesnow-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

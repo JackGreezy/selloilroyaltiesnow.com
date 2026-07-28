@@ -1,0 +1,79 @@
+{
+ "slug": "permian-basin",
+ "title": "Permian Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX/NM",
+ "primaryKeyword": "permian basin mineral rights",
+ "seo": {
+  "vol": 20,
+  "cpc": null
+ },
+ "metaTitle": "Permian Basin Mineral Rights: Sell Oil Royalties",
+ "metaDescription": "Own Permian Basin oil royalties? Learn how stacked-pay development changes your decline curve and when a royalty check history supports a sale.",
+ "heroLead": "The Permian is the busiest oil address in the country, and that activity shows up directly in your royalty statement as a stack of overlapping decline curves rather than one clean line.",
+ "intro": [
+  "If your minerals or royalty interest sit somewhere in the Permian Basin, spanning West Texas and southeast New Mexico, you already know the checks can be large and the swings can be sharp. What makes this basin different from a single-formation play is depth: operators are landing horizontal wells in multiple stacked benches under the same acreage, sometimes the Wolfcamp A, Wolfcamp B, Bone Spring, and Spraberry all under one section, each on its own timeline.",
+  "That stacking is good for total recovery but it complicates the decline curve you're trying to read off your check stubs. A well finishing its steep first-year drop in one bench can be masked by a fresh well just spudded in the bench above or below it. Understanding which pattern you're looking at is the first step to deciding whether now is a good time to sell, hold, or do neither."
+ ],
+ "sections": [
+  {
+   "heading": "Why Permian decline curves look different",
+   "paragraphs": [
+    "A typical Permian horizontal well loses 60 to 70 percent of its initial production rate in the first twelve months, then settles into a longer, gentler tail that can run a decade or more at lower but still meaningful volumes. That first-year cliff is steep because these are unconventional wells: the frac creates a pressure sink near the wellbore that drains fast, and once that near-wellbore rock is depleted, flow rate depends on slower matrix drainage further out.",
+    "Where the Permian gets complicated is the stacking. If you own minerals under a section where an operator drills the Wolfcamp A this year and comes back for the Wolfcamp B in eighteen months, your combined royalty stream on the division order can look almost flat for a while, then step up, then decline again, rather than the single smooth curve you'd see under one well in a shallower conventional field.",
+    "Read your check detail by well API number if your operator provides it. A blended lease-level total hides the fact that you may have one well in its ninth year of gentle tail production and another only four months old and still in its steepest decline."
+   ]
+  },
+  {
+   "heading": "What downspacing and DUCs mean for your interest",
+   "paragraphs": [
+    "Operators in the core Permian have been downspacing for years, meaning more wells per section drilled closer together to capture reserves the older spacing left behind. If your family's minerals sit in a unit that's only been partially developed, there may be additional locations still to be drilled, which is a real source of future value that a one-time offer based only on trailing production would miss.",
+    "Drilled-but-uncompleted wells, DUCs, are another Permian-specific wrinkle. An operator sometimes drills a well and waits months, occasionally longer, before completing and turning it to production depending on service costs and commodity prices. If you know or suspect a DUC sits on your acreage, that's a meaningful fact to disclose and to factor into timing, since a buyer valuing only your current royalty stream may not be pricing in production that hasn't started yet."
+   ]
+  },
+  {
+   "heading": "Reading your Permian division order",
+   "paragraphs": [
+    "Because so many Permian units carry multiple operators and multiple horizons, division orders here get revised more often than in simpler basins. Every time a new well is completed on your tract or a working interest changes hands, expect a new decimal interest calculation. Keep every version you receive rather than only the most recent one; the sequence tells you how development has actually unfolded on your specific acreage over time.",
+    "Watch for post-production cost deductions on your check detail, commonly gathering, compression, and transportation charges netted against gross value before your royalty is calculated. These deductions are normal and typically covered by your lease language, but they matter when you're comparing your net check to what a buyer is offering, since a buyer's cash flow model is built on the same net numbers you're already receiving."
+   ]
+  },
+  {
+   "heading": "Timing a sale against basin-wide activity",
+   "paragraphs": [
+    "The Permian's scale means basin-wide rig counts and completion activity, reported regularly by state regulators and industry trackers, are a reasonable proxy for how much fresh development pressure is likely to reach your specific acreage. When rig counts in your county are climbing, buyers tend to price in more future drilling upside, and that's often a stronger window to sell a portion of your interest than when activity has gone quiet.",
+    "It also matters whether you're sitting on producing royalty only or on a mix of producing and undeveloped mineral acres. Producing royalty is valued mostly off the decline curve and remaining reserves; undeveloped acreage is valued more on lease-bonus comparables and permit activity nearby. Selling all of it in one transaction, versus carving out just the producing piece, changes both the price conversation and what you keep exposure to going forward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my Permian royalty check jump up after years of steady decline?",
+   "answer": "A new well was likely completed on your unit, in a different bench than the one already producing, or an offset well began draining into your tract's allocated share. Stacked-pay development means your check can step up mid-decline rather than fall in one smooth line, so check your division order for a new well listing before assuming the increase is an error."
+  },
+  {
+   "question": "Does it matter which formation my royalty comes from, Wolfcamp versus Bone Spring versus Spraberry?",
+   "answer": "It affects the shape of the curve more than it affects whether a sale makes sense. Different benches can have somewhat different decline rates and typical well lives, and a buyer valuing your interest will look at which formation is actually producing and what else is permitted nearby rather than the basin name alone on the check."
+  },
+  {
+   "question": "Should I sell my whole Permian interest or just a portion?",
+   "answer": "Many owners sell a term or a partial interest, for example the next several years of production from currently producing wells, and keep the undeveloped upside if there's meaningful acreage still to be drilled. The right split depends on how much of your unit is already developed versus how many additional locations remain, which is worth discussing before you commit to a full sale."
+  },
+  {
+   "question": "How do I know if there are drilled-but-uncompleted wells on my acreage?",
+   "answer": "Check the operator's investor presentations or state regulatory permit and completion records for your section, or ask the operator directly through your division order contact. A DUC on your tract is future production a trailing-production-only offer may not reflect, so it's worth confirming before you value an offer."
+  },
+  {
+   "question": "What's the biggest mistake Permian mineral owners make when selling?",
+   "answer": "Valuing the interest off one recent high check rather than the trend, or off the gross number on the check stub rather than net after post-production deductions. A buyer's offer is built on the net cash flow trend across multiple wells and multiple horizons, so comparing offers against that same basis avoids sticker-shock disappointment."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1193,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-permian-basin-selloilroyaltiesnow-com.jpg",
+  "alt": "Permian Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

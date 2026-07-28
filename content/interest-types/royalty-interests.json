@@ -1,0 +1,80 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "primaryKeyword": "oil royalty interest explained",
+ "metaTitle": "Royalty Interests Explained | How Oil Checks Work",
+ "metaDescription": "Learn what a royalty interest is, how it's carved from a lease, and why your monthly oil check falls as the well moves through its decline curve.",
+ "heroLead": "Every dollar in your royalty check is a percentage of what the well produced, priced at whatever oil sold for that month, times a share that shrinks as the well ages.",
+ "intro": [
+  "A royalty interest is the share of production revenue reserved to the mineral owner when they lease to an operator, free of the cost of drilling and operating the well. It is the most common form of income a mineral owner receives, and it is also the interest type most directly exposed to a well's decline curve, since your check moves in lockstep with production and price.",
+  "This page breaks down what actually determines the size of your check, why it declines the way it does, and what to watch for if you are deciding whether to keep collecting it or sell the remaining stream."
+ ],
+ "sections": [
+  {
+   "heading": "The three numbers behind every royalty check",
+   "paragraphs": [
+    "Your monthly payment is a function of three things: how much oil the well produced that month, what price it sold for, and your royalty fraction as stated in the lease, commonly an eighth, a sixth, or a quarter, though modern leases increasingly run higher. Multiply those together and you get your check, before any severance tax or post-production cost deductions the lease allows.",
+    "Because two of those three inputs, volume and price, move independently every month, your check can look erratic even on a well that is behaving normally. Learning to separate a temporary price swing from an actual production decline is the key skill in reading your own statements."
+   ]
+  },
+  {
+   "heading": "Why royalty owners feel the decline curve directly",
+   "paragraphs": [
+    "Unlike a working interest owner, you bear none of the drilling or operating cost, but you also have no say in when or whether the operator drills an offset well to slow the decline. Your royalty simply reflects whatever the well does, month after month, following the classic pattern of a sharp initial decline followed by a long, low tail.",
+    "This is why royalty owners on older wells often see checks that have fallen sixty, seventy, even eighty percent from their peak years earlier. That is normal reservoir behavior, not a sign anything has gone wrong with your interest or your paperwork."
+   ]
+  },
+  {
+   "heading": "Reading your division order and check stub correctly",
+   "paragraphs": [
+    "Your division order states your decimal interest, the fraction of the well's production allocated to you specifically, based on your royalty fraction and your share of the mineral acreage within the drilling unit. Check stubs typically break out gross volume, price, deductions, and your net payment separately, which is where the useful trend data lives.",
+    "Track net payment over time rather than any single month's number, and you will see the decline curve clearly within a year or two of statements, even through normal price volatility."
+   ]
+  },
+  {
+   "heading": "Selling a royalty interest versus continuing to collect",
+   "paragraphs": [
+    "A buyer pricing your royalty interest is doing essentially the same exercise you would do yourself: projecting the well's remaining decline forward, applying a reasonable price assumption, and discounting that stream to a present value. The further along the decline curve your well already is, the more that lump sum starts to look competitive against years of a shrinking check.",
+    "For owners with several small royalty interests across different wells, comparing each one's recent trend individually, rather than treating them as one lump asset, usually produces a clearer decision about which, if any, are worth selling now."
+   ]
+  },
+  {
+   "heading": "Reading a decline curve like an engineer would",
+   "paragraphs": [
+    "Engineers typically describe decline in three phases: an initial steep drop in the first one to three years as reservoir pressure falls fastest, a transitional middle period where the rate of decline itself slows, and a long, shallow tail that can continue for decades at a small fraction of peak output. Most royalty owners only ever experience the middle and tail phases directly, since the steep initial decline often happens before family members are even paying close attention to the new well.",
+    "Recognizing which phase your well is in helps set realistic expectations. A well still in its transitional period may have meaningfully more decline ahead than a well that has clearly settled into its long tail, even if both are currently paying similar monthly amounts."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check drop even though oil prices went up?",
+   "answer": "Production volume likely fell faster than price rose. Wells decline steadily regardless of price, so a rising price can mask, but not reverse, an underlying production decline."
+  },
+  {
+   "question": "What deductions typically come out of a royalty check?",
+   "answer": "Severance taxes are common everywhere, and many leases also allow post-production cost deductions for gathering, processing, and transportation, depending on the specific lease language."
+  },
+  {
+   "question": "How do I calculate my decimal interest?",
+   "answer": "It's generally your royalty fraction multiplied by your share of the mineral acreage within the well's drilling or spacing unit. Your division order states the final calculated number directly."
+  },
+  {
+   "question": "Is a royalty interest the same as owning the well?",
+   "answer": "No. A royalty interest is a share of production revenue free of drilling and operating costs. Owning the well itself, and bearing those costs, is a working interest, a different and much less common ownership type for individual mineral owners."
+  },
+  {
+   "question": "Is it normal for my royalty check to vary a lot month to month?",
+   "answer": "Yes, especially early in a well's life, since both price and volume swing independently. Looking at a rolling average over several months gives a clearer read than any single statement."
+  }
+ ],
+ "status": "written",
+ "wordCount": 934,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-selloilroyaltiesnow-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

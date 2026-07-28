@@ -1,0 +1,550 @@
+{
+  "refhost": "gomspace-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "chrome": {
+    "header": {
+      "selector": "header.site-header",
+      "tag": "header",
+      "strip_global": [
+        "#cookie-notice",
+        "#cookie-information-template-wrapper",
+        "iframe[name='cookie-information-sharinglibrary-iframe']",
+        ".cky-consent-container",
+        ".grecaptcha-badge"
+      ],
+      "strip": [
+        ".sub-menu",
+        ".toggle-submenu",
+        ".site-header__buttons .wp-block-button:nth-child(1)",
+        ".site-header__buttons .wp-block-button:nth-child(2)",
+        ".site-header__search",
+        ".search-modal"
+      ],
+      "logo_slots": [
+        ".site-logo",
+        ".site-logo--dark"
+      ],
+      "nav_link_selector": ".site-navigation-primary > li > a.menu-item__link",
+      "ensure_nav": true,
+      "utility_links": {
+        "selector": ".site-header__buttons a",
+        "keep": [
+          ["Read the Curve", "/contact"]
+        ]
+      },
+      "mobile_menu_slot": ".site-navigation-burger-wrap",
+      "burger_selector": ".site-header__toggle-menu",
+      "burger_slot": ".site-header__nav-wrapper",
+      "repair_css": "header.site-header{z-index:1000!important}header.site-header .site-header__main{width:100%!important}header.site-header .rr-wordmark{display:flex!important;flex-direction:column!important;justify-content:center!important;color:#fff!important;text-decoration:none!important;line-height:.88!important;letter-spacing:-.04em!important;font-weight:800!important;min-width:152px!important}header.site-header .rr-wm-1{font-size:21px!important}header.site-header .rr-wm-2{font-size:21px!important}header.site-header .site-logo--dark.rr-wordmark{display:none!important;color:#061c4b!important}header.site-header .site-navigation-primary>li:empty{display:none!important}header.site-header .site-navigation-primary>li>a.menu-item__link{white-space:nowrap!important}header.site-header .site-header__buttons a{white-space:nowrap!important}.rr-burger{min-width:48px!important;min-height:48px!important}@media(max-width:1180px){header.site-header .site-navigation-primary>li>a.menu-item__link{font-size:13px!important;padding-left:8px!important;padding-right:8px!important}}@media(max-width:900px){header.site-header .site-header__buttons-wrapper,header.site-header .site-header__nav-wrapper,header.site-header .site-header__actions-wrapper{display:none!important}header.site-header .site-header__inner{width:100%!important;max-width:none!important}header.site-header .site-header__main{display:flex!important;align-items:center!important;justify-content:space-between!important}header.site-header .rr-burger{position:relative!important;inset:auto!important;display:flex!important;margin-left:auto!important;color:#fff!important;z-index:2!important}}"
+    },
+    "footer": {
+      "selector": "footer.site-footer",
+      "tag": "footer",
+      "strip": [
+        ".site-footer__media",
+        ".site-footer__headquarters",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "iframe",
+        "script",
+        "noscript"
+      ],
+      "link_map": {
+        "(+45) 71 741 741": ["701-555-1017", "tel:+17015551017"],
+        "info@gomspace.com": ["transactions@selloilroyaltiesnow.com", "mailto:transactions@selloilroyaltiesnow.com"],
+        "sales@gomspace.com": ["Read the Curve", "/contact"]
+      },
+      "heading_map": {
+        "Contact": "ROYALTY REVIEW"
+      },
+      "regex_text_map": {
+        "\\+45": "701-555-1017"
+      },
+      "columns": [
+        {
+          "heading": "OWNERSHIP",
+          "links": [
+            ["Owner Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Oil and Gas Basins", "/basins"]
+          ]
+        },
+        {
+          "heading": "READ THE FILE",
+          "links": [
+            ["Royalty Resources", "/resources"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange", "/exchange-1031"],
+            ["State Guides", "/locations"]
+          ]
+        },
+        {
+          "heading": "COMPANY",
+          "links": [
+            ["About", "/about"],
+            ["Contact", "/contact"],
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"]
+          ]
+        }
+      ],
+      "column_selector": ".site-footer__navigation > li",
+      "column_heading_selector": ":scope > a",
+      "replace_column_siblings": false,
+      "ensure_ia": true,
+      "repair_css": "footer.site-footer{display:block!important;position:relative!important;background:#061c4b!important;color:#fff!important}footer.site-footer img,footer.site-footer picture,footer.site-footer svg,footer.site-footer video,footer.site-footer source,footer.site-footer canvas,footer.site-footer iframe{display:none!important}footer.site-footer .site-footer__main{display:grid!important;grid-template-columns:minmax(220px,.75fr) minmax(0,1.6fr)!important;gap:clamp(42px,7vw,110px)!important}footer.site-footer .site-footer__navigation{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:32px!important}footer.site-footer a{color:#fff!important;overflow-wrap:anywhere!important}.rr-footer-ia{display:none!important}@media(max-width:820px){footer.site-footer .site-footer__main{grid-template-columns:1fr!important}footer.site-footer .site-footer__navigation{grid-template-columns:1fr!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "GomSpace",
+      "Gom Space",
+      "gomspace\\.com"
+    ],
+    "content": [
+      "WE MAKE SPACE YOURS",
+      "Protecting Your space",
+      "Securing Your Sovereignty",
+      "Need a satellite",
+      "Satellite projects",
+      "Building blocks for spacecrafts",
+      "Satellite products",
+      "Satellites in orbit",
+      "Satellite operations",
+      "advanced missions",
+      "PLATFORM KITS",
+      "NEWS & InSIGHTS",
+      "join OUR UPCOMING NEWSLETTER",
+      "Space proven products",
+      "Years in orbit",
+      "Satellites launched into orbit",
+      "Global leader of small satellite solutions",
+      "COMPANY INFORMATION",
+      "OUR MISSION",
+      "Need more information",
+      "Corporate Group",
+      "Subsidiary",
+      "FOLLOW US ON",
+      "FLIGHT-PROVEN TECHNOLOGY",
+      "top five products",
+      "NanoPower",
+      "NanoCom",
+      "NanoMind",
+      "electrical power system",
+      "Software Defined Radio",
+      "Key features",
+      "Related products",
+      "Add to quote",
+      "Power Systems",
+      "Communication Systems",
+      "Command & Data Handling",
+      "Attitude & orbit Control System",
+      "Satellite Structures",
+      "Ground segment",
+      "Aalborg",
+      "Denmark",
+      "Luxembourg",
+      "Sweden"
+    ],
+      "strip_selectors": [
+        "#cookie-notice",
+        "#cookie-information-template-wrapper",
+        "iframe[name='cookie-information-sharinglibrary-iframe']",
+        ".cky-consent-container",
+      ".grecaptcha-badge",
+      "body > img",
+      "img[width=\"1\"]",
+      "img[height=\"1\"]",
+      "iframe[src*=\"googletagmanager\"]",
+      "iframe[src=\"about:blank\"]"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "onetrust",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "youtube",
+      "gform"
+    ],
+    "social_pattern": "facebook\\.com|instagram\\.com|linkedin\\.com|twitter\\.com|x\\.com|youtube\\.com"
+  },
+  "buttons": {
+    "class": "wp-block-button__link wp-element-button"
+  },
+  "forms": {
+    "wrap_class": "gform_wrapper",
+    "form_class": "gform_fields top_label form_sublabel_below description_below validation_below",
+    "input_class": "large",
+    "group_class": "gfield gfield--width-full"
+  },
+  "scripts": "strip",
+  "pages": {
+    "home": {
+      "strip": [
+        ".page-entry-content > h2:nth-of-type(2)",
+        ".page-entry-content > h2:nth-of-type(3)",
+        ".page-entry-content > .form-container",
+        ".page-entry-content > .wp-block-group:last-child"
+      ],
+      "sections": [
+        {
+          "selector": ".page-entry-content > .hero",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "home_title"},
+            {"sel": "h2", "nth": 0, "copy": "hero_line_1"},
+            {"sel": "h2", "nth": 1, "copy": "hero_line_2"},
+            {"sel": "h2", "nth": 2, "copy": "hero_line_3"},
+            {"sel": "h2", "nth": 3, "copy": "hero_line_4"},
+            {"sel": "h2", "nth": 4, "copy": "hero_line_5"},
+            {"sel": "h2", "nth": 5, "copy": "hero_line_6"},
+            {"sel": "h2", "nth": 6, "copy": "hero_line_7"},
+            {"sel": "h2", "nth": 7, "copy": "hero_line_8"},
+            {"sel": "h2", "nth": 8, "copy": "hero_line_9"},
+            {"sel": ".hero__inner > p", "copy": "home_intro"},
+            {"sel": ".hero__media img", "img": "/ours/pages/mineral-rights-pages-home-selloilroyaltiesnow-com.jpg", "alt": "Sell oil royalties in Williston, North Dakota"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content .entry-cards",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 3,
+          "heading": ".__none__",
+          "card": ".entry-cards__card",
+          "clear_selector": ".entry-cards__card",
+          "card_fields": {
+            "title": ".entry-cards__title",
+            "category": ".entry-cards__description > p:first-child",
+            "sub": ".entry-cards__description > p:nth-of-type(2)",
+            "more": ".wp-block-button__link",
+            "image": ".entry-cards__media img",
+            "summary_chars": 190
+          }
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-group > .wp-block-media-text:nth-of-type(1)",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".wp-block-heading", "copy": "home_basins_title"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 0, "copy": "home_basins"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 1, "copy": "home_basins_detail"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 2, "drop": true},
+            {"sel": ".wp-block-button__link", "text": "Explore Oil and Gas Basins", "href": "/basins"},
+            {"sel": ".wp-block-media-text__media img", "img": "/ours/basins/mineral-rights-basins-bakken-selloilroyaltiesnow-com.jpg", "alt": "Bakken oil wells and royalty decline curves"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-group > .wp-block-media-text:nth-of-type(2)",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".wp-block-heading", "copy": "home_resources_title"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 0, "copy": "home_resources"},
+            {"sel": ".wp-block-button__link", "text": "Open the Royalty Field Guide", "href": "/resources"},
+            {"sel": ".wp-block-media-text__media img", "img": "/ours/resources/mineral-rights-resources-royalty-statements-guide-selloilroyaltiesnow-com.jpg", "alt": "Oil royalty statements and owner records"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-group > .wp-block-cover",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".wp-block-cover__image-background", "img": "/ours/locations/sell-mineral-rights-north-dakota.jpg", "alt": "Oil royalty interests in North Dakota"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > h2:first-of-type",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "copy": "home_investing_title"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .post-query",
+          "action": "card-grid",
+          "source": "investing",
+          "limit": 8,
+          "mark_band": false,
+          "heading": ".__none__",
+          "card": ".swiper-wrapper > .swiper-slide",
+          "clear_selector": ".swiper-wrapper > .swiper-slide",
+          "card_fields": {
+            "title": ".post-card__title",
+            "category": ".post-card__date",
+            "sub": ".post-card__excerpt",
+            "image": ".post-card__img",
+            "summary_chars": 150
+          }
+        },
+        {
+          "action": "clone-band",
+          "clone_of": ".page-entry-content .entry-cards",
+          "insert_after": ".page-entry-content > .post-query",
+          "source": "interest-types",
+          "inner": "card-grid",
+          "limit": 3,
+          "heading": ".__none__",
+          "card": ".entry-cards__card",
+          "clear_selector": ".entry-cards__card",
+          "card_fields": {
+            "title": ".entry-cards__title",
+            "category": ".entry-cards__description > p:first-child",
+            "sub": ".entry-cards__description > p:nth-of-type(2)",
+            "more": ".wp-block-button__link",
+            "image": ".entry-cards__media img",
+            "summary_chars": 190
+          }
+        },
+        {
+          "action": "clone-band",
+          "clone_of": ".page-entry-content > .wp-block-group > .wp-block-media-text:nth-of-type(1)",
+          "insert_after": "[data-rr-band='interest-types']",
+          "source": "locations",
+          "inner": "relabel",
+          "ops": [
+            {"sel": ".wp-block-heading", "copy": "home_locations_title"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 0, "copy": "home_locations"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 1, "drop": true},
+            {"sel": ".wp-block-button__link", "text": "Explore State Guides", "href": "/locations"},
+            {"sel": ".wp-block-media-text__media img", "img": "/ours/locations/sell-mineral-rights-north-dakota.jpg", "alt": "North Dakota oil royalty ownership"}
+          ]
+        },
+        {
+          "action": "clone-band",
+          "clone_of": ".page-entry-content > .post-query",
+          "insert_after": "[data-rr-band='locations']",
+          "source": "exchange-1031",
+          "inner": "card-grid",
+          "mark_band": false,
+          "limit": 8,
+          "heading": ".__none__",
+          "card": ".swiper-wrapper > .swiper-slide",
+          "clear_selector": ".swiper-wrapper > .swiper-slide",
+          "card_fields": {
+            "title": ".post-card__title",
+            "category": ".post-card__date",
+            "sub": ".post-card__excerpt",
+            "image": ".post-card__img",
+            "summary_chars": 150
+          }
+        },
+        {
+          "action": "clone-band",
+          "clone_of": ".page-entry-content > .wp-block-group > .wp-block-media-text:nth-of-type(2)",
+          "insert_after": "[data-rr-clone='exchange-1031']",
+          "copy": "home_about",
+          "inner": "relabel",
+          "ops": [
+            {"sel": ".wp-block-heading", "copy": "home_about_title"},
+            {"sel": ".wp-block-media-text__content > p", "nth": 0, "copy": "home_about"},
+            {"sel": ".wp-block-button__link", "text": "About the Curve Method", "href": "/about"},
+            {"sel": ".wp-block-media-text__media img", "img": "/ours/pages/mineral-rights-pages-about-selloilroyaltiesnow-com.jpg", "alt": "Oil royalty production notebook"}
+          ]
+        }
+      ],
+      "semantic_title_selector": ".page-entry-content > .hero h1",
+      "carousels": [
+        {
+          "selector": ".page-entry-content > .post-query",
+          "type": "swiper",
+          "slides": ".swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 4
+        },
+        {
+          "selector": "[data-rr-clone='exchange-1031']",
+          "type": "swiper",
+          "slides": ".swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 4
+        }
+      ],
+      "repair_css": ".hero__media>img,.hero__media img{display:block!important;position:absolute!important;inset:0!important;width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important}.page-entry-content .show-animation,.page-entry-content .has-animation{opacity:1!important;visibility:visible!important;transform:none!important}.entry-cards__media img,.wp-block-media-text__media img,.wp-block-cover__image-background{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}.post-query .swiper-wrapper{display:flex!important;transition:transform .45s ease!important}.post-query .swiper-slide{flex:0 0 calc(25% - 18px)!important;width:auto!important;opacity:1!important;visibility:visible!important;transform:none!important}.post-query .post-card__img{display:block!important;width:100%!important;min-height:300px!important;object-fit:cover!important}.post-query .post-card__excerpt{white-space:normal!important;overflow:visible!important}.page-entry-content>[data-rr-band],.page-entry-content>[data-rr-clone]{margin-top:clamp(48px,7vw,108px)!important;margin-bottom:clamp(48px,7vw,108px)!important}@media(max-width:900px){.post-query .swiper-slide{flex-basis:calc(50% - 12px)!important}}@media(max-width:620px){.post-query .swiper-slide{flex-basis:100%!important}}"
+    },
+    "about": {
+      "title": ".page-entry-content > .hero h1",
+      "hero_image": ".page-entry-content > .hero .hero__media img",
+      "sections": [
+        {
+          "selector": ".page-entry-content",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope > .hero h1", "copy": "about_title"},
+            {"sel": ":scope > .hero .hero__media img", "img": "/ours/pages/mineral-rights-pages-about-selloilroyaltiesnow-com.jpg", "alt": "About Sell Oil Royalties"},
+            {"sel": ":scope > p", "nth": 0, "copy": "about_kicker"},
+            {"sel": ":scope > h2", "nth": 0, "copy": "about_block_0_title"},
+            {"sel": ":scope > p", "nth": 1, "copy": "about_block_0"},
+            {"sel": ":scope > p", "nth": 2, "copy": "about_mission_kicker"},
+            {"sel": ":scope > h2", "nth": 1, "copy": "about_block_1_title"},
+            {"sel": ":scope > p", "nth": 3, "copy": "about_block_1"},
+            {"sel": ":scope > p", "nth": 4, "copy": "about_block_2"},
+            {"sel": ":scope > p", "nth": 5, "copy": "about_statement"},
+            {"sel": ":scope > .wp-block-group:last-child h2", "nth": 0, "copy": "about_block_3_title"},
+            {"sel": ":scope > .wp-block-group:last-child h2", "nth": 1, "copy": "about_block_4_title"},
+            {"sel": ":scope > .wp-block-group:last-child .testimonial__quote-text", "copy": "about_block_4"}
+          ]
+        }
+      ],
+      "repair_css": ".page-entry-content>.hero .hero__media img{display:block!important;position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important}.page-entry-content .show-animation,.page-entry-content .has-animation{opacity:1!important;visibility:visible!important;transform:none!important}.page-entry-content>p{max-width:920px!important;margin-left:auto!important;margin-right:auto!important;font-size:clamp(18px,1.65vw,25px)!important;line-height:1.55!important}.page-entry-content>.wp-block-group:last-child h2{overflow-wrap:normal!important;word-break:normal!important}"
+    },
+    "contact": {
+      "sections": [
+        {
+          "selector": ".page-entry-content > .hero",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "contact_title"},
+            {"sel": ".hero__media img", "img": "/ours/pages/mineral-rights-pages-contact-selloilroyaltiesnow-com.jpg", "alt": "Contact Sell Oil Royalties"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > h2",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "copy": "contact_form_title"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .form-container",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".gform_required_legend", "text": "Required fields are marked *"},
+            {"sel": ".gfield--type-address > legend", "text": "Operator or payor"},
+            {"sel": "input[type='hidden']", "drop": true}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-columns",
+          "action": "relabel",
+          "html_self": "<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><h2 class=\"wp-block-heading\">WILLISTON REVIEW POINT</h2><p class=\"wp-block-paragraph\">A deed, division order, check detail, well name, API number, lease, probate record, trust record, or written offer can start the review. The map marks the local review point without publishing the street address as page copy. Share only the records relevant to the interest and remove sensitive payment or account numbers before sending.</p><iframe title=\"Google Maps location for Sell Oil Royalties\" src=\"https://www.google.com/maps?q=113%204th%20St%20E%2C%20Williston%2C%20ND%2058801&amp;output=embed\" width=\"100%\" height=\"520\" loading=\"lazy\" style=\"border:0\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>"
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-columns",
+          "action": "drop",
+          "nth": 1
+        }
+      ],
+      "strip": [
+        "iframe#gform_ajax_frame_10",
+        ".page-entry-content > .icon-links",
+        ".page-entry-content > h2.spacing-before--10"
+      ],
+      "form_slot": ".page-entry-content > .form-container form#gform_10",
+      "reuse_form": true,
+      "control_selector": "input:not([type='hidden']):not([type='submit']):not([type='checkbox']),select,textarea",
+      "field_limit": 8,
+      "consent_selector": ".gfield_consent_label",
+      "consent_limit": 1,
+      "consent": "Contact is authorized for this royalty inquiry.",
+      "submit_label": "Read the Curve",
+      "repair_css": ".page-entry-content>.hero .hero__media img{display:block!important;position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important}.page-entry-content .show-animation,.page-entry-content .has-animation{opacity:1!important;visibility:visible!important;transform:none!important}.form-container form{display:block!important}.form-container .gform_fields{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:24px!important}.form-container .gfield{display:block!important;width:auto!important;min-width:0!important}.form-container .gfield:nth-last-child(-n+4){grid-column:1/-1!important}.form-container input:not([type='checkbox']),.form-container select,.form-container textarea{display:block!important;width:100%!important;box-sizing:border-box!important}.form-container textarea{min-height:170px!important}.page-entry-content>.wp-block-columns{display:block!important}.page-entry-content>.wp-block-columns>.wp-block-column{width:100%!important;max-width:1240px!important;margin:0 auto!important}.page-entry-content iframe[src*='google.com/maps']{display:block!important;width:100%!important;min-height:520px!important;margin-top:36px!important;border:0!important}@media(max-width:700px){.form-container .gform_fields{grid-template-columns:1fr!important}.form-container .gfield{grid-column:1!important}}"
+    },
+    "index": {
+      "strip": [
+        ".page-entry-content > .counter",
+        ".page-entry-content > .wp-block-group:last-child"
+      ],
+      "sections": [
+        {
+          "selector": ".page-entry-content > .hero",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".wp-block-button__link", "copy": "hero_cta", "href": "/contact"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-group:first-of-type",
+          "action": "relabel",
+          "ops": [
+            {"sel": "figure", "drop": true},
+            {"sel": ":scope > p", "copy": "index_kicker"},
+            {"sel": ":scope > h2", "copy": "index_promise_title"},
+            {"sel": ".testimonial__quote-text", "copy": "index_promise"}
+          ]
+        },
+        {
+          "selector": ".page-entry-content > .wp-block-buttons",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".wp-block-button__link", "nth": 0, "text": "Owner Situations", "href": "/situations"},
+            {"sel": ".wp-block-button__link", "nth": 1, "text": "Interest Types", "href": "/interest-types"},
+            {"sel": ".wp-block-button__link", "nth": 2, "text": "Oil and Gas Basins", "href": "/basins"},
+            {"sel": ".wp-block-button__link", "nth": 3, "text": "Royalty Resources", "href": "/resources"},
+            {"sel": ".wp-block-button__link", "nth": 4, "text": "Mineral Investing", "href": "/investing"},
+            {"sel": ".wp-block-button__link", "nth": 5, "text": "1031 Exchange", "href": "/exchange-1031"},
+            {"sel": ".wp-block-button__link", "nth": 6, "text": "State Guides", "href": "/locations"}
+          ]
+        }
+      ],
+      "hero_heading": ".page-entry-content > .hero .wp-block-heading",
+      "hero_meta": ".page-entry-content > .hero .hero__inner > p",
+      "hero_image": ".page-entry-content > .hero .hero__media img",
+      "heading": ".page-entry-content > h2",
+      "grid": ".page-entry-content",
+      "card": ".wp-block-media-text",
+      "clear_selector": ".wp-block-media-text",
+      "template_cycle": true,
+      "card_fields": {
+        "title": ".wp-block-heading",
+        "category": ".wp-block-media-text__content > p:first-child",
+        "sub": ".wp-block-media-text__content > p:nth-of-type(2)",
+        "more": ".wp-block-button__link",
+        "image": ".wp-block-media-text__media img",
+        "summary_chars": 260
+      },
+      "semantic_title_selector": ".page-entry-content > .hero .wp-block-heading",
+      "repair_css": ".page-entry-content>.hero .hero__media img{display:block!important;position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important}.page-entry-content .show-animation,.page-entry-content .has-animation{opacity:1!important;visibility:visible!important;transform:none!important}.wp-block-media-text__media img{display:block!important;width:100%!important;height:100%!important;min-height:520px!important;object-fit:cover!important}.wp-block-media-text__content p{white-space:normal!important;overflow:visible!important}.page-entry-content>.wp-block-buttons{gap:12px!important;padding-left:24px!important;padding-right:24px!important}"
+    },
+    "slug": {
+      "title": ".hero-product h1",
+      "tax_heading": ".hero-product .breadcrumbs a",
+      "breadcrumb_last": ".hero-product .breadcrumb_last",
+      "hero_meta": ".hero-product__content > p.wp-block-paragraph",
+      "hero_meta_full": true,
+      "hero_cta": ".hero-product .wp-block-button__link",
+      "hero_image": ".hero-product__media img",
+      "prose": ".page-entry-content > .wp-block-group:first-of-type",
+      "prose_block": ".media-text-secondary",
+      "prose_block_heading": ".media-text-secondary__content-inner > h2",
+      "prose_block_body": ".media-text-secondary__content-inner > p.wp-block-paragraph:not(.has-label-font-size)",
+      "prose_block_eyebrow": ".media-text-secondary__content-inner > p.has-label-font-size",
+      "prose_block_eyebrow_text": "OWNER NOTE",
+      "prose_block_image": ".media-text-secondary__gallery img",
+      "alternate_prose_media": true,
+      "prose_media_right_class": "has-media-right",
+      "skip_related_in_prose": true,
+      "strip": [
+        ".page-entry-content > .wp-block-group:nth-of-type(2)",
+        ".page-entry-content > h2",
+        ".page-entry-content > .post-query",
+        ".page-entry-content > .form-container"
+      ],
+      "semantic_title_selector": ".hero-product h1",
+      "repair_css": ".hero-product__media img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}.page-entry-content .show-animation,.page-entry-content .has-animation{opacity:1!important;visibility:visible!important;transform:none!important}.media-text-secondary{display:grid!important;grid-template-columns:1fr 1fr!important;align-items:stretch!important;min-height:560px!important}.media-text-secondary:not(.has-media-right) .media-text-secondary__content{order:2!important}.media-text-secondary:not(.has-media-right) .media-text-secondary__gallery{order:1!important}.media-text-secondary__content{display:flex!important;align-items:center!important;width:100%!important}.media-text-secondary__content-inner{width:100%!important}.media-text-secondary__gallery,.media-text-secondary__gallery .swiper,.media-text-secondary__gallery .swiper-wrapper,.media-text-secondary__gallery .swiper-slide{display:block!important;width:100%!important;height:100%!important;min-height:560px!important;opacity:1!important;visibility:visible!important;transform:none!important}.media-text-secondary__gallery .swiper-slide:not(:has(img)){display:none!important}.media-text-secondary__gallery img{display:block!important;width:100%!important;height:100%!important;min-height:560px!important;object-fit:cover!important}.media-text-secondary__content-inner>div>p{font-size:18px!important;line-height:1.7!important}.media-text-secondary__content-inner>div>h3{margin-top:28px!important}.media-text-secondary__gallery .swiper-controls-wrapper,.media-text-secondary__gallery .swiper-notification{display:none!important}@media(max-width:800px){.media-text-secondary{grid-template-columns:1fr!important}.media-text-secondary__content,.media-text-secondary__gallery{order:initial!important}.media-text-secondary__gallery,.media-text-secondary__gallery .swiper,.media-text-secondary__gallery .swiper-wrapper,.media-text-secondary__gallery .swiper-slide,.media-text-secondary__gallery img{min-height:340px!important}}"
+    },
+    "legal_template": "about"
+  },
+  "final_repair_css": "html,body{overflow-x:clip!important;max-width:100%!important}img{max-width:100%}body>img[width='1'],body>img[height='1']{display:none!important}main img{opacity:1!important;visibility:visible!important}.wp-block-button__link{cursor:pointer!important}.rr-wordmark{font-family:inherit!important}.rr-footer-ia{gap:12px 24px!important}.site-footer__contact a{display:block!important;margin-top:10px!important}",
+  "notes": [
+    "The map preserves GomSpace's actual five captured templates and their component cadence.",
+    "The home hero retains all nine donor tagline positions while giving the page exactly one SEO H1.",
+    "The product index cycles all five donor alternating media templates instead of flattening cards.",
+    "The contact page reuses the native Gravity Forms geometry and publishes one map with no visible address.",
+    "Footer media is structurally stripped and suppressed by the project configuration."
+  ]
+}

@@ -1,0 +1,11 @@
+content
+images
+qa-out
+scripts
+*.html.ref
+AGENTS.md
+build.sh
+home.config.json
+site-voice.json
+site.json
+data

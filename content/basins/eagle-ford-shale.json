@@ -1,0 +1,79 @@
+{
+ "slug": "eagle-ford-shale",
+ "title": "Eagle Ford Shale Mineral Rights",
+ "type": "basin",
+ "group": "TX",
+ "primaryKeyword": "eagle ford shale mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Eagle Ford Shale Mineral Rights: Sell Oil Royalties",
+ "metaDescription": "Own Eagle Ford Shale oil royalties in South Texas? Learn how the oil, condensate, and gas windows differ and what that means for your check.",
+ "heroLead": "The Eagle Ford runs across South Texas in three distinct bands, oil, condensate, and dry gas, and which band your acreage sits in changes almost everything about how your royalty behaves.",
+ "intro": [
+  "The Eagle Ford Shale trends in a belt across South Texas roughly from the Mexican border up toward the Austin area, and it's unusual among major U.S. plays because it isn't one uniform product mix. Depending on depth and thermal maturity, the same formation produces black oil in the updip northwest, a rich mix of oil and natural gas liquids in the middle condensate window, and predominantly dry gas further downdip to the southeast.",
+  "If you own royalty here, knowing which window your specific acreage falls in matters more than almost anywhere else, because it determines whether your check tracks oil prices, NGL prices, gas prices, or some blend of all three, and that in turn shapes what decline pattern and what sale timing make sense."
+ ],
+ "sections": [
+  {
+   "heading": "Three windows, three different royalty streams",
+   "paragraphs": [
+    "In the oil window, your check behaves like classic shale oil royalty: a steep first-year decline, often 65 to 70 percent, followed by a long lower-volume tail, with monthly value tracking crude oil prices closely. Counties in the northwestern part of the trend are generally in or near this window.",
+    "In the condensate window, wells produce a mix of light oil, natural gas liquids like propane and butane, and associated gas, so your check may show several product lines rather than one, each priced differently and each with its own decline behavior. NGL prices don't always move in lockstep with crude, which can make a condensate-window check look less predictable than a straightforward oil check even when the underlying well is performing normally.",
+    "In the dry gas window further southeast, royalty tracks natural gas prices primarily, and the economics of drilling there depend much more on gas price cycles than on oil price cycles, which matters if you're trying to anticipate future development pace on your specific tract."
+   ]
+  },
+  {
+   "heading": "Why the Eagle Ford's early boom still shows up on checks today",
+   "paragraphs": [
+    "The Eagle Ford saw an intense drilling boom roughly between 2010 and 2015, and a large share of the wells drilled during that window are now well past their steep decline and into long, low-volume tail production. If your royalty has been relatively flat and modest for several years, it may simply be mature tail production from boom-era wells rather than a sign of anything wrong.",
+    "At the same time, operators have continued periodic refracturing of some older wellbores, essentially re-stimulating a mature well with a fresh frac job, which can produce a noticeable but temporary bump in your check that behaves like a smaller version of the original completion's decline curve. If you see an unexplained jump on a well you thought was in steady decline, a refrac is one of the more common Eagle Ford explanations."
+   ]
+  },
+  {
+   "heading": "Reading condensate and NGL line items",
+   "paragraphs": [
+    "If your acreage falls in the condensate window, take time to separate the product lines on your check detail rather than looking only at the total. Crude oil, condensate, and NGLs are typically priced and reported separately, and NGL pricing in particular can lag or diverge from crude oil pricing depending on regional processing and pipeline capacity for those liquids.",
+    "This separation matters when you're comparing your royalty income to what a buyer offers, since a buyer's valuation will typically model each product stream against its own price deck and decline assumption rather than treating your check as a single oil-equivalent number. Understanding your own product mix beforehand helps you evaluate whether an offer is pricing your interest reasonably."
+   ]
+  },
+  {
+   "heading": "Timing a sale in a mature, multi-window play",
+   "paragraphs": [
+    "Because so much of the Eagle Ford is now mature, boom-era production in its long tail, the relevant question for many owners isn't 'when will this well finish its steep decline,' since that's often already happened, but rather whether there's realistic potential for additional drilling, refracturing, or downspacing on your specific tract that could reset the curve.",
+    "Checking recent permit activity in your county, available through the Texas Railroad Commission, is a practical way to gauge whether your area is still seeing fresh investment or has largely moved into pure legacy production. Acreage with tail-only production and no nearby permit activity is valued differently than acreage where the operator is clearly still active, and that distinction should shape both your expectations and your timing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know which Eagle Ford window my royalty is in, oil, condensate, or gas?",
+   "answer": "Check your division order or check stub for the product types being paid, oil and condensate versus primarily gas, or look up your county's general position within the trend, since the windows run in roughly parallel bands from the oil-rich northwest to the gas-rich southeast."
+  },
+  {
+   "question": "Why does my check show separate lines for oil, condensate, and NGLs?",
+   "answer": "This is typical in the Eagle Ford's condensate window, where wells produce a genuine mix of products that are priced and reported separately. Each line can move somewhat independently based on its own commodity price, which is why the total can look less predictable than a pure oil check."
+  },
+  {
+   "question": "My mature well's check suddenly jumped after years of steady decline. What happened?",
+   "answer": "A refracturing of the existing wellbore is a common Eagle Ford explanation, essentially a fresh stimulation of a mature well that produces a temporary bump resembling a smaller version of the original completion curve. Check your operator communications or well records for a recent refrac before assuming it's a new well."
+  },
+  {
+   "question": "Is my Eagle Ford royalty still valuable if the well was drilled during the 2010-2015 boom?",
+   "answer": "Often yes. Many boom-era wells are now in a long, low-volume, relatively stable tail, and that steady production still has value, particularly if there's realistic potential for a refrac or offset drilling nearby to add to it."
+  },
+  {
+   "question": "How can I tell if my area still has active drilling potential?",
+   "answer": "Recent permit and completion filings through the Texas Railroad Commission for your county are the most direct way to check. Acreage with visible nearby permit activity is generally valued differently than acreage that's clearly settled into pure legacy production with no active development nearby."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1066,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-eagle-ford-shale-selloilroyaltiesnow-com.jpg",
+  "alt": "Eagle Ford Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "primaryKeyword": "sell oil working interest",
+ "metaTitle": "Working Interests Explained | Selling a WI Position",
+ "metaDescription": "Own a working interest in an oil well? Learn how cost obligations, decline, and cash calls differ from a royalty, and how WIs get valued at sale.",
+ "heroLead": "A working interest pays more per barrel than a royalty, and costs more too, right up until the well stops being worth operating.",
+ "intro": [
+  "A working interest is fundamentally different from every other interest type on this site, because it comes with cost as well as income. Working interest owners pay their proportionate share of drilling and operating expenses, and in exchange receive a larger share of production revenue than a royalty owner would, since there is no royalty burden reducing their cut.",
+  "This page explains what a working interest obligates you to, why decline hits a WI owner on both the revenue and the cost side, and how that combination gets priced when a working interest position is sold."
+ ],
+ "sections": [
+  {
+   "heading": "What owning a working interest actually obligates you to",
+   "paragraphs": [
+    "Unlike a royalty owner, a working interest owner is a co-owner of the well's operations, sharing proportionately in drilling costs, workovers, plugging obligations, and monthly operating expenses, in addition to sharing in the revenue. If the operator issues a cash call for an unbudgeted repair or a new workover, working interest owners are on the hook for their percentage share.",
+    "This is what makes a WI a fundamentally different kind of ownership from anything else discussed on this site. It carries real financial exposure on top of declining income, and that exposure does not disappear just because the well is aging."
+   ]
+  },
+  {
+   "heading": "How decline hits a working interest twice",
+   "paragraphs": [
+    "As a well ages, revenue declines the same way it would for a royalty owner, but a working interest owner also often sees operating costs stay flat or rise even as production falls, since pumping, maintenance, and regulatory compliance costs do not scale down proportionally with a shrinking output. At some point on the decline curve, the well's revenue-to-cost ratio narrows enough that the position stops being clearly profitable for the working interest owner, well before it necessarily reaches its true physical economic limit.",
+    "This is the risk unique to working interests: an aging well can flip from a net-positive position to a net-negative one, month to month, depending on repair needs and commodity prices, in a way that simply cannot happen to a royalty owner who bears no costs."
+   ]
+  },
+  {
+   "heading": "What a buyer looks at when pricing a working interest",
+   "paragraphs": [
+    "Pricing a WI position requires projecting both the revenue decline curve and the expected operating cost trend, including plugging liability at the end of the well's life, which many states require the last working interest owner to fund. That plugging obligation is a real, sometimes significant, cost that has to be netted against remaining revenue in any honest valuation.",
+    "Because of that added complexity, working interest sales typically involve more detailed financial review than a royalty sale, including recent joint interest billing statements showing actual costs, in addition to revenue statements."
+   ]
+  },
+  {
+   "heading": "Why owners sell working interests specifically",
+   "paragraphs": [
+    "Some working interest owners sell to eliminate the ongoing exposure to cash calls and eventual plugging costs, particularly on older wells where that liability is approaching. Others sell simply because managing joint interest billing and operator communications for an operating position is a meaningfully bigger administrative task than collecting a royalty check.",
+    "If you hold a working interest and are unsure whether it remains net-positive, gather your last several joint interest billing statements alongside revenue statements before deciding anything. The real picture is in the net number, not the gross revenue line alone."
+   ]
+  },
+  {
+   "heading": "How a working interest sale differs from a royalty sale at closing",
+   "paragraphs": [
+    "Assigning a working interest transfers both the right to revenue and the ongoing obligations under the operating agreement, so the buyer typically needs to be approved by, or at least acceptable to, the operator, and any joint interest billing account has to be formally transferred as of the closing date. This is a more involved handoff than a royalty assignment, which conveys income rights only.",
+    "Sellers should expect the closing paperwork to include an assignment of the working interest itself along with confirmation that outstanding joint interest billing balances are settled through the transfer date, so there is no ambiguity about who owes what after closing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the main difference between a working interest and a royalty interest?",
+   "answer": "A working interest owner shares in drilling and operating costs and typically has a larger revenue share as a result. A royalty interest owner bears no costs but receives a smaller share of production revenue."
+  },
+  {
+   "question": "Am I responsible for plugging costs as a working interest owner?",
+   "answer": "Often yes, proportionate to your interest, particularly if you are among the working interest owners in place when the well reaches the end of its productive life. This is a real, sometimes significant, obligation to plan around."
+  },
+  {
+   "question": "Can an aging well's working interest actually lose money?",
+   "answer": "Yes. As production declines while operating and repair costs stay relatively flat, a working interest position can become net-negative before the well physically stops producing, unlike a royalty interest, which never carries cost exposure."
+  },
+  {
+   "question": "What documents does a buyer need to evaluate my working interest?",
+   "answer": "Recent joint interest billing statements showing actual costs, along with revenue statements and the operating agreement, so the true net position, beyond gross revenue alone, can be assessed accurately."
+  },
+  {
+   "question": "Does the operator need to approve who I sell my working interest to?",
+   "answer": "Often yes, or at minimum needs formal notice, since the operating agreement governs how joint interest billing and operations are managed among working interest owners going forward."
+  }
+ ],
+ "status": "written",
+ "wordCount": 937,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-selloilroyaltiesnow-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

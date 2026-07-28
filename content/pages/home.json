@@ -1,0 +1,83 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "metaTitle": "Sell Oil Royalties | Direct Buyer, No Obligation",
+ "metaDescription": "Sell oil mineral rights or royalties to a direct buyer. Learn how decline curves shape your offer, get a no-obligation number, and keep 100% at closing.",
+ "heroLead": "Oil wells decline. That's not a warning, it's just how the physics works, and it's the single most useful fact for deciding whether to hold your royalty or sell it now.",
+ "intro": [
+  "If you own oil-weighted mineral or royalty interests, you've probably noticed your checks aren't flat. They peak early, then shrink, month over month, sometimes fast in the first couple of years and then more gradually after that. That's called decline, and it's normal, expected behavior for the kind of horizontal wells drilled across most producing basins today, not a sign anything's wrong with your well.",
+  "What decline means for you is timing. The remaining value in a producing interest is largest early in its life and smaller the further out on the curve you go, which is exactly why a lump-sum sale can make more sense at some points than others. We buy oil-weighted mineral and royalty interests directly, we'll walk you through where your well sits on its curve, and we'll give you a no-obligation number built from your actual documents, not a guess."
+ ],
+ "sections": [
+  {
+   "heading": "Why decline is the number that matters most",
+   "paragraphs": [
+    "A typical horizontal oil well can lose 60 to 70 percent of its initial production rate within the first year, then keep declining at a slower pace for years after. That front-loaded shape means a well's remaining lifetime value is not evenly spread out, it's concentrated earlier than most owners assume. If your checks have already dropped noticeably from their peak, a meaningful share of the well's total value may already be behind you rather than ahead, which is worth knowing before you decide whether to keep waiting on smaller checks or take a number today.",
+    "This isn't a reason to panic or to rush. It's a reason to actually look at your last several statements, side by side, and understand the shape of your own curve before deciding anything."
+   ]
+  },
+  {
+   "heading": "How we build a number",
+   "paragraphs": [
+    "We start with your documents, a deed, a division order, or a few recent royalty statements, whatever you have on hand. From there we look at your decimal interest, the well's production history, and how comparable wells in the same area have behaved as they've matured. That builds a decline-based forecast, which we weigh against current oil pricing to land on an offer, hedged to reflect that neither of us controls future commodity prices or an operator's future decisions.",
+    "We'll explain how we got to the number, plainly, and we won't pressure you to sign on a deadline that doesn't leave room to review it or compare it against another offer."
+   ]
+  },
+  {
+   "heading": "The process, start to finish",
+   "paragraphs": [
+    "Request → Records → Evaluate → Offer → Title → Close. You send us what documents you have. We pull additional county and, where relevant, operator records to fill in the picture. We evaluate the interest using your production history and decline stage. You receive a no-obligation offer with an explanation behind it. If you accept, our title team confirms ownership and resolves any curative issues. At closing, you sign, funds are disbursed, and the deed is recorded at the county courthouse, finalizing the transfer.",
+    "Closings commonly run a few weeks depending on how quickly documents come together and whether title work turns up anything that needs a fix, which is common on older, family-divided tracts and not a reason for concern."
+   ]
+  },
+  {
+   "heading": "Producing, non-producing, or somewhere in between",
+   "paragraphs": [
+    "Producing minerals with real check history are the easiest to evaluate because there's actual data behind the forecast. Non-producing minerals, land that's never been drilled, get evaluated more on nearby activity and lease potential. Held-by-production acreage under an active lease but with no current well sits in between. We work with all three, and we'll tell you plainly which bucket your interest falls into and why that shapes the range you should expect."
+   ]
+  },
+  {
+   "heading": "What we're not, and when we'd tell you not to sell",
+   "paragraphs": [
+    "We're a direct buyer, not a licensed appraiser, attorney, or CPA, and for anything requiring a formal appraisal or legal filing, that's a separate process we'll point you toward rather than pretend to substitute for. We'd also tell you plainly if your well looks early in its life with strong remaining value ahead, since that's a case where holding and collecting royalty may serve you better than selling now. A number that's honest about the downside is worth more than one that isn't."
+   ]
+  },
+  {
+   "heading": "Learn the mechanics before you decide anything",
+   "paragraphs": [
+    "Our resources library walks through how royalty statements actually read, what division orders confirm, how title transfers at closing, and how a sale is generally taxed. None of it requires an engineering background, it's written the way we'd explain it on the phone. Read as much or as little as you want before reaching out, there's no obligation attached to any of it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How fast can this actually move?",
+   "answer": "Once we have your documents, an initial offer typically comes together within days, and a full closing commonly runs a few weeks depending on title complexity, though every situation is a little different."
+  },
+  {
+   "question": "What documents do I need to get started?",
+   "answer": "Whatever you have is enough to start, a deed, a division order, or a few recent statements, and we'll help identify anything else needed as the process moves forward."
+  },
+  {
+   "question": "Do you charge any fees or commission?",
+   "answer": "No, you keep 100 percent of the agreed price at closing, there's no broker commission taken out of your proceeds."
+  },
+  {
+   "question": "What if I only own a fraction of the minerals?",
+   "answer": "That's common, especially on inherited land, and we regularly work with fractional and co-owned interests, evaluating your specific decimal share on its own."
+  },
+  {
+   "question": "Is getting an offer from you binding in any way?",
+   "answer": "No, requesting and reviewing an offer carries no obligation, and you're free to decline or walk away at any point before you sign closing documents."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1005,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-selloilroyaltiesnow-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

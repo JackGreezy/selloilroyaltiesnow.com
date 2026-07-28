@@ -1,0 +1,75 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "metaTitle": "How to Spot a Lowball Mineral Rights Offer",
+ "metaDescription": "The specific tactics that separate a lowball mineral rights offer from a fair one, and the questions that reveal which kind you're looking at.",
+ "heroLead": "A lowball offer rarely announces itself. It usually looks like an ordinary letter, quoting an ordinary-sounding number, that just happens to leave out the parts that would let you check it.",
+ "intro": [
+  "Mailbox offers are a normal part of this industry, and plenty of them are made in good faith. But the mineral space also has a well-worn set of tactics that push a number below what the underlying interest is actually worth, and most of them work not by lying outright, but by leaving out context a seller would need to evaluate the offer properly.",
+  "This guide isn't here to tell you every offer you get is bad. It's here to give you the specific things to check so you can tell the difference yourself, without needing to be an engineer."
+ ],
+ "sections": [
+  {
+   "heading": "No decline curve, no math shown",
+   "paragraphs": [
+    "A fair offer on a producing interest is built from a forecast of your specific well's remaining production, discounted to today. A lowball offer often skips that step entirely and instead multiplies your last check or two by a flat number of months, with no reference to the well's actual decline stage. If a buyer can't or won't explain roughly how they arrived at a number when you ask, that's worth noting, since a real valuation should be explainable in plain terms even if the underlying math is more detailed."
+   ]
+  },
+  {
+   "heading": "Artificial urgency and a single-use deadline",
+   "paragraphs": [
+    "Watch for language pushing you to sign within a few days to 'lock in' a number, especially paired with a claim that the price is only good because of a market condition that happens to be extremely time-sensitive. Legitimate offers can have reasonable timelines, oil prices do move, but a serious buyer will typically stand behind a number long enough for you to review your documents and, if you want, get a second opinion, without threatening that the whole offer evaporates overnight."
+   ]
+  },
+  {
+   "heading": "Vague ownership descriptions",
+   "paragraphs": [
+    "Some letters describe your tract only in broad terms, a county and a general section, without referencing your actual decimal interest or a specific well. That can mean the buyer hasn't done real title or production work yet and is fishing with a template number, hoping you'll accept before anyone checks the details. Ask directly which well or wells the offer is based on and what decimal interest they used, real numbers, and a buyer who's done the work will have a specific answer ready."
+   ]
+  },
+  {
+   "heading": "Comparing offers apples to apples",
+   "paragraphs": [
+    "The biggest mistake in comparing two offers is assuming a higher headline number is automatically better without checking what it's based on. One buyer might quote a number for your full net mineral acres while another quotes for only the producing portion, or one might include an active lease's bonus potential while another ignores it. Before comparing dollar figures side by side, confirm both offers are pricing the same interest, on the same wells, using the same acreage, or the comparison isn't telling you anything real."
+   ]
+  },
+  {
+   "heading": "What a fair offer usually looks like in writing",
+   "paragraphs": [
+    "A fair offer typically names the specific well or wells, states the decimal interest it's based on, and gives you a reasonable window, days or weeks rather than hours, to review it. It should come from a buyer willing to answer direct questions about how the number was calculated, and it should not require you to sign before you've had a chance to check it against your own statements.",
+    "If a letter checks none of those boxes, that alone doesn't mean it's a scam, but it does mean you should ask the follow-up questions before responding, rather than signing on the strength of the number alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a low offer always a lowball offer?",
+   "answer": "Not necessarily. A well genuinely late in its decline curve, or a non-producing tract with limited nearby activity, can fairly warrant a modest number, so a low number by itself isn't proof of anything, it's a reason to ask how it was calculated."
+  },
+  {
+   "question": "Should I always get a second opinion before selling?",
+   "answer": "It's a reasonable step, especially on a larger or more complicated interest, and a legitimate buyer shouldn't discourage you from comparing offers or asking questions before you decide."
+  },
+  {
+   "question": "What's the single best question to ask a buyer?",
+   "answer": "Ask them to walk through how they arrived at the number, specifically which wells, what decline assumptions, and what decimal interest they used, since a real valuation can always be explained, even briefly."
+  },
+  {
+   "question": "Do reputable buyers ever use urgency at all?",
+   "answer": "Commodity prices do move and can affect a number over time, so a reasonable timeline isn't automatically a red flag, but pressure to sign within a day or two with no room to review documents generally is."
+  },
+  {
+   "question": "How is your process different?",
+   "answer": "We'll walk you through how a number was built, using your actual statements and decimal interest, and we won't pressure you onto a deadline that doesn't give you time to review it."
+  }
+ ],
+ "status": "written",
+ "wordCount": 853,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-selloilroyaltiesnow-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

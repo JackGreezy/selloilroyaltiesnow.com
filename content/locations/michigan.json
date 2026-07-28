@@ -1,0 +1,82 @@
+{
+ "slug": "michigan",
+ "title": "Sell Mineral Rights in Michigan",
+ "type": "state",
+ "group": "Antrim shale legacy",
+ "primaryKeyword": "mineral rights michigan",
+ "seo": {
+  "vol": 140,
+  "cpc": null
+ },
+ "metaTitle": "Sell Mineral Rights in Michigan | Oil Owner Guide",
+ "metaDescription": "Michigan's Antrim play is gas, but the state's real oil legacy is the Niagaran reef trend. Learn how your check behaves and what it takes to sell.",
+ "heroLead": "The Antrim Shale gets most of the attention when people talk about Michigan oil and gas, but Antrim is a gas play. Michigan's real oil legacy sits in a different formation entirely, and knowing the difference matters for your check.",
+ "intro": [
+  "Northern Michigan's Antrim Shale, centered around Otsego, Montmorency, and Antrim counties, produces biogenic natural gas from shallow shale, and it was one of the earliest widely-developed shale gas plays in the country back in the 1980s and 1990s. If your interest is Antrim, you are a gas owner watching a mature, slowly declining play that peaked decades ago.",
+  "Michigan's actual oil production traces to a different and older story: the Niagaran reef trend, a chain of ancient buried coral reefs across the northern Lower Peninsula that has produced oil since the 1970s, along with older Albion-Scipio trend production in south-central Michigan dating back to the 1950s. If your interest is tied to one of these reef fields, this page explains how that oil production behaves and what a fair offer is built from."
+ ],
+ "sections": [
+  {
+   "heading": "Antrim Gas: Old, Shallow, and Slowly Declining",
+   "paragraphs": [
+    "Antrim wells produce gas that formed biologically in shallow Devonian shale rather than through the deep thermal process that created most other U.S. shale gas. Because these wells were drilled decades ago and the play has seen little new activity in recent years, most Antrim owners today are watching production well past its early decline, moving mostly with gas price rather than any changing well behavior.",
+    "Antrim wells were also drilled on relatively tight spacing during the play's development, so a single royalty interest can sometimes be tied to several nearby wells rather than just one, which is worth confirming on your division order if your statement looks more layered than you expect."
+   ]
+  },
+  {
+   "heading": "The Niagaran Reef Trend's Oil",
+   "paragraphs": [
+    "The Niagaran trend runs across the northern Lower Peninsula through counties like Otsego, Crawford, and Kalkaska, where isolated reef structures each hold their own small oil pool, discovered and developed mostly from the 1970s onward. Because each reef is essentially its own separate reservoir, decline behavior can vary noticeably from one reef field to the next, unlike a continuous shale play where wells behave more uniformly.",
+    "Many of these reef fields have been on production for forty years or more and have settled into long, shallow declines typical of a mature conventional field, though the specific reef your interest sits on matters more here than in most oil plays."
+   ]
+  },
+  {
+   "heading": "Albion-Scipio and Southern Michigan Legacy Oil",
+   "paragraphs": [
+    "South-central Michigan's Albion-Scipio trend, across Hillsdale and Jackson counties, is one of the oldest oil-producing fracture trends in the state, discovered in the 1950s. Like the Niagaran fields further north, it has produced on a long, slow decline for decades, and many current royalty owners hold interests that have passed through two or three generations since the original lease was signed.",
+    "Because the trend is a narrow fracture zone rather than a broad reservoir, individual wells along it can vary a fair amount in output even though they sit only a short distance apart, which is another reason we look at your specific well's history rather than assuming the whole trend behaves identically."
+   ]
+  },
+  {
+   "heading": "Selling a Michigan Interest",
+   "paragraphs": [
+    "Because Michigan's oil production comes from individual reef and fracture-trend fields rather than one continuous play, we price interests based on the specific field's own production history and current activity, not a statewide assumption. A Niagaran reef interest with forty years of documented history is priced very differently than a newer or less-documented one.",
+    "We pull your recent royalty statements, confirm which field and formation your interest is tied to, and weigh current oil or gas pricing depending on your resource before putting together an offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Antrim Shale an oil play?",
+   "answer": "No. Antrim is a gas play, producing biogenic natural gas from shallow Devonian shale in northern Michigan. If your interest is in the Antrim, you are a gas owner, not an oil owner."
+  },
+  {
+   "question": "Where is Michigan's actual oil production?",
+   "answer": "Mainly the Niagaran reef trend across the northern Lower Peninsula, developed largely from the 1970s onward, and the older Albion-Scipio trend in south-central Michigan dating to the 1950s."
+  },
+  {
+   "question": "Why does one Michigan reef field decline differently than the reef field next to it?",
+   "answer": "Each Niagaran reef is its own isolated reservoir rather than part of one continuous formation, so decline behavior can vary meaningfully from one reef field to another, unlike a uniform shale play."
+  },
+  {
+   "question": "How old is a typical Michigan oil royalty interest?",
+   "answer": "Many trace back to leases signed in the 1950s through the 1970s, which means ownership has often split across two or three generations of heirs by now."
+  },
+  {
+   "question": "What determines an offer on my Michigan interest?",
+   "answer": "We confirm which specific field and formation your interest sits on, then price it from that field's own production history, current activity, and current oil or gas pricing depending on your resource."
+  },
+  {
+   "question": "Is new oil drilling happening in Michigan right now?",
+   "answer": "New development along the Niagaran and Albion-Scipio trends has been limited in recent years compared to the 1970s and 1980s, so most current owners are working with mature, well-documented production rather than a rapidly changing field."
+  }
+ ],
+ "status": "written",
+ "wordCount": 893,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-michigan.jpg",
+  "alt": "Sell Mineral Rights in Michigan location",
+  "width": 1600,
+  "height": 1000
+ }
+}

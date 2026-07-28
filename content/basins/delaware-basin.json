@@ -1,0 +1,78 @@
+{
+ "slug": "delaware-basin",
+ "title": "Delaware Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX/NM",
+ "primaryKeyword": "delaware basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Delaware Basin Mineral Rights: Sell Oil Royalties",
+ "metaDescription": "Own Delaware Basin mineral or royalty interest? Learn how deep-bench pressure and long laterals shape your decline curve before you sell.",
+ "heroLead": "The Delaware Basin sits deeper than its Midland neighbor, and that extra depth means higher pressures, longer laterals, and a decline curve that starts even steeper before it settles.",
+ "intro": [
+  "The Delaware Basin, the western half of the greater Permian complex reaching across far West Texas into southeast New Mexico, is known for deep, overpressured rock and some of the longest laterals being drilled in the country right now. If you own oil royalties here, those two facts, depth and lateral length, are the two things most likely to explain why your check behaves the way it does.",
+  "This page walks through what makes Delaware Basin production distinct from a shallower or more conventional field, how to read the early months of a new well's production on your statement, and what that means for timing a sale of part or all of your interest."
+ ],
+ "sections": [
+  {
+   "heading": "Multi-bench development and check volatility",
+   "paragraphs": [
+    "Like the rest of the Permian complex, the Delaware Basin is developed across several stacked benches, and it's common for an operator to come back to the same section more than once over several years to develop a different bench. That means your royalty stream may show a decline, then a jump when a new well in another bench comes online, then another decline, rather than one continuous curve.",
+    "If you're trying to project future income from a Delaware Basin interest, look at operator permit filings and rig activity in your specific section rather than relying on the trailing twelve months alone. A quiet stretch on your check doesn't necessarily mean the acreage is done producing value; it may just mean the current wells are in their tail while the next bench waits for its turn in the operator's schedule."
+   ]
+  },
+  {
+   "heading": "Depth, pressure, and the shape of the curve",
+   "paragraphs": [
+    "Delaware Basin target formations, commonly the Wolfcamp and Bone Spring intervals, sit at depths that can exceed two miles, well below where the shallower Midland Basin benches typically produce. Higher reservoir pressure at that depth often means a stronger initial flow rate when a well is first turned to production, which is good news for an early check but also means the percentage drop in the first several months can look dramatic even though the well is behaving exactly as expected.",
+    "Because the pressure differential between the reservoir and the wellbore is what drives that early flow, the decline in the first 90 to 180 days is usually the steepest window you'll see across the well's life. After that initial pressure blowdown, the curve flattens into a longer, lower-volume tail, often still economic to produce for many years."
+   ]
+  },
+  {
+   "heading": "When Delaware Basin activity favors a sale",
+   "paragraphs": [
+    "Because this basin carries some of the highest well costs in U.S. onshore drilling due to depth and lateral length, operators here are more sensitive to commodity price swings when deciding what to drill next. Periods of sustained higher oil prices tend to pull more rigs into the Delaware specifically, which is a reasonable signal that near-term development pressure, and buyer interest in your acreage, is elevated.",
+    "If you're holding both a producing interest and undeveloped mineral acreage in the same tract, it's worth having those valued separately. Producing royalty is priced mainly off the decline curve you can already see; undeveloped acreage is priced more on permit activity and comparable lease bonuses nearby, and combining them into one number can undervalue whichever piece is actually worth more at the moment you're considering a sale."
+   ]
+  },
+  {
+   "heading": "Long laterals and what they change",
+   "paragraphs": [
+    "Operators here have been extending lateral lengths, in some cases running two or even three miles of horizontal wellbore through the target zone, well beyond the roughly one-mile laterals common in older development. A longer lateral touches more rock, which generally means a larger initial production number and, often, a longer economic life, but it does not eliminate the steep early decline; it just applies to a bigger starting number.",
+    "For a mineral owner, longer laterals also mean your tract's allocated share can shift depending on how much of that lateral's length actually crosses your specific acreage versus a neighbor's. Two royalty owners under the same well can see meaningfully different decimal interests purely based on the geometry of where the wellbore runs, so it's worth confirming your allocated footage on the division order rather than assuming an even split."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why is my Delaware Basin well's first-year decline so much steeper than I expected?",
+   "answer": "Delaware Basin wells often start with a very high initial flow rate because of the depth and pressure of the target formation, so the percentage drop from that peak in the first several months looks dramatic even when the well is performing normally. The tail production after that initial blowdown is usually longer and steadier."
+  },
+  {
+   "question": "Does a longer lateral mean a bigger royalty check for me?",
+   "answer": "Generally yes for the well's total production, but your specific decimal interest depends on how much of that lateral actually runs under your tract. Two owners under the same well can have different allocated interests based on wellbore geometry, so it's worth confirming your footage allocation on the division order."
+  },
+  {
+   "question": "My check dropped for a year and then jumped again. Is that normal here?",
+   "answer": "Yes, this is common in stacked-pay development. A decline from an existing well followed by a jump usually means a new well was completed in a different bench under the same unit, which restarts the curve on top of the prior well's tail production."
+  },
+  {
+   "question": "Is Delaware Basin royalty worth more per acre than other Permian benches?",
+   "answer": "It varies with depth, pressure, and current well costs rather than being consistently higher or lower, and it changes with commodity prices given how sensitive deep, expensive wells are to price swings. A buyer will look at your specific section's well results and nearby permits rather than a basin-wide average."
+  },
+  {
+   "question": "Should I sell my undeveloped Delaware Basin acreage along with my producing royalty?",
+   "answer": "They're often valued differently, so it can make sense to have them priced separately rather than bundled into a single number. Producing royalty is valued off the decline curve, while undeveloped acreage is valued more on nearby permits and lease comparables."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1054,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-delaware-basin-selloilroyaltiesnow-com.jpg",
+  "alt": "Delaware Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "primaryKeyword": "sell undrilled leased mineral rights",
+ "metaTitle": "Leased but No Well Drilled? What Your Minerals Are Worth",
+ "metaDescription": "You signed a lease and cashed a bonus check, but no well has been drilled. Here is how that undrilled position gets valued and when selling makes sense.",
+ "heroLead": "You signed a lease, cashed a bonus check, and then heard nothing for two, three, sometimes five years.",
+ "intro": [
+  "Leasing your minerals and having a well actually drilled on them are two separate events, and a lot of owners are surprised how long the gap between them can run, or that it may never happen at all. An operator can hold a lease for years through primary term extensions, delay rental payments, or simply let it expire without ever setting a rig.",
+  "This page explains what an undrilled lease actually means for your position, what typically happens as a lease term runs out, and how a buyer thinks about pricing an interest that has no production history yet."
+ ],
+ "sections": [
+  {
+   "heading": "What the lease bonus did and did not buy you",
+   "paragraphs": [
+    "The bonus payment compensated you for granting the operator the right to explore and, if they choose, drill within the lease term. It was not a royalty payment and it does not repeat. Once that check clears, your ongoing income depends entirely on whether a well gets drilled and, if it does, how it produces once completed.",
+    "Many owners mistake the bonus for the start of a royalty stream and are confused when nothing follows. Understanding that the bonus and the royalty are two different, sequential things is the first step to evaluating your actual position honestly."
+   ]
+  },
+  {
+   "heading": "Why operators sit on leases without drilling",
+   "paragraphs": [
+    "Operators lease broad acreage positions to secure optionality, then prioritize drilling based on commodity prices, pipeline access, permitting, and how a given tract compares to others in their portfolio. A lease with no immediate drilling plan is not necessarily a bad sign for the operator's interest in the play, but it does mean your specific tract is currently a lower priority.",
+    "Primary lease terms commonly run three to five years, often with an option to extend. Watch the term dates on your lease closely, since what happens next, extension, expiration, or a drilling commitment, changes what your interest is worth."
+   ]
+  },
+  {
+   "heading": "How an undrilled interest gets priced",
+   "paragraphs": [
+    "Without a producing well, there is no decline curve to project yet, so a buyer is pricing probability and proximity instead: how active the surrounding play is, whether nearby wells have been permitted or completed, and how much lease term is left before the position expires unused. An undrilled interest in an active core area with drilling underway nearby is priced very differently than the same lease type in a quiet corner of the play.",
+    "This is why two owners with identical lease terms but different locations can receive very different offers. Proximity to recent permits and completions is doing most of the work in that valuation."
+   ]
+  },
+  {
+   "heading": "Selling before versus after the lease expires",
+   "paragraphs": [
+    "If your lease is nearing the end of its term with no drilling activity nearby, the position may be worth less with each passing month, since expiration returns the minerals to an unleased state with no bonus repeat guaranteed. Selling while the lease is active and the operator relationship is documented is generally simpler than selling an expired, unleased position with an uncertain future.",
+    "On the other hand, if nearby permitting activity suggests a well is likely, some owners choose to hold and see whether production actually starts, since a producing well changes the valuation math entirely. There is no single right answer here, only a clearer set of facts to weigh once you know your lease term and the activity nearby."
+   ]
+  },
+  {
+   "heading": "Checking whether your lease is still active",
+   "paragraphs": [
+    "Some leases include a delay rental clause, letting the operator keep the lease alive year to year with a small payment instead of drilling, which can extend the undrilled period well beyond the original primary term. Others include a shut-in royalty provision for wells that were drilled but never connected to a pipeline, which is a related but distinct situation from never having drilled at all.",
+    "Reading your specific lease, or having someone review it for you, tells you exactly which clauses apply and how much runway the operator actually has before the position lapses back to you unleased."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my lease bonus mean I'll get royalty payments too?",
+   "answer": "Only if a well is drilled and produces. The bonus compensates you for granting the lease itself, and royalty payments only begin after production starts, which may never happen within the lease term."
+  },
+  {
+   "question": "What happens if my lease expires with no well drilled?",
+   "answer": "The minerals typically revert to an unleased state, free of the prior lease, unless the operator extends the term or the lease includes a delay rental clause keeping it active."
+  },
+  {
+   "question": "Can I sell my minerals if no well has ever been drilled on them?",
+   "answer": "Yes. Undrilled, leased interests are regularly bought and sold, priced primarily on nearby drilling activity and lease terms rather than on production history."
+  },
+  {
+   "question": "Should I wait to see if a well gets drilled before selling?",
+   "answer": "That depends on activity nearby and how much lease term remains. If permits are being filed close to your tract, waiting may reveal more value; if the term is expiring with no nearby activity, waiting adds uncertainty instead."
+  },
+  {
+   "question": "What is a delay rental and why does it matter?",
+   "answer": "A delay rental is a payment that lets an operator hold a lease without drilling, typically paid annually during the primary term. Its presence in your lease can extend the undrilled period longer than you might expect."
+  }
+ ],
+ "status": "written",
+ "wordCount": 934,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-selloilroyaltiesnow-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

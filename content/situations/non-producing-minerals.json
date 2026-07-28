@@ -1,0 +1,81 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "primaryKeyword": "sell non-producing mineral rights",
+ "metaTitle": "Selling Non-Producing Mineral Rights | No Wells, No Lease",
+ "metaDescription": "No wells, no lease, no royalty check. Here is how non-producing mineral rights get valued and what makes an unleased tract sellable versus a long shot.",
+ "heroLead": "No wells, no lease, no check ever, but the county records still show your name on the mineral acreage.",
+ "intro": [
+  "Non-producing minerals are the quietest category of ownership. There is no monthly statement to open, no decline curve to watch, sometimes no operator to even call. That silence leads a lot of owners to assume the interest is worthless, which is not always true, and also leads some owners to overestimate what a never-drilled tract might someday be worth.",
+  "This page walks through what actually drives value on non-producing acreage, why it differs completely from the decline-curve math on a producing royalty, and how to get a realistic read on where your specific tract stands."
+ ],
+ "sections": [
+  {
+   "heading": "There is no decline curve to hide behind here",
+   "paragraphs": [
+    "Producing royalties have a track record you can point to, month after month of statements showing exactly what the well is doing. Non-producing minerals have none of that. Value here is built entirely on geology, proximity to activity, and lease history, which makes it a fundamentally different, more speculative kind of valuation than anything tied to an existing decline curve.",
+    "Owners coming from a producing background often ask why the same per-acre logic that applies to their neighbor's leased tract doesn't apply to theirs. The honest answer is that unleased, undrilled minerals are priced on potential, not on a demonstrated stream, and offers reflect that difference."
+   ]
+  },
+  {
+   "heading": "Why a tract may have never been leased or drilled",
+   "paragraphs": [
+    "Sometimes it is simple geography, your acreage sits outside the current core of a play, or in a formation that has not been targeted by horizontal drilling. Sometimes a prior lease existed and expired without a well, returning the minerals to an unleased state years ago. Sometimes the tract was never large enough, or in the right spacing position, to interest an operator building a drilling unit.",
+    "Pull whatever county or courthouse records exist for the tract. A history of expired leases without drilling tells a different story than a tract that has genuinely never attracted operator interest at all."
+   ]
+  },
+  {
+   "heading": "What makes non-producing acreage more attractive to a buyer",
+   "paragraphs": [
+    "Proximity is the biggest driver. If operators are actively permitting or completing wells on adjacent or nearby sections, your unleased tract sits in the path of likely future activity, and that materially changes how it gets priced compared to acreage in a quiet part of the county with no recent permits nearby.",
+    "Formation matters too. Acreage over a productive, currently active play carries real optionality even without a lease in place, while acreage over a formation that has been thoroughly drilled out or was never commercial carries much less."
+   ]
+  },
+  {
+   "heading": "Selling versus holding for a future lease",
+   "paragraphs": [
+    "Holding non-producing minerals costs very little beyond the ongoing property tax, if any, and the occasional need to keep your contact and title records current. Some owners simply hold and wait to see if activity eventually reaches their tract, which is a reasonable approach if the county shows real drilling momentum nearby.",
+    "Owners who would rather have certainty now, particularly those who inherited a tract they have no ties to or no interest in tracking for years, often find that a sale for a modest but real number beats an indefinite wait for a lease bonus that may or may not ever come."
+   ]
+  },
+  {
+   "heading": "How to research your specific tract before deciding",
+   "paragraphs": [
+    "Start with your state's oil and gas regulatory agency, which publishes permit and well data by county and often by section or survey, allowing you to see how close recent activity actually sits to your acreage. County clerk records will also show any expired leases on your tract, which tells you whether operators have looked at the property before and passed, or simply never gotten to it.",
+    "This research takes an afternoon at most and gives you a genuinely informed basis for either holding or requesting an offer, rather than guessing based on what a neighbor's tract may or may not be doing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are non-producing mineral rights worth anything at all?",
+   "answer": "Sometimes, depending heavily on proximity to active drilling and the underlying formation. Acreage near current activity can carry real value even without a lease; acreage in a quiet area may carry little."
+  },
+  {
+   "question": "How is non-producing acreage priced without a production history?",
+   "answer": "Primarily on geology and proximity to recent permits, completions, and lease activity nearby, since there is no decline curve or check history to project forward."
+  },
+  {
+   "question": "My lease expired years ago with no well. Do I still own the minerals?",
+   "answer": "Yes. An expired lease simply returns the mineral rights to your unleased ownership. You still hold them and can lease again, hold, or sell at any time."
+  },
+  {
+   "question": "Should I wait for a lease offer instead of selling now?",
+   "answer": "That depends on nearby activity. If operators are actively permitting close to your tract, waiting may pay off; if there has been no activity in years, a sale now may be the more certain outcome."
+  },
+  {
+   "question": "Do I owe property tax on non-producing mineral rights?",
+   "answer": "In most states, unproduced minerals carry little or no ongoing property tax burden, though rules vary by state, so check with your county assessor for the specific treatment where your tract sits."
+  }
+ ],
+ "status": "written",
+ "wordCount": 895,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-selloilroyaltiesnow-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "primaryKeyword": "sell inherited mineral rights",
+ "metaTitle": "Sell Inherited Oil Royalties | Past-Peak Wells Explained",
+ "metaDescription": "Inherited an oil royalty check from a parent or grandparent? Here is how to read the decline curve on old wells before you decide to keep or sell.",
+ "heroLead": "A royalty check that once paid for a car now barely covers a utility bill, and nobody explained why.",
+ "intro": [
+  "Most inherited mineral interests trace back to a well that was drilled decades before the current owner ever saw a check. That timing matters more than almost anything else in the decision to keep or sell. A well drilled in 1998 is not the same asset it was in 2001, even if the name on the division order never changed.",
+  "This page walks through the mechanics an heir actually needs: how to read the decline pattern on an inherited check, what probate or transfer-on-death paperwork the buyer will ask for, and how to weigh a lump sum against a shrinking monthly deposit."
+ ],
+ "sections": [
+  {
+   "heading": "Why the check looks smaller than grandpa described",
+   "paragraphs": [
+    "Oil wells follow a decline curve. Production is highest in the first one to three years, then falls sharply, then settles into a long, low tail that can run for decades at a fraction of the original rate. If the well behind your interest was drilled in the 1990s or early 2000s, it is almost certainly on that tail now, and the operator is not going to re-drill an old vertical well just to boost your check.",
+    "This is the single most common source of confusion for heirs. The interest itself did not shrink. The underlying reservoir did what reservoirs do. Understanding that distinction is the first step to making a clear-eyed decision instead of an emotional one."
+   ]
+  },
+  {
+   "heading": "What paperwork a buyer needs from an heir",
+   "paragraphs": [
+    "Before anyone can make an offer, the interest has to be traceable back to a valid owner of record. That usually means a certified copy of the will and probate order, or, if the property passed outside probate, an affidavit of heirship recorded in the county where the minerals sit. If the deceased owned the interest jointly with a spouse, a death certificate may be enough.",
+    "If the estate has already closed and a deed or mineral assignment was recorded transferring the interest into your name, that recorded instrument is usually sufficient on its own. Either way, expect a title search before closing. It protects both sides and it is standard, not a red flag."
+   ]
+  },
+  {
+   "heading": "Lump sum versus a shrinking monthly check",
+   "paragraphs": [
+    "The math heirs actually need to run is simple to state and harder to feel: a check that is declining ten to fifteen percent a year is worth less, cumulatively, than the same check held flat. A buyer's offer is built by projecting that decline curve forward and discounting the remaining stream to today's dollars, which is why offers on older wells often look lower than owners expect relative to the current monthly deposit.",
+    "For heirs who live far from the county, who inherited alongside several siblings, or who simply do not want to track operator statements and 1099s for a well winding down, converting the remaining tail into one payment removes the ongoing management and the uncertainty of future commodity swings."
+   ]
+  },
+  {
+   "heading": "When keeping the interest makes more sense",
+   "paragraphs": [
+    "Not every inherited interest is on the back side of its curve. If the well was drilled recently, sits in an active horizontal play, or the operator has been permitting nearby locations, there may be real upside left, and selling into that would be premature. The right move is to pull the last twelve to twenty-four months of check stubs and look at the full trend rather than the most recent number alone.",
+    "A quick way to sanity-check where you stand: if checks have been roughly flat or growing, the well may be newer or offset activity may be helping it. If checks have fallen steadily for several years running, you are almost certainly on the long decline tail, and that is exactly the situation where a lump-sum sale is worth comparing against the future stream."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to finish probate before I can sell an inherited royalty?",
+   "answer": "Usually yes, or at minimum have a recorded affidavit of heirship or transfer document showing you as the owner of record. A buyer's title search will need that chain documented before closing."
+  },
+  {
+   "question": "How do I know if the well I inherited is in decline?",
+   "answer": "Compare your last six to twelve monthly statements. A steady downward trend, even a modest one, indicates the well is past its peak. Flat or rising checks suggest newer production or nearby drilling activity."
+  },
+  {
+   "question": "Should siblings who inherited together sell jointly or separately?",
+   "answer": "Either works, but selling jointly in one transaction is usually simpler and can mean one title search and one closing instead of several, saving time for everyone involved."
+  },
+  {
+   "question": "Will I owe taxes on an inherited royalty sale?",
+   "answer": "Inherited minerals generally receive a stepped-up basis at the date of death, which can reduce taxable gain on a sale. Confirm your specific basis and gain with your CPA or tax advisor before closing."
+  },
+  {
+   "question": "What if the operator has changed since my relative first got the interest?",
+   "answer": "Operator changes are common over a well's life and do not affect your ownership. Your division order should reflect the current operator, and any buyer will confirm that during title review."
+  }
+ ],
+ "status": "written",
+ "wordCount": 893,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-selloilroyaltiesnow-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

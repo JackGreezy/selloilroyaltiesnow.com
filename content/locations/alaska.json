@@ -1,0 +1,78 @@
+{
+ "slug": "alaska",
+ "title": "Sell Mineral Rights in Alaska",
+ "type": "state",
+ "group": "North Slope royalty owners",
+ "primaryKeyword": "mineral rights alaska",
+ "seo": {
+  "vol": 90,
+  "cpc": null
+ },
+ "metaTitle": "Sell Alaska Oil Royalties | North Slope Owner Guide",
+ "metaDescription": "Alaska mineral ownership works differently than the Lower 48. Here is who actually owns North Slope oil, what a private royalty check looks like, and how to sell.",
+ "heroLead": "Most of the ground under Prudhoe Bay and the North Slope belongs to the State of Alaska or Native corporations, not private individuals, so if you hold a private oil royalty here it is worth understanding exactly where it came from before you sell it.",
+ "intro": [
+  "Alaska is unusual among oil states because private mineral ownership is the exception rather than the rule. The State of Alaska owns most of the subsurface on the North Slope, Alaska Native regional and village corporations hold large blocks under the Alaska Native Claims Settlement Act, and only a smaller slice of interests sit in private hands, often tied to old homestead patents, native allotments, or fee mineral estates carved out before statehood-era land transfers were finalized.",
+  "If you are one of those private owners, your check is tied to production from fields like Prudhoe Bay, Kuparuk, Alpine, or one of the smaller satellite pools feeding the Trans-Alaska Pipeline. This page explains how that production behaves over time, why the North Slope's decline curve looks different from a shale play, and what to weigh before selling."
+ ],
+ "sections": [
+  {
+   "heading": "Who Actually Owns Alaska Minerals",
+   "paragraphs": [
+    "Before you assume your interest works like a typical Lower 48 royalty, it helps to confirm what kind of ownership you actually hold. Some Alaska residents receive dividend-style payments through a Native corporation, which is a different arrangement than a direct fee mineral or royalty interest tied to a specific lease and well. A true private royalty interest will show up as a numbered lease with a division order from the operator, the same as anywhere else.",
+    "Private fee interests on the North Slope typically trace back to land patented before large state and federal land transfers locked in current ownership. If your family has held an Alaska interest for decades, the original patent or deed on file with the state recorder's office is the starting point for confirming exactly what you own."
+   ]
+  },
+  {
+   "heading": "How a North Slope Oil Check Moves",
+   "paragraphs": [
+    "Prudhoe Bay has been producing since 1977, and like most giant conventional fields, its decline has been long and gradual rather than the steep early drop-off you see in a modern shale well. Total North Slope output has fallen from its 1980s peak, but individual legacy wells and their associated royalty interests have settled into a slower, more predictable slide, supplemented by newer satellite fields and infill drilling that keep the overall curve flatter than it would otherwise be.",
+    "That means an Alaska oil check is usually more about price than about a wild swing in barrels. Because Alaska crude typically prices off a different benchmark than Gulf Coast or Permian oil, your statement can move somewhat independently of what you read about national oil prices, so it is worth comparing your own recent history rather than assuming it tracks the headlines exactly."
+   ]
+  },
+  {
+   "heading": "Distance, Logistics, and Why Records Matter More Here",
+   "paragraphs": [
+    "Alaska's oil infrastructure is remote and capital-intensive, which means operators plan field life and maintenance further in advance than in a basin where a new well can be drilled in weeks. That longer planning horizon tends to produce steadier, more forecastable royalty payments once a field is established, since abrupt operational changes are less common than in a fast-drilling shale play.",
+    "It also means paperwork matters. Because so few Alaska interests are privately held, division orders and title records for the ones that are can be harder to track down than in a well-documented Texas or Oklahoma county. Confirming your interest through the state recorder and the operator's division order team before you sell saves time later."
+   ]
+  },
+  {
+   "heading": "Deciding When to Sell an Alaska Interest",
+   "paragraphs": [
+    "Because North Slope decline has historically been gradual, a private royalty owner is less likely to be staring down a cliff than an owner in a young shale play. That gives you more room to weigh a sale based on your own timeline, such as wanting a lump sum now instead of decades of smaller checks, rather than racing against a fast-falling curve.",
+    "Any offer on an Alaska interest gets built from your production history, the field's remaining life estimates, current oil pricing, and the strength of your title. We walk you through that math before you decide anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does every Alaskan own oil royalties?",
+   "answer": "No. Most North Slope subsurface belongs to the State of Alaska or Native corporations. A Permanent Fund dividend is not the same as a private oil royalty. A true private interest will show a specific lease and a division order from the operator."
+  },
+  {
+   "question": "Why is Alaska crude priced differently than what I see in the news?",
+   "answer": "North Slope oil typically settles against a different benchmark than West Texas Intermediate or Brent, so your check can move somewhat separately from headline oil prices. Comparing your own recent statements is more useful than comparing to national price news."
+  },
+  {
+   "question": "Is North Slope production declining fast?",
+   "answer": "Total North Slope output is well below its 1980s peak, but the decline has been gradual over decades rather than steep and sudden, helped by satellite fields and infill drilling. Individual legacy royalty interests tend to follow that same slow slide."
+  },
+  {
+   "question": "How do I confirm what I actually own in Alaska?",
+   "answer": "Start with any division order from the operator and the original deed or patent on file with the Alaska recorder's office. Because private ownership is less common here, it can take more digging than in a typical Lower 48 county, and we can help track it down."
+  },
+  {
+   "question": "What determines an offer on my Alaska royalty?",
+   "answer": "We look at your production history, the field's remaining life, current crude pricing off the relevant benchmark, and how clean your title is. The figure we quote is tied to that data rather than a flat guaranteed number."
+  }
+ ],
+ "status": "written",
+ "wordCount": 989,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-alaska.jpg",
+  "alt": "Sell Mineral Rights in Alaska location",
+  "width": 1600,
+  "height": 1000
+ }
+}

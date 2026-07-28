@@ -1,0 +1,81 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "primaryKeyword": "sell mineral rights during probate",
+ "metaTitle": "Selling Mineral Rights in Probate | Executor's Guide",
+ "metaDescription": "Handling mineral rights as an executor? Learn what probate requires before a sale, how to value a declining well for the estate, and closing mechanics.",
+ "heroLead": "As executor, you inherited a decision as much as an asset: keep the well in the estate, distribute it to heirs, or sell it and distribute the cash.",
+ "intro": [
+  "An executor settling an estate that includes oil and gas minerals faces a decision the deceased's other assets rarely require: whether to distribute a physical mineral interest to heirs, or convert it to cash before distribution. Both are legitimate paths, but they lead to very different amounts of ongoing work for whoever the interest lands with.",
+  "This page lays out what probate actually requires before any sale can close, how an executor should think about valuing a producing interest for the estate inventory, and the practical case for liquidating before distribution."
+ ],
+ "sections": [
+  {
+   "heading": "What probate requires before a mineral sale can close",
+   "paragraphs": [
+    "Most states require letters testamentary or letters of administration, issued by the probate court, authorizing the executor to act on behalf of the estate before any real property, including minerals, can be sold or transferred. A buyer will ask to see that document along with the will and any inventory or appraisal filed with the court.",
+    "If the estate is still open, the sale typically proceeds in the estate's name with proceeds distributed per the will or intestacy rules afterward. If probate has already closed and the interest was distributed to heirs individually, each heir who wants to sell their share does so separately, using their own deed or distribution order as proof of title."
+   ]
+  },
+  {
+   "heading": "Valuing a declining royalty for the estate inventory",
+   "paragraphs": [
+    "Estate inventories generally need a reasonable value for the mineral interest as of the date of death, which for a producing royalty means projecting the well's decline curve and discounting the remaining stream, similar to how a buyer would price an offer. This is also the value used to establish the heirs' stepped-up basis, which matters for any future capital gains calculation.",
+    "If the well was already well into its decline at the time of death, that inventory value is likely to be modest relative to what checks looked like years earlier, and that is expected, not a sign anything was done wrong."
+   ]
+  },
+  {
+   "heading": "Distributing minerals to heirs versus selling first",
+   "paragraphs": [
+    "Distributing the physical interest divides an already-declining asset among several heirs, each of whom then inherits their own fractional piece of paperwork, tax forms, and operator correspondence for a shrinking well. If there are several heirs, that can mean each one ends up with a very small monthly check and the same administrative burden as a much larger interest.",
+    "Selling the interest at the estate level and distributing cash instead means each heir receives a clean, final amount with none of the ongoing tracking. For estates with multiple heirs who live in different places or have little interest in monitoring an oil well, this is often the simpler path administratively."
+   ]
+  },
+  {
+   "heading": "What an executor should do before deciding either way",
+   "paragraphs": [
+    "Pull the last one to two years of statements to see where the well actually stands on its decline curve, rather than relying on what the estate paperwork or old family memory suggests. Confirm the executor's authority is current with the probate court, and gather the deed or prior division order showing the decedent's ownership.",
+    "From there, an offer for the interest can be compared directly against continuing to hold and distribute it, giving the heirs and the court a concrete number rather than an estimate to evaluate the decision against."
+   ]
+  },
+  {
+   "heading": "Handling multiple estates when a chain of title is incomplete",
+   "paragraphs": [
+    "It is common for a mineral interest to have passed through two or three unprobated estates before reaching the current generation, especially with older family land where a grandparent's estate was never formally settled and a parent's estate followed the same informal path. Each unresolved estate in that chain needs its own heirship documentation before a clean sale can close.",
+    "This sounds daunting but is usually manageable with an affidavit of heirship for each generation, or a targeted probate for the most recent estate if the earlier ones are too old to revisit. An estate attorney familiar with mineral title in your state can usually map out the shortest path to a clean chain."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an executor sell mineral rights before probate closes?",
+   "answer": "Often yes, with letters testamentary or letters of administration from the probate court authorizing the sale. Requirements vary by state, so confirm the specific process with the estate attorney."
+  },
+  {
+   "question": "How is a mineral interest valued for the estate inventory?",
+   "answer": "By projecting the well's production decline and discounting the remaining income stream to a present value as of the date of death, the same general approach a buyer uses to price an offer."
+  },
+  {
+   "question": "Should I distribute minerals to heirs or sell and distribute cash?",
+   "answer": "It depends on the heirs' preferences, but selling before distribution avoids splitting an already-declining asset into smaller fractional interests, each carrying its own paperwork burden."
+  },
+  {
+   "question": "Do all the heirs need to agree before an executor sells estate minerals?",
+   "answer": "During probate, the executor generally acts on the estate's behalf under court authority, though estate attorneys sometimes recommend heir consent depending on the will's terms and state requirements."
+  },
+  {
+   "question": "What if the mineral interest passed through more than one unprobated estate?",
+   "answer": "Each generation in the chain typically needs its own heirship or probate documentation before a sale can close cleanly. An estate attorney can usually identify the fastest path through a multi-generation gap."
+  }
+ ],
+ "status": "written",
+ "wordCount": 930,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-selloilroyaltiesnow-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

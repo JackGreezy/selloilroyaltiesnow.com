@@ -1,0 +1,80 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "primaryKeyword": "what are mineral rights",
+ "metaTitle": "What Are Mineral Rights? Oil Owner's Glossary",
+ "metaDescription": "New to mineral ownership? Learn what mineral rights actually are, how they differ from royalty and surface rights, and how they behave as a well declines.",
+ "heroLead": "Mineral rights are the underlying bundle of ownership. Almost everything else you hear, royalty, working interest, ORRI, is a piece carved out of this.",
+ "intro": [
+  "If you are trying to sort out what you actually own, start here. Mineral rights are the ownership of the oil, gas, and other substances beneath a tract of land, separate and distinct from ownership of the surface. That separation, called a split estate, is the source of most of the confusion new owners run into.",
+  "This page walks through what mineral ownership includes, how it gets divided into leases and royalties, and why the value of that ownership is tied directly to a well's production decline once drilling starts."
+ ],
+ "sections": [
+  {
+   "heading": "What owning the minerals actually gives you",
+   "paragraphs": [
+    "As a mineral owner, you hold the right to explore for and produce oil and gas beneath your tract, or to lease that right to an operator in exchange for a bonus payment and a royalty on future production. You also generally hold the right to negotiate lease terms, receive notice of pooling, and collect your share of production once a well is drilled.",
+    "What you do not automatically have is the money or equipment to drill the well yourself. That is why almost all mineral owners lease to an operator rather than drilling on their own, keeping a royalty interest carved out of the mineral estate in exchange."
+   ]
+  },
+  {
+   "heading": "How mineral rights turn into a royalty interest",
+   "paragraphs": [
+    "When you sign an oil and gas lease, you are granting an operator the right to drill in exchange for a bonus payment upfront and a royalty, typically an eighth to a quarter or more of production, for as long as the lease stays in effect through production. Your underlying mineral ownership does not disappear, it is what generates the royalty and what you would still hold if the lease ever expired.",
+    "This distinction matters when you sell. Buyers may be pricing your mineral rights, your royalty interest, or both together, depending on whether the tract is leased, unleased, producing, or not, and each of those situations is valued differently."
+   ]
+  },
+  {
+   "heading": "Why decline curves matter even at the mineral-ownership level",
+   "paragraphs": [
+    "Once a well is producing, the value of your mineral rights is driven almost entirely by that well's decline curve, the pattern of high initial output followed by a steady, often sharp, drop-off over the following years. A tract with a well several years into decline is worth a different amount than the same tract when the well first came online, even though your ownership percentage never changed.",
+    "This is the single concept most new owners need to understand: the asset is not fixed in value the way land is. It is a depleting resource, and the timing of any sale relative to that decline curve matters enormously."
+   ]
+  },
+  {
+   "heading": "Mineral rights versus the other interests you'll hear about",
+   "paragraphs": [
+    "Royalty interests, non-participating royalty interests, overriding royalty interests, and working interests are all carved out of, or exist alongside, the underlying mineral estate. If you are trying to figure out exactly which type you hold, the clearest evidence is your most recent division order or check stub, which typically states the interest type directly.",
+    "Knowing which type you hold changes how a sale gets valued and what paperwork a buyer needs, so it is worth confirming before requesting an offer rather than assuming based on family history alone."
+   ]
+  },
+  {
+   "heading": "How pooling and spacing units affect what you actually receive",
+   "paragraphs": [
+    "In most states, a well drains a defined spacing or drilling unit that may include hundreds or thousands of acres, pooling together the mineral owners across that whole unit rather than just the specific tract a well physically sits on. Your decimal interest reflects your mineral acreage's share of that entire pooled unit, not simply whether a well happens to be located on your particular parcel.",
+    "This is why an owner whose tract has no well physically on it can still receive a royalty check, and why two owners with equal acreage in different parts of the same unit still receive identical payments per net mineral acre."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is the difference between mineral rights and surface rights?",
+   "answer": "Mineral rights cover ownership of oil, gas, and other subsurface resources. Surface rights cover ownership of the land itself. These are frequently owned by different people, known as a split estate."
+  },
+  {
+   "question": "Do I still own my mineral rights if I've leased them?",
+   "answer": "Yes. Leasing grants an operator the right to drill and produce, but your underlying mineral ownership continues, and the minerals typically revert fully to you if the lease expires without production."
+  },
+  {
+   "question": "How do I know exactly what type of interest I own?",
+   "answer": "Your most recent division order or royalty check stub usually states the interest type directly. If you are unsure, a title search can confirm it definitively."
+  },
+  {
+   "question": "Does the value of my mineral rights change once a well starts producing?",
+   "answer": "Yes, significantly. Value shifts from a speculative, unleased estimate to one driven by the well's actual production and its decline curve over time."
+  },
+  {
+   "question": "What is a spacing unit and why does it matter to my payment?",
+   "answer": "A spacing unit is the defined acreage a single well is permitted to drain. Your royalty is based on your mineral acreage's share of that entire unit, which is why owners without a well on their exact tract still get paid."
+  }
+ ],
+ "status": "written",
+ "wordCount": 922,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-selloilroyaltiesnow-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

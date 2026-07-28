@@ -1,0 +1,80 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "metaTitle": "About Sell Oil Royalties | Our Approach",
+ "metaDescription": "Why this site exists, how we evaluate oil royalty and mineral interests using decline curves, and what we believe mineral owners deserve to understand.",
+ "heroLead": "We think the mailbox-offer version of this industry has trained owners not to ask questions. We'd rather explain the math than hope you don't ask.",
+ "intro": [
+  "This site exists because most mineral owners are handed a number with no explanation attached, and most explainers online are either too technical to be useful or too vague to mean anything. Somewhere between a reservoir engineer's spreadsheet and a one-line mailer offer, there's a version of this that's actually understandable, and that's what we've tried to build.",
+  "We buy oil-weighted mineral and royalty interests directly. We are not a licensed appraiser, an attorney, or a CPA, and we'll say that plainly rather than blur the line. What we are is a direct buyer who thinks the decline curve, the single biggest driver of what your interest is actually worth right now, deserves to be explained rather than hidden behind a number."
+ ],
+ "sections": [
+  {
+   "heading": "Why we lead with decline",
+   "paragraphs": [
+    "Most of the confusion around mineral value comes from a mismatch in expectations: an owner remembers a strong check from a year or two ago and assumes that's still roughly what the interest is worth, while a buyer is pricing off a forecast of what's left, not what already happened. Neither view is wrong, they're just looking at different things. We think the honest fix is teaching the decline curve directly, so an owner can look at their own statements and see roughly where they stand before a buyer ever gets involved."
+   ]
+  },
+  {
+   "heading": "How we work",
+   "paragraphs": [
+    "One point of contact through the process, not a rotating call center. A documented, explained offer rather than a bare number. No pressure to decide on a deadline that doesn't leave room to check our math or get a second opinion. If title work turns up a wrinkle, family land often carries one, we treat it as something to solve, not a reason to lower the number after the fact."
+   ]
+  },
+  {
+   "heading": "What we believe about this market",
+   "paragraphs": [
+    "We believe an informed seller and a direct buyer can reach a fair number faster than a seller working blind through a stack of unexplained mailers. We believe the decline curve is the fact that should anchor the conversation, not the last check that happened to arrive. And we believe there are real situations, a well early in a strong production life, where the honest answer is that holding and collecting royalty serves an owner better than selling right now, and we'd rather say that than push a sale that doesn't fit."
+   ]
+  },
+  {
+   "heading": "Where we work",
+   "paragraphs": [
+    "We evaluate oil-weighted interests across the major producing basins, from mature conventional fields to the horizontal plays driving most current drilling activity. Every basin behaves a little differently, spacing units, typical well economics, state severance and deduction rules, and part of doing this work honestly is knowing those differences rather than applying one national formula to every tract."
+   ]
+  },
+  {
+   "heading": "What we're not, said plainly",
+   "paragraphs": [
+    "We're not a licensed appraiser, and our offers are not a substitute for a formal appraisal needed for estate, gift, or legal purposes. We're not your attorney or your CPA, and questions about title curative work or the tax treatment of a sale belong with professionals in those fields, not with us. What we can offer is a direct, explained purchase number built from your actual documents, and the candor to tell you when selling isn't the right move yet."
+   ]
+  },
+  {
+   "heading": "Why we built a resources library instead of just a contact form",
+   "paragraphs": [
+    "Most mineral owner sites lead with a form and little else. We think an owner who understands their own royalty statement, their own decimal interest, and the general shape of a decline curve is in a better position to evaluate any offer, ours included, than one working from a single unexplained number. That's the whole reason the resources section exists, and why it stays free to read whether or not you ever contact us."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a licensed mineral appraiser?",
+   "answer": "No, we're a direct buyer using our own analysis to make purchase offers, not a licensed appraiser, and we'll point you elsewhere if you need a formal appraisal for a legal or tax filing."
+  },
+  {
+   "question": "Do you only buy producing interests?",
+   "answer": "No, we evaluate producing, non-producing, and held-by-production interests, though the method and range differ depending on which bucket your tract falls into."
+  },
+  {
+   "question": "Why do you talk about decline so much?",
+   "answer": "Because it's the single biggest factor in what a producing interest is actually worth today, and most owners have never had it explained in plain terms before getting an offer."
+  },
+  {
+   "question": "Will you ever tell me not to sell?",
+   "answer": "Yes, if your well looks early in its production life with strong value still ahead, we'd rather tell you that than push a sale that doesn't serve you."
+  },
+  {
+   "question": "Do you work with fractional or inherited interests?",
+   "answer": "Regularly, family-divided and inherited interests are common, and we're used to working through the title history that comes with them, including cases where probate was never formally completed."
+  }
+ ],
+ "status": "written",
+ "wordCount": 856,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-selloilroyaltiesnow-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

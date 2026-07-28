@@ -1,0 +1,78 @@
+{
+ "slug": "bakken",
+ "title": "Bakken Mineral Rights",
+ "type": "basin",
+ "group": "ND/MT",
+ "primaryKeyword": "bakken mineral rights",
+ "seo": {
+  "vol": 90,
+  "cpc": null
+ },
+ "metaTitle": "Bakken Mineral Rights: Sell Oil Royalties",
+ "metaDescription": "Own Bakken oil royalties in North Dakota or Montana? Learn how the classic hyperbolic decline curve works and when it points toward a sale.",
+ "heroLead": "The Bakken taught the industry what a modern shale decline curve looks like, and if you own royalty here, that hyperbolic shape is the single most useful thing to understand about your check.",
+ "intro": [
+  "The Bakken and underlying Three Forks formation, stretching across western North Dakota and into eastern Montana, was one of the first plays where horizontal drilling and multi-stage fracturing were applied at scale, starting in the mid-2000s. Because of that head start, there's now more than fifteen years of production history here, which makes the Bakken a good teaching example for what a textbook oil-well decline curve actually looks like on a real royalty statement.",
+  "This page walks through the hyperbolic decline pattern specifically, why Bakken wells behave the way they do, and what stage of that curve your own interest is likely sitting on right now."
+ ],
+ "sections": [
+  {
+   "heading": "The hyperbolic decline curve, explained",
+   "paragraphs": [
+    "Unlike a straight-line or purely exponential decline, most Bakken wells follow what petroleum engineers call a hyperbolic curve: production falls very fast at first, then the rate of decline itself slows down over time, so the curve bends rather than falling in a straight diagonal line. In practical terms, a Bakken well might lose half its output in the first six to twelve months, then take several more years to lose the next half, and years beyond that to lose the half after that.",
+    "That bending shape is why Bakken royalty owners often describe their check as 'dropping fast, then leveling off, then dropping slow for a long time.' It's not that the well is behaving erratically; it's the natural signature of a fractured horizontal well draining a tight rock reservoir, and it's consistent enough across thousands of Bakken wells that reserve engineers use it as their default forecasting model for the play."
+   ]
+  },
+  {
+   "heading": "Where your check sits on the curve today",
+   "paragraphs": [
+    "If your well was completed within the last one to two years, expect the steepest part of the decline, month-over-month drops that can feel alarming if you're not expecting them. This is normal Bakken behavior and doesn't mean the well is failing; it means the near-wellbore pressure sink created by the frac is depleting, which is exactly how these wells are designed to produce.",
+    "If your well has been on production for three to five years or more, you're likely in the bend of the curve, where declines are still happening but at a much gentler pace month to month. Many Bakken wells settle into a long, low-decline tail that can continue producing economically for a decade or two beyond that point, particularly with periodic operator workovers or artificial lift upgrades that keep the wellbore flowing efficiently."
+   ]
+  },
+  {
+   "heading": "Weather, gathering capacity, and North Dakota specifics",
+   "paragraphs": [
+    "Bakken production has a few regional quirks worth knowing. Harsh winter weather in North Dakota can occasionally cause temporary shut-ins or reduced output at the wellhead, which shows up as a short dip in your check that isn't part of the underlying decline curve at all and typically corrects the following month. Don't mistake a weather-driven dip for a change in the well's fundamental trajectory.",
+    "Gathering and pipeline capacity has also historically been tighter in the Bakken than in basins with more built-out midstream infrastructure, meaning gas associated with oil production is sometimes flared rather than sold, and oil itself can occasionally be constrained by takeaway capacity. Check your statement's remarks or ask your operator if flaring or curtailment has affected your specific well; it's a Bakken-specific factor that a national decline model won't automatically account for."
+   ]
+  },
+  {
+   "heading": "Selling into a well-understood curve",
+   "paragraphs": [
+    "Because the Bakken's decline behavior is so well documented, with over a decade of comparable well data available through North Dakota's public regulatory records, buyers can typically model your remaining production with more confidence here than in a newer or less-drilled play. That can work in your favor: less uncertainty in the forecast often means less of a risk discount built into an offer, compared to acreage where the decline pattern is still being established.",
+    "The main variable left for you to weigh is where on the curve your specific well sits. A well just past its steepest year still has meaningful future decline ahead of it and is valued differently than one that's been in its long gentle tail for a decade. Pulling your well's actual production history, available through North Dakota's Oil and Gas Division records by API number, before talking to a buyer gives you a clearer basis for comparison than relying on your check total alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my Bakken royalty check drop so much in the first year?",
+   "answer": "That's the expected shape of a hyperbolic decline curve for a horizontal Bakken well. The steepest drop happens in the first six to twelve months as near-wellbore pressure depletes, then the rate of decline slows considerably and the well settles into a much longer, gentler tail."
+  },
+  {
+   "question": "Is a small dip in winter months something to worry about?",
+   "answer": "Usually not. Harsh North Dakota winters can cause temporary wellhead shut-ins or reduced flow that shows up as a short-term dip unrelated to the well's underlying decline curve, and production typically returns to trend the following month."
+  },
+  {
+   "question": "How long do Bakken wells keep producing?",
+   "answer": "Many wells continue economic production for a decade or more after the initial steep decline, settling into a long, low-volume tail. The exact length depends on the specific well, ongoing operator maintenance, and commodity prices, but the hyperbolic shape typically means a long low-decline period follows the sharp early drop."
+  },
+  {
+   "question": "Does flaring or pipeline capacity affect my royalty payment?",
+   "answer": "It can. Gas that's flared rather than sold generally isn't paid on the same basis as gas that reaches a pipeline, and takeaway constraints have historically affected Bakken producers more than basins with more built-out infrastructure. Check your statement remarks or ask your operator if this applies to your well."
+  },
+  {
+   "question": "Is it easier to get a fair offer on Bakken royalty than in a newer play?",
+   "answer": "The Bakken's long production history means buyers generally have more comparable well data to model your remaining production confidently, which can reduce the uncertainty discount in an offer. Pulling your well's actual production history by API number before discussing a sale gives you a stronger basis for comparison."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1068,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-bakken-selloilroyaltiesnow-com.jpg",
+  "alt": "Bakken Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

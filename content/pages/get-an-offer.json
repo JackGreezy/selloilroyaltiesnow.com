@@ -1,0 +1,87 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "metaTitle": "Get a No-Obligation Offer on Your Oil Royalties",
+ "metaDescription": "Request a no-obligation offer on your oil mineral rights or royalty interest. Send what documents you have and we'll walk you through how we value it.",
+ "heroLead": "You don't need a complete file to start. Send what you have and we'll tell you what, if anything, is still needed.",
+ "intro": [
+  "Requesting an offer starts with a short conversation, not a form full of technical questions you'd need to research first. Tell us what you own, roughly where it's located, and whatever documents you can put your hands on, a deed, a division order, or a recent royalty statement. From there we do the records work.",
+  "There's no cost and no obligation attached to requesting or reviewing an offer. You can compare it against another buyer's number, take time to think it over, or decide it isn't the right move, all without any pressure from us."
+ ],
+ "sections": [
+  {
+   "heading": "What helps us move fastest",
+   "paragraphs": [
+    "A recent royalty statement is the single most useful document if your interest is producing, since it shows your actual decimal interest and current production directly. A division order or deed works just as well if statements aren't on hand. If you're not sure what you have, describe it as best you can and we'll help sort out what's needed next."
+   ]
+  },
+  {
+   "heading": "What you'll get back",
+   "paragraphs": [
+    "An offer explained in plain terms, more than a bare number. We'll tell you roughly which wells and what decimal interest the figure is based on, and how the well's decline stage factored into it. If your interest is early in a strong production life, we'll say so directly, since that's sometimes a case where holding makes more sense than selling now."
+   ]
+  },
+  {
+   "heading": "No pressure, no deadline games",
+   "paragraphs": [
+    "We won't ask you to sign within 48 hours to 'lock in' a number, and we won't threaten that an offer disappears if you take time to review it. Oil prices do move over weeks and months, which can affect a number, but a reasonable window to think it over and compare offers is normal, and we'll give you that room."
+   ]
+  },
+  {
+   "heading": "If your interest doesn't fit our current criteria",
+   "paragraphs": [
+    "Not every tract is a fit for us at every point in time, activity levels, well positioning, and current commodity pricing all play a role. If that's the case, we'll tell you directly rather than stringing you along with a vague number, and we're happy to point you toward what questions to ask other buyers instead.",
+    "We'd also rather tell you plainly if your interest looks early in a strong production life, where continuing to collect royalty checks may serve you better than selling right now. A useful conversation doesn't always end in an offer, and that's fine with us."
+   ]
+  },
+  {
+   "heading": "After you accept, what changes",
+   "paragraphs": [
+    "Once you've reviewed the offer and decided to move forward, the process shifts to our title team, who confirm ownership through county records and prepare the purchase agreement and deed. You'll stay informed at each stage, and if any title issue surfaces, common on older or family-divided tracts, we'll explain what it is and how it gets resolved rather than leaving you guessing."
+   ]
+  },
+  {
+   "heading": "What producing owners should send first",
+   "paragraphs": [
+    "If your interest is currently producing, a recent royalty statement is the fastest path to a real number, since it shows both your decimal interest and actual recent volume in one document. Three to six months of statements gives us an even clearer read on where the well sits on its decline curve, though a single recent one is enough to start."
+   ]
+  },
+  {
+   "heading": "What non-producing owners should expect",
+   "paragraphs": [
+    "If your minerals have never been drilled, we'll look at nearby permitting and leasing activity in your area rather than a production forecast, since there's no check history to build one from. The resulting range tends to be wider than on a producing tract, and we'll explain why, rather than presenting it as more precise than it actually is."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I request an offer?",
+   "answer": "Reach out through the contact page with a brief description of your interest and any documents you have, and we'll follow up to gather anything else needed."
+  },
+  {
+   "question": "Is there any fee to request or review an offer?",
+   "answer": "No, there's no cost or obligation at any point before you decide to accept and sign closing documents, and you can walk away freely at any earlier stage."
+  },
+  {
+   "question": "What if I'm not sure how much I actually own?",
+   "answer": "That's a normal starting point, we can often help clarify your ownership from county and operator records once we know roughly where the property is located and what documents, if any, you already have."
+  },
+  {
+   "question": "Can I get an offer on a non-producing interest?",
+   "answer": "Yes, we evaluate non-producing minerals too, though the method leans more on nearby activity and lease potential since there's no production history to forecast from."
+  },
+  {
+   "question": "How long is an offer good for once I receive it?",
+   "answer": "We'll give you a reasonable window to review and compare it, and we're upfront if a specific timeframe applies rather than springing a hidden deadline on you later, since a rushed decision rarely serves either of us well."
+  }
+ ],
+ "status": "written",
+ "wordCount": 855,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-selloilroyaltiesnow-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

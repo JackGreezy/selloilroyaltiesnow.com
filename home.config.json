@@ -1,0 +1,30 @@
+{
+  "domain": "selloilroyaltiesnow.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/selloilroyaltiesnow.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/selloilroyaltiesnow.com",
+  "reference": "https://gomspace.com/",
+  "refhost": "gomspace-com",
+  "biz": "Sell Oil Royalties",
+  "businessName": "Sell Oil Royalties",
+  "wordmark_l1": "SELL OIL",
+  "wordmark_l2": "ROYALTIES",
+  "city": "Williston",
+  "state": "North Dakota",
+  "region": "Williston, the Bakken, and oil-producing regions nationwide",
+  "phone": "701-555-1017",
+  "email": "transactions@selloilroyaltiesnow.com",
+  "address": "113 4th St E, Williston, ND 58801",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/pages/mineral-rights-pages-home-selloilroyaltiesnow-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/selloilroyaltiesnow.com/site-voice.json",
+  "nav": [
+    ["Situations", "/situations"],
+    ["Interests", "/interest-types"],
+    ["Basins", "/basins"],
+    ["Resources", "/resources"],
+    ["About", "/about"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Read the Curve", "/contact"]
+}

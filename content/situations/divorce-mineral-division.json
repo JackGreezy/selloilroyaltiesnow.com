@@ -1,0 +1,85 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "primaryKeyword": "mineral rights divorce settlement",
+ "metaTitle": "Mineral Rights in Divorce | Splitting an Oil Royalty",
+ "metaDescription": "Learn how oil royalty interests get valued and divided in divorce, why a declining well complicates settlement, and when selling avoids a fight later.",
+ "heroLead": "Splitting a house is one appraisal. Splitting a royalty interest means agreeing on the value of a check that changes every month.",
+ "intro": [
+  "Mineral rights show up in a divorce settlement more often than people expect, especially in oil-producing states where family land carried a severed mineral estate for generations. Dividing that interest is not like dividing a bank account, because the asset's value depends on where a specific well sits on its decline curve, and that number keeps moving.",
+  "This page explains how attorneys and appraisers typically approach valuing a producing royalty in a settlement, why an undivided interest can create ongoing friction between former spouses, and what selling before or during the settlement accomplishes that keeping the asset split cannot."
+ ],
+ "sections": [
+  {
+   "heading": "Why courts and attorneys struggle to value a royalty",
+   "paragraphs": [
+    "A house has comparable sales. A royalty interest has a production history, an operator, a decline curve, and a commodity price assumption, all of which have to be estimated and discounted to today. Two appraisers can reach meaningfully different numbers depending on how aggressively they project future decline, which is exactly the kind of disagreement that stalls a settlement.",
+    "Because the value depends on projecting a shrinking future income stream rather than reading a comparable sale, mineral interests are one of the more contested line items in a settlement inventory, particularly when one spouse wants to keep the asset and the other wants it liquidated."
+   ]
+  },
+  {
+   "heading": "Co-owning a royalty after the divorce is final",
+   "paragraphs": [
+    "Some decrees leave both former spouses as co-owners of the same interest, splitting future checks fifty-fifty or by whatever ratio the settlement set. That arrangement can work, but it also means two people who no longer share finances now depend on the same operator statements, the same division order, and the same well's declining output for years to come.",
+    "Any future lease amendment, pooling agreement, or division order correction has to be signed by both parties. For couples who want a clean break, an undivided co-ownership in a depreciating asset is often the opposite of what the settlement was supposed to achieve."
+   ]
+  },
+  {
+   "heading": "Selling as part of the settlement",
+   "paragraphs": [
+    "Converting the mineral interest to cash before the decree is finalized turns an argument about future projections into a number both sides can see and split. It also removes the interest from any future disagreement, since there is no ongoing statement to dispute once the sale closes.",
+    "Timing matters here. A sale completed before the divorce is final can simplify the settlement inventory considerably, while a sale agreed to as part of the decree itself needs the closing mechanics spelled out clearly, including who signs the assignment and how proceeds get split at closing."
+   ]
+  },
+  {
+   "heading": "What a buyer needs to see in a divorce sale",
+   "paragraphs": [
+    "Expect to provide the deed or division order showing current ownership, and if the settlement already awarded the interest to one spouse, the recorded decree or a quitclaim from the other spouse. If ownership is still joint at the time of sale, both parties typically need to sign the assignment.",
+    "Buyers run the same title search on a divorce-related sale as any other, so there is nothing unusual about the process itself. The complexity is almost always on the family-law side, not the mineral title side."
+   ]
+  },
+  {
+   "heading": "Coordinating a sale with your attorney's timeline",
+   "paragraphs": [
+    "Family-law attorneys are used to valuing houses, retirement accounts, and vehicles, but a producing oil royalty is a less familiar asset for many of them, and that unfamiliarity can slow down settlement discussions if nobody brings a concrete number to the table early. Requesting an offer on the interest before mediation or a final hearing gives your attorney a real figure to work with instead of a rough guess.",
+    "It also helps to share the well's recent production trend with your attorney directly, since that context explains why an offer looks the way it does relative to older statements the other spouse may still remember from years earlier."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can one spouse sell a mineral interest without the other's consent during divorce?",
+   "answer": "Generally no, if the interest is still jointly owned or subject to the pending settlement. Most sales require both parties' signatures until a decree or deed clarifies sole ownership."
+  },
+  {
+   "question": "How is a declining royalty valued for a settlement?",
+   "answer": "Typically by projecting the well's production decline forward against a commodity price assumption and discounting that stream to a present value, similar to how a buyer prices an offer."
+  },
+  {
+   "question": "Is it better to sell before or after the divorce is finalized?",
+   "answer": "Selling before finalization turns a disputed future asset into a fixed cash number that is easier to divide, though the right timing depends on your attorney's approach to the settlement inventory."
+  },
+  {
+   "question": "What if my ex-spouse and I still co-own the interest years after the divorce?",
+   "answer": "You can still sell at any point, but both former spouses will need to sign off, since ownership as reflected on the division order controls who has to consent."
+  },
+  {
+   "question": "Does the well's decline affect how much weight it carries in the overall settlement?",
+   "answer": "Yes. An interest projected to decline quickly is generally assigned less ongoing value in settlement negotiations than one with a slower decline or nearby drilling activity suggesting future upside."
+  },
+  {
+   "question": "What if we can't agree on which appraisal or offer is accurate?",
+   "answer": "Getting a second or third offer for comparison is common practice and can help both sides converge on a number without a prolonged dispute over projection assumptions."
+  }
+ ],
+ "status": "written",
+ "wordCount": 937,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-selloilroyaltiesnow-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "metaTitle": "How to Read Your Oil Royalty Statement",
+ "metaDescription": "A line-by-line walkthrough of an oil royalty check stub, covering volume, price, deductions, and decimal interest, so you can spot decline before it surprises you.",
+ "heroLead": "The check stub that shows up in the mail every month is the single best data source you own. Most people throw it in a drawer without reading a single column.",
+ "intro": [
+  "A royalty statement looks like a wall of abbreviations the first time you see one, BOE, MCF, WI, NRI, stacked in tiny type. Underneath the clutter it's actually a simple story told in a few numbers: how much oil came out of the ground, what it sold for, what got deducted, and what fraction of that is yours. Learn to read those columns and the statement stops being paperwork and starts being the earliest warning system you have for a well's decline.",
+  "This guide breaks the stub into its pieces and shows you what to actually watch month over month, since a single check tells you little on its own. A trend across six or twelve statements tells you almost everything."
+ ],
+ "sections": [
+  {
+   "heading": "The volume line comes first",
+   "paragraphs": [
+    "Look for a production or volume column, usually listed in barrels of oil, and sometimes MCF for associated gas. This number reflects the well's actual output for that period, adjusted for your interest. On an oil-weighted well this is the line to watch closest, because volume decline is the biggest driver of a shrinking check, more than price swings usually are.",
+    "If your statement bundles multiple wells or a pooled unit into one line, request a well-by-well breakdown from the operator's revenue department. It's normal to have to ask, and it's normal for it to take a billing cycle or two to show up."
+   ]
+  },
+  {
+   "heading": "Price, and why it moves independent of volume",
+   "paragraphs": [
+    "Next to volume sits a price per barrel, which the operator typically sets against a regional posted price, adjusted for quality and transportation. This is the piece that moves with the broader oil market and has nothing to do with how the well itself is performing. A check can drop because price fell even while the well's underlying output held steady, which is a very different situation than a check dropping because the well is declining.",
+    "Separating a price-driven dip from a volume-driven dip is the single most useful skill in reading these statements, and it's worth doing before assuming anything is wrong."
+   ]
+  },
+  {
+   "heading": "Deductions: severance tax and post-production costs",
+   "paragraphs": [
+    "Below the gross value line you'll usually find deductions, most commonly state severance tax and, depending on your lease and your state, post-production costs for gathering, transportation, or processing. These reduce gross value down to your net check. Deduction language and whether deductions are even allowed varies by lease and by state, so a deduction that looks aggressive on one statement may be entirely standard under your specific lease terms.",
+    "If deductions jump sharply between statements with no explanation, that's worth a direct call to the operator's owner-relations line, not a guess."
+   ]
+  },
+  {
+   "heading": "Your decimal interest ties it all together",
+   "paragraphs": [
+    "Finally, your decimal interest, sometimes shown as NRI for net revenue interest, is the fraction applied to net value to produce your actual payment. This number should stay constant statement to statement unless there's been a title change, a new well added to your unit, or a correction. If your decimal ever changes without explanation, that is the one line item worth questioning immediately, since it affects every check going forward, well beyond the current one."
+   ]
+  },
+  {
+   "heading": "Reading decline across a series of statements",
+   "paragraphs": [
+    "Line up six to twelve months of statements side by side and track volume alone, isolated from price. A steady, gradual downward slope is normal decline behavior for a producing well past its early peak. A sudden cliff, rather than a slope, usually means something operational happened, downtime, a workover, or a new well added to the unit that's temporarily diluting your share, and it's worth asking the operator which one it was before assuming the well is finished."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my check drop even though oil prices were rising?",
+   "answer": "Volume decline can outweigh a price increase on a mature well, since a smaller number of barrels multiplied by a higher price can still land lower than a larger number of barrels at a lower price the month before."
+  },
+  {
+   "question": "What's the difference between working interest and royalty interest on a stub?",
+   "answer": "A working interest owner pays a share of drilling and operating costs and receives a larger share of production, while a royalty or mineral interest owner receives income free of those operating costs, which is why the two decimal lines look different even on the same well."
+  },
+  {
+   "question": "Should I question every deduction line I don't recognize?",
+   "answer": "It's reasonable to ask the operator's owner-relations department to explain any line you don't understand, and most will send a plain-language breakdown on request, so there's no downside to asking."
+  },
+  {
+   "question": "How does a buyer use my statements if I want to sell?",
+   "answer": "We use your recent statements to see your actual decimal interest and real production history, which lets us build a more grounded offer than guessing from county records alone."
+  },
+  {
+   "question": "Do non-producing minerals get a statement at all?",
+   "answer": "No, if there's no producing well on your tract there's nothing to report, and you'd typically only see paperwork again if a lease bonus is paid or a well is drilled."
+  }
+ ],
+ "status": "written",
+ "wordCount": 899,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-selloilroyaltiesnow-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

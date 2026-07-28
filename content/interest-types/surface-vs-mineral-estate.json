@@ -1,0 +1,80 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "primaryKeyword": "surface rights vs mineral rights",
+ "metaTitle": "Surface vs. Mineral Estate | Split Estate Explained",
+ "metaDescription": "Confused why you own the minerals but not the land, or the land but not the minerals? Learn how a split estate works and what it means for selling oil royalties.",
+ "heroLead": "You can own every acre of land on the deed and still own none of the oil underneath it. That split confuses more owners than any other part of mineral law.",
+ "intro": [
+  "In a split estate, the surface and the minerals beneath it are owned separately, sometimes by the same family for generations, sometimes by two parties who have never met. It happens when a prior owner sold the land but kept the minerals, sold the minerals but kept the land, or when an inheritance divided the two along different lines over time.",
+  "This page explains how a split estate actually works day to day, what rights each side has when a well gets drilled, and how it affects the sale of an oil royalty specifically."
+ ],
+ "sections": [
+  {
+   "heading": "How land and minerals end up owned by different people",
+   "paragraphs": [
+    "The most common path is a mineral reservation: a prior owner sold the surface but recorded a deed reserving the minerals for themselves, a practice common across much of the oil and gas producing states for over a century. The reverse also happens, minerals sold or gifted away while the surface stayed with the family land.",
+    "Once split, the two estates can be transferred, inherited, or sold completely independently of each other from that point forward. A surface owner today may have no idea who currently holds the minerals underneath their own property, and vice versa."
+   ]
+  },
+  {
+   "heading": "Who has the right to drill, and what that means for the surface owner",
+   "paragraphs": [
+    "In most states, the mineral estate is legally dominant, meaning the mineral owner or their lessee has the right to reasonable use of the surface to access and produce the minerals, even if they own no surface acreage themselves. Operators typically negotiate a surface use agreement with the surface owner covering access roads, well pad location, and damages, but the underlying legal right to develop generally belongs to the mineral side.",
+    "If you own the surface but not the minerals, you generally cannot block reasonable drilling activity outright, though the surface use agreement is where you have real negotiating leverage over how that activity happens on your land."
+   ]
+  },
+  {
+   "heading": "What this means if you own only the minerals",
+   "paragraphs": [
+    "As a mineral owner without surface rights, none of the on-the-ground activity, road building, well pad construction, pipeline routing, is yours to manage or negotiate. Your interest is purely in the leasing, bonus, and royalty side of the equation, which is also the side that carries the well's decline curve once production begins.",
+    "This is worth clarifying early if you are trying to figure out what you actually own, since some owners assume they hold both estates when in fact a prior deed severed the minerals from the land decades ago, sometimes without the current owner ever realizing it."
+   ]
+  },
+  {
+   "heading": "Why this distinction matters when you sell",
+   "paragraphs": [
+    "A buyer purchasing your oil royalty is buying your mineral or royalty interest specifically, not any surface rights, regardless of whether you happen to also own the land. Confirming which estate you actually hold, minerals only, surface only, or both, is one of the first things a title search establishes, and it determines exactly what is being conveyed at closing.",
+    "If your deed or family history is unclear on this point, a quick review of the county records, or the mineral deed itself if you have a copy, usually settles it before you go any further into the sale process."
+   ]
+  },
+  {
+   "heading": "What surface owners should know about pad sites and damages",
+   "paragraphs": [
+    "When a well is drilled on land where the surface and minerals are split, the surface owner typically negotiates a damage payment for the pad site, access roads, and any disruption to farming or grazing use, separate entirely from any royalty, since the surface owner may hold no mineral interest at all. That negotiation happens directly with the operator, not with the mineral owner, who usually has no involvement in surface logistics.",
+    "Surface owners considering a sale of their surface acreage should understand that any existing well pads, pipelines, or access easements typically transfer with the land and remain in place regardless of who owns the surface going forward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If I own the land, do I automatically own the minerals under it?",
+   "answer": "Not necessarily. In a split estate, a prior owner may have reserved or sold the minerals separately from the surface, sometimes generations ago, leaving the current landowner with surface rights only."
+  },
+  {
+   "question": "Can a mineral owner drill on my land without my permission if I only own the surface?",
+   "answer": "In most states, yes, within reasonable limits, since the mineral estate is typically legally dominant. Surface owners generally negotiate a surface use agreement covering access and damages rather than blocking development outright."
+  },
+  {
+   "question": "How do I find out whether my minerals were ever severed from the surface?",
+   "answer": "County deed records will show any prior mineral reservation or conveyance. A title search or a review of your own deed history is the most reliable way to confirm it."
+  },
+  {
+   "question": "When I sell my mineral rights, does that include my land too?",
+   "answer": "No. Selling a mineral or royalty interest conveys only that interest. Any surface land you own separately is unaffected and stays with you unless you sell it separately."
+  },
+  {
+   "question": "Who negotiates payment for a well pad built on my land if I don't own the minerals?",
+   "answer": "The surface owner negotiates directly with the operator for pad site and access damages, a separate payment from any mineral royalty, since it compensates for surface disruption rather than production."
+  }
+ ],
+ "status": "written",
+ "wordCount": 950,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-selloilroyaltiesnow-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

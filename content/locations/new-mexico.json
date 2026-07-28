@@ -1,0 +1,82 @@
+{
+ "slug": "new-mexico",
+ "title": "Sell Mineral Rights in New Mexico",
+ "type": "state",
+ "group": "Delaware basin (Lea/Eddy), San Juan",
+ "primaryKeyword": "mineral rights new mexico",
+ "seo": {
+  "vol": 70,
+  "cpc": null
+ },
+ "metaTitle": "Sell Mineral Rights in New Mexico | Delaware Basin Royalties",
+ "metaDescription": "Own minerals in Lea, Eddy, or San Juan County, New Mexico? Two very different oil stories, two different decline curves. See how each is valued.",
+ "heroLead": "New Mexico holds two of the country's most different oil stories side by side, and knowing which one your minerals belong to changes everything about what they're worth.",
+ "intro": [
+  "Lea and Eddy counties sit inside the Delaware basin, the deepest and among the most actively drilled parts of the Permian, where operators are still stacking new horizontal wells across multiple pay zones. Several hundred miles northwest, San Juan County holds a completely different asset: one of the oldest continuously producing basins in the country, where the boom years ended long ago and most wells now sit deep into a slow, mature tail.",
+  "Selling minerals in either place starts the same way, by pulling recent check history and figuring out exactly where your specific well sits on its own decline curve, but the conversation from there looks nothing alike."
+ ],
+ "sections": [
+  {
+   "heading": "Delaware basin: still early on the curve",
+   "paragraphs": [
+    "Lea and Eddy counties have seen a wave of horizontal development stacked across the Wolfcamp, Bone Spring, and other Delaware basin zones, much of it drilled within the last several years. A well like that is often still working through its steep first-year decline or has only recently rolled onto the shallower part of its curve, which means there's meaningfully more production ahead of it than behind it.",
+    "That earlier position on the curve, combined with active offset drilling in a lot of Delaware basin sections, is why interests here tend to price differently than a mature well elsewhere in the state. Depending on activity, a buyer may weigh the possibility of additional wells being drilled on your unit into their offer."
+   ]
+  },
+  {
+   "heading": "San Juan basin: a long, mature tail",
+   "paragraphs": [
+    "San Juan and Rio Arriba counties tell an older story. Much of the basin's oil and coalbed methane production dates back decades, and new drilling has slowed considerably compared to the Delaware basin's pace. Wells here are typically well past any steep decline, producing small, steady volumes that change little from year to year.",
+    "That stability has a tradeoff. There's less upside from future drilling to price in, so a San Juan basin offer is built almost entirely around the well's current production and how many years of economic life realistically remain."
+   ]
+  },
+  {
+   "heading": "Reading your own decline curve before you talk to a buyer",
+   "paragraphs": [
+    "Pull twelve to twenty-four months of check stubs regardless of which basin you're in. A steep month-over-month drop points to a young Delaware basin well still working through early decline. A flat or barely-changing volume points to a mature San Juan basin well, or an older Delaware well that's already settled.",
+    "Knowing which pattern you're looking at before you get an offer means you can ask informed questions about how a buyer arrived at their number, rather than taking a single figure at face value."
+   ]
+  },
+  {
+   "heading": "New Mexico ownership and title considerations",
+   "paragraphs": [
+    "New Mexico has extensive state and federal trust lands mixed in with private minerals, particularly in Lea and Eddy counties, so it's worth confirming whether your interest is fee minerals or tied to a state or federal lease, since the transfer process differs. San Juan basin ownership often traces back to older ranch and homestead land that's split across multiple heirs.",
+    "If your title is unclear or shared among family members, talk to your attorney or a title examiner before signing anything, especially on Delaware basin acreage where an accurate legal description matters for pricing a still-active unit correctly. Ownership disputes and unresolved estates can also slow a closing considerably, so it's worth sorting those out early rather than after an offer is already on the table."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if I own Delaware basin or San Juan basin minerals?",
+   "answer": "Location tells you almost everything. Lea and Eddy counties in the southeast are Delaware basin. San Juan and Rio Arriba counties in the northwest are San Juan basin. Your division order will confirm the county."
+  },
+  {
+   "question": "Why would a Delaware basin offer be higher than a San Juan basin offer for a similar-sized interest?",
+   "answer": "Delaware basin wells are often earlier in their production life with more remaining reserves and possible offset drilling, while San Juan basin wells are typically mature with less future upside to price in."
+  },
+  {
+   "question": "Is my New Mexico interest tied to state trust land?",
+   "answer": "It's possible, since New Mexico has significant state and federal minerals mixed with private tracts, especially in the Permian counties. Your lease or division order will specify the lessor."
+  },
+  {
+   "question": "Does oil price volatility affect New Mexico offers more than other states?",
+   "answer": "Delaware basin pricing tends to move more with near-term oil price and drilling activity, while mature San Juan basin interests are more tied to steady production than to price swings."
+  },
+  {
+   "question": "What paperwork does a New Mexico buyer typically request?",
+   "answer": "Your division order, twelve to twenty-four months of check stubs, and the deed or probate documents showing how you acquired the interest, along with the well's API number if you have it."
+  },
+  {
+   "question": "Are royalty rates different between the two basins?",
+   "answer": "Rates depend on the original lease terms rather than the basin itself, so review your lease alongside your division order to understand exactly what fraction you're owed before comparing offers."
+  }
+ ],
+ "status": "written",
+ "wordCount": 889,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-new-mexico.jpg",
+  "alt": "Replacement Minerals in New Mexico location",
+  "width": 1600,
+  "height": 1000
+ }
+}

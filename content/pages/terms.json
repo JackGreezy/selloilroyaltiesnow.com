@@ -1,0 +1,86 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "metaTitle": "Terms of Use | Sell Oil Royalties",
+ "metaDescription": "Terms of use for this site, covering informational content, no-obligation offers, and the limits of what we provide as a direct mineral rights buyer.",
+ "heroLead": "Plain terms for a plain site: what this website is, what an offer from us actually means, and what we're not claiming to be.",
+ "intro": [
+  "These terms govern your use of this website and your interactions with us regarding oil mineral rights and royalty interests. By using this site or contacting us, you're agreeing to the terms below. They're written in plain language on purpose, since a mineral owner shouldn't need a law degree to understand what a website is promising and what it isn't.",
+  "If anything here is unclear, or you'd like it explained in a specific context, reach out through the contact page before relying on it for a decision."
+ ],
+ "sections": [
+  {
+   "heading": "What this site provides",
+   "paragraphs": [
+    "This website provides general educational information about oil mineral rights, royalty interests, and the process of selling them, along with a way to request a no-obligation purchase offer from us as a direct buyer. Nothing on this site is a guarantee of a specific price, timeline, or outcome, and value discussions are always hedged to reflect real market and well-performance uncertainty, not presented as fixed promises."
+   ]
+  },
+  {
+   "heading": "We are not appraisers, attorneys, or CPAs",
+   "paragraphs": [
+    "We are a direct buyer of mineral and royalty interests, not a licensed mineral appraiser, an attorney, or a certified public accountant. Content on this site describing valuation methods, title mechanics, or general tax treatment is educational in nature and should not be relied on as formal appraisal, legal, or tax advice. For a formal appraisal, legal review of title or documents, or tax guidance specific to your situation, consult a licensed professional in that field."
+   ]
+  },
+  {
+   "heading": "Offers are non-binding until signed",
+   "paragraphs": [
+    "Any offer we provide, verbally, by email, or in writing, is non-binding and subject to our completion of title review and mutual agreement on final terms, until both parties sign a formal purchase agreement and closing documents. Requesting or receiving an offer does not create any obligation on your part to sell, and does not create any obligation on our part to purchase, until those documents are executed."
+   ]
+  },
+  {
+   "heading": "Accuracy of information you provide",
+   "paragraphs": [
+    "You're responsible for the accuracy of information and documents you provide to us in connection with an inquiry or transaction. We rely on that information, along with independent county and, where applicable, operator records, to evaluate an interest and prepare closing documents, and material inaccuracies can affect an offer or delay a closing."
+   ]
+  },
+  {
+   "heading": "No guarantee of value, timing, or outcome",
+   "paragraphs": [
+    "Mineral and royalty values depend on well performance, commodity prices, and operator decisions, none of which either party controls, so nothing on this site or in an initial conversation should be read as a fixed price commitment, a promised timeline, or an assured outcome. Any figures discussed before formal title review and a signed agreement are preliminary and subject to change based on what that review finds."
+   ]
+  },
+  {
+   "heading": "Limitation of liability and governing terms",
+   "paragraphs": [
+    "To the extent permitted by law, we are not liable for decisions made based solely on general information provided on this site, which is educational and not a substitute for professional advice tailored to your specific interest. These terms may be updated from time to time, and continued use of the site after changes are posted constitutes acceptance of the current version. If any provision here is found unenforceable, the remaining terms continue to apply."
+   ]
+  },
+  {
+   "heading": "How disputes are generally handled",
+   "paragraphs": [
+    "If a disagreement arises between us regarding these terms or a transaction, we'd rather resolve it directly through a conversation than through a formal process, and we encourage you to reach out first. Nothing in these terms is intended to limit any rights or remedies you have under applicable law, and these terms should be read alongside, not in place of, the specific purchase agreement governing any actual transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a verbal offer from you binding?",
+   "answer": "No, any offer discussed before a signed purchase agreement and closing documents is preliminary and non-binding on either party, and either side can walk away without penalty up to that point."
+  },
+  {
+   "question": "Can I rely on this site's content instead of talking to a CPA or attorney?",
+   "answer": "No, content here is general and educational, and for tax or legal guidance specific to your situation you should consult a licensed CPA or attorney familiar with your circumstances."
+  },
+  {
+   "question": "What if the documents I provide turn out to be inaccurate?",
+   "answer": "Since offers and closing documents rely on the information and documents you provide, material inaccuracies can affect the offer or delay closing until they're resolved."
+  },
+  {
+   "question": "Do these terms guarantee a specific closing timeline?",
+   "answer": "No, timelines depend on title complexity and other factors specific to your interest, so nothing here should be read as a fixed guarantee, and any specific timeline discussed is an estimate, not a commitment."
+  },
+  {
+   "question": "Who do I contact with questions about these terms?",
+   "answer": "Reach out through the contact page and we'll address any specific questions about how these terms apply to your situation, including how they interact with a specific purchase agreement."
+  }
+ ],
+ "status": "written",
+ "wordCount": 853,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-selloilroyaltiesnow-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

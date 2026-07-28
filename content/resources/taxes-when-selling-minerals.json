@@ -1,0 +1,71 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "metaTitle": "Taxes on Selling Oil Mineral Rights, Explained",
+ "metaDescription": "How selling mineral rights is generally taxed, capital gains treatment, depletion basis, and why the timing of a sale can matter, explained plainly.",
+ "heroLead": "Taxes are usually the last thing a mineral owner thinks about and the first thing that determines what they actually keep. Here's the general shape of it, in plain terms.",
+ "intro": [
+  "Selling a producing or non-producing mineral interest is generally treated as a sale of real property for tax purposes, which puts it in different territory than the ordinary income tax owed on royalty checks. That distinction matters, and it's one of the more misunderstood parts of the whole process. This guide explains the general framework, not your specific numbers, since every owner's basis, holding period, and state situation is different.",
+  "None of this is a substitute for advice from your own CPA or tax advisor, and we'll say that plainly rather than pretend otherwise, but understanding the general shape helps you ask better questions when you do talk to one."
+ ],
+ "sections": [
+  {
+   "heading": "Capital gains, generally, not ordinary income",
+   "paragraphs": [
+    "A sale of mineral rights is generally treated as a capital transaction, meaning the gain, sale price minus your cost basis, is typically subject to capital gains tax rather than ordinary income tax rates. This differs from royalty income, which is generally taxed as ordinary income each year it's received. Whether a gain qualifies for long-term capital gains treatment usually depends on how long you or a prior owner in your chain of title held the interest, which is a question worth bringing directly to your tax advisor with your specific dates."
+   ]
+  },
+  {
+   "heading": "Inherited interests often carry a stepped-up basis",
+   "paragraphs": [
+    "Many mineral owners hold interests that passed down through a family, and inherited property generally receives a basis adjustment to its value as of the date of the prior owner's death, rather than what that owner originally paid decades earlier. This can significantly reduce taxable gain on a sale, which is one reason inherited mineral interests are sometimes more favorable to sell than to hold indefinitely from a tax standpoint, though that depends entirely on your specific situation and should be confirmed with your advisor, not assumed.",
+    "If the interest passed through multiple generations without a formal appraisal at each transfer, establishing the correct stepped-up value can take some documentation work, sometimes a retrospective valuation tied to the date of death. It's worth raising this with your CPA well before a closing date is set, rather than scrambling to reconstruct records afterward."
+   ]
+  },
+  {
+   "heading": "Cost basis and depletion can complicate the number",
+   "paragraphs": [
+    "Your cost basis is generally what you or a prior owner originally paid for the interest, or, for inherited minerals, typically the stepped-up value described above. If you've been claiming a depletion deduction against royalty income over the years, that can reduce your basis further, which in turn can affect the size of the taxable gain on a later sale. This is exactly the kind of interaction between years of prior filings and a single sale that's worth walking through with a CPA before you close, not after.",
+    "Depletion comes in two general forms, cost depletion and percentage depletion, and which one you've been using historically matters for how your basis has been tracked. Bring your last few years of returns to the conversation with your tax advisor so the calculation reflects what was actually filed rather than a default assumption."
+   ]
+  },
+  {
+   "heading": "State severance and property tax loose ends",
+   "paragraphs": [
+    "Beyond the sale itself, most producing states also apply severance tax to the production stream while it's flowing and, in some states, an ad valorem or mineral property tax assessed by the county. Selling doesn't retroactively change what was owed on income already received, but it's reasonable to confirm any outstanding local tax obligations are current before or at closing, so nothing carries forward as a lien issue.",
+    "A title company or buyer's closing team will often check for outstanding county mineral tax liens as part of routine due diligence, but it's still worth pulling your own recent county tax statement ahead of time so there are no surprises late in the process."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Will I owe taxes the same year I sell?",
+   "answer": "Generally the gain is reported for the tax year the sale closes in, but the specific timing and any estimated payment obligations depend on your overall tax situation, so this is worth confirming with your CPA or tax advisor before closing."
+  },
+  {
+   "question": "Is selling minerals taxed differently than selling a house?",
+   "answer": "The general capital gains framework is similar, but mineral-specific issues like depletion basis and prior royalty deductions can make the calculation different, which is another reason to loop in a tax advisor familiar with oil and gas."
+  },
+  {
+   "question": "Does an inherited interest reset my tax basis?",
+   "answer": "Inherited property generally receives a stepped-up basis to fair market value at the date of death, though the exact rules and any exceptions should be confirmed with your tax advisor for your situation."
+  },
+  {
+   "question": "Can you tell me exactly what I'll owe if I sell to you?",
+   "answer": "No, and we wouldn't want to guess. We can tell you the sale price and terms clearly, but your actual tax liability depends on your basis, holding period, and overall return, so talk to your CPA with our numbers in hand."
+  },
+  {
+   "question": "Do I need to do anything with my state before closing?",
+   "answer": "It's worth confirming any county ad valorem or severance tax obligations tied to the interest are current, since outstanding local tax issues can otherwise complicate or delay a closing."
+  }
+ ],
+ "status": "written",
+ "wordCount": 917,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-selloilroyaltiesnow-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

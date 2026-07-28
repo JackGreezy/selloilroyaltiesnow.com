@@ -1,0 +1,81 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "metaTitle": "Documents You Need to Sell Mineral Rights",
+ "metaDescription": "The real checklist of deeds, statements, and probate paperwork a mineral rights buyer needs, plus where to find each one if you've misplaced it.",
+ "heroLead": "You don't need a filing cabinet full of paperwork to sell your minerals. You need a handful of specific documents, and most people already have at least half of them somewhere in a drawer.",
+ "intro": [
+  "One of the biggest reasons mineral owners stall out before selling is that the paperwork feels overwhelming before anyone's even looked at it. In practice, a title and closing package for a mineral sale is shorter than most people expect, and several of the documents can be pulled from a county courthouse or an operator's records department if your own copies are missing.",
+  "This checklist walks through what's actually needed, why each piece matters, and what to do if a document was lost, never received, or belongs to a relative who passed the interest down to you."
+ ],
+ "sections": [
+  {
+   "heading": "The deed that shows how you got the minerals",
+   "paragraphs": [
+    "This is the foundational document, whatever deed or instrument shows how the mineral interest came to you or your family, a warranty deed, a mineral deed, or a will. If you inherited the interest, this may be a probate order, a court decree of heirship, or an affidavit of heirship recorded in the county where the minerals sit. If you've never seen this document, the county clerk or recorder's office where the land is located can usually locate a recorded copy for a small fee."
+   ]
+  },
+  {
+   "heading": "A recent tax statement or division order",
+   "paragraphs": [
+    "A mineral ad valorem tax statement or a division order both confirm current ownership and, often, the decimal interest tied to a producing well. Either one speeds up a buyer's title work considerably, because it's independent confirmation from a third party, the county or the operator, rather than relying only on your own deed history."
+   ]
+  },
+  {
+   "heading": "Recent royalty check stubs, if the minerals are producing",
+   "paragraphs": [
+    "Three to six months of statements let a buyer see actual production and price data rather than working from public estimates alone. If you've misplaced physical stubs, most operators have an owner-relations portal or phone line that can reissue statement history, and it's worth requesting it even before you talk to a buyer."
+   ]
+  },
+  {
+   "heading": "Probate or heirship paperwork, if the interest was inherited",
+   "paragraphs": [
+    "Land passed through a family without formal probate is common, especially on older tracts, and it doesn't disqualify you from selling, but it does mean a title company or buyer will need to see whatever documentation exists showing the chain from the original owner to you: a will, a court order, or heirship affidavits signed by family members. If nothing was ever filed, this is worth raising early, since it's a normal, fixable situation rather than a dead end."
+   ]
+  },
+  {
+   "heading": "What you don't need to track down yourself",
+   "paragraphs": [
+    "You generally don't need a survey, a formal appraisal, or a lease copy in hand before starting a conversation, a buyer's own title work will pull lease and unit records from the county and the operator. Chasing every document yourself before reaching out often just delays a process that a buyer's title team is set up to run in parallel with everything else."
+   ]
+  },
+  {
+   "heading": "A simple order for pulling it together",
+   "paragraphs": [
+    "If you're starting from scratch, request your county tax statement first since it's usually the fastest to obtain and confirms current ownership on record. Follow with a call to the operator's owner-relations line for a division order and recent statement history if the tract is producing. Save the deed or heirship search for last, since it may involve the county clerk's office and can take a little longer to process, especially if older records aren't yet digitized.",
+    "None of these steps require paying for expedited service in most counties, a standard request handled a week or two ahead of when you expect to need it is usually enough."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find my original deed at all?",
+   "answer": "The county clerk or recorder where the minerals are located keeps recorded copies, and either you or a buyer's title team can typically pull one for a modest fee, so a missing copy at home is rarely a dead end."
+  },
+  {
+   "question": "Do I need a lawyer to gather these documents?",
+   "answer": "Most owners can request statements and recorded copies directly, though if the interest passed through an estate without formal probate, a local probate or real estate attorney can help sort out the heirship documentation."
+  },
+  {
+   "question": "What if I only have a partial interest and my siblings own the rest?",
+   "answer": "Each co-owner typically needs their own deed history and can sell their own share independently, so gathering your portion of the documents is usually enough to move forward on your interest alone."
+  },
+  {
+   "question": "Can I start the process before I have everything together?",
+   "answer": "Yes, most buyers, including us, will start reviewing what you have and identify what's still needed rather than waiting for a complete file up front."
+  },
+  {
+   "question": "Do non-producing minerals need different documents than producing ones?",
+   "answer": "The core ownership documents are the same, deed and heirship paperwork, but you'd skip the royalty statement step since there's no production history to provide yet."
+  }
+ ],
+ "status": "written",
+ "wordCount": 863,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-selloilroyaltiesnow-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

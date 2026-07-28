@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://selloilroyaltiesnow.com/sitemap.xml
+# AI: https://selloilroyaltiesnow.com/llms.txt

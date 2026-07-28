@@ -1,0 +1,74 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "metaTitle": "How Mineral Rights Are Appraised: Methods Explained",
+ "metaDescription": "The methods used to appraise oil mineral rights, income-based discounted cash flow versus market comparables, and when you need a formal appraisal.",
+ "heroLead": "There's a real difference between a buyer's purchase offer and a formal appraisal, and knowing which one you're looking at changes what you should expect from the number.",
+ "intro": [
+  "Appraisal and valuation get used interchangeably in casual conversation, but they're not the same thing, and the distinction matters most when you need a number for a specific legal or financial purpose, an estate filing, a divorce settlement, a gift tax return, rather than just to sell. This guide walks through the two dominant methods used to arrive at a mineral value, and when a formal, credentialed appraisal is actually required versus when a buyer's own analysis is enough.",
+  "We are not licensed appraisers, and we'll say that plainly, we're a direct buyer using our own analysis to make purchase offers, so if you need a formal appraisal for a legal purpose, this guide will help you understand what that process involves elsewhere."
+ ],
+ "sections": [
+  {
+   "heading": "The income approach: discounted cash flow",
+   "paragraphs": [
+    "This is the dominant method for producing minerals and the one most buyers, appraisers, and courts rely on. It forecasts future production using a decline curve built from the well's actual history and comparable wells nearby, applies a price deck for future oil and gas prices, subtracts expected costs, and discounts the resulting cash flow stream back to a present value using a rate that reflects the risk involved. It's the most defensible method because it's grounded in the well's own performance data rather than broad averages, and it's the standard most formal appraisals lean on for producing interests."
+   ]
+  },
+  {
+   "heading": "The market approach: comparable sales",
+   "paragraphs": [
+    "This method looks at recent sales of similar mineral interests in the same county or play and derives a price-per-acre benchmark from them. It's faster to apply and useful as a sanity check, but it's a weaker primary method for producing minerals because no two tracts have identical decline stages, decimal interests, or well counts, comparable sales data can be a useful cross-check, but relying on it alone tends to miss the specifics that actually drive value on your particular interest."
+   ]
+  },
+  {
+   "heading": "Non-producing minerals lean more heavily on comparables",
+   "paragraphs": [
+    "Without production history, there's no decline curve to forecast, so non-producing tracts are typically valued using nearby lease bonus activity, permit and drilling trends in the area, and comparable sales, weighted toward the market approach out of necessity rather than preference. This is also why non-producing valuations tend to carry a wider range than producing ones, there's inherently less hard data to anchor the number."
+   ]
+  },
+  {
+   "heading": "When you actually need a formal, credentialed appraisal",
+   "paragraphs": [
+    "A formal appraisal from a credentialed mineral appraiser is typically needed for estate tax filings, gift tax reporting, divorce or partition proceedings, or any situation requiring a defensible number for a taxing authority or a court. A buyer's purchase offer, including ours, is not a substitute for that, it's a market offer, not a certified valuation, and treating the two as interchangeable can create real problems if you later need documentation for the IRS or a court."
+   ]
+  },
+  {
+   "heading": "How a discounted cash flow forecast is actually built",
+   "paragraphs": [
+    "In practice, building a decline-based forecast starts with pulling a well's monthly production history from state regulatory filings, fitting a decline curve to that history, and projecting it forward to an economic limit. That volume forecast is then multiplied by a price deck, reduced for operating costs and severance tax, and discounted back to a present value. Each of those steps involves judgment, which is exactly why two careful analysts can land on different, both reasonable, numbers for the same well."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is your purchase offer the same as a formal appraisal?",
+   "answer": "No, our offer reflects our own analysis as a direct buyer, not a credentialed appraisal, and if you need a formal appraisal for estate, gift, or legal purposes, that requires a licensed appraiser working to the standard your specific situation calls for."
+  },
+  {
+   "question": "Which method gives a higher number, income or market approach?",
+   "answer": "Neither is inherently higher, they're different lenses on the same asset, and a careful valuation on producing minerals often uses the income approach as primary with market comparables as a sanity check, rather than picking one and ignoring the other."
+  },
+  {
+   "question": "Why do non-producing minerals get such a wide value range?",
+   "answer": "Without a production history to forecast from, valuation depends more on nearby activity and lease trends, which can shift quickly and vary widely from one tract to a neighboring one."
+  },
+  {
+   "question": "Do I need an appraisal just to sell to a direct buyer?",
+   "answer": "No, a direct sale doesn't require a formal appraisal, though nothing stops you from getting an independent opinion before deciding if you want additional confidence in a number before you sign anything."
+  },
+  {
+   "question": "What documentation does a formal appraisal usually require?",
+   "answer": "Typically deed and title history, recent production statements if the interest is producing, and details on the specific purpose of the appraisal, since estate, gift, and legal appraisals can follow different standards and sometimes require a specific effective date for the valuation."
+  }
+ ],
+ "status": "written",
+ "wordCount": 854,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-selloilroyaltiesnow-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

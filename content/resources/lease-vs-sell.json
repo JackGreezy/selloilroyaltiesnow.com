@@ -1,0 +1,74 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "metaTitle": "Lease vs. Sell Mineral Rights: How to Decide",
+ "metaDescription": "A clear comparison of leasing versus selling oil mineral rights, including decline timing, control, and risk, to help you weigh which fits your situation.",
+ "heroLead": "Leasing and selling solve different problems. Confusing them is the most common reason owners end up unhappy with a decision that was actually right for someone else.",
+ "intro": [
+  "Leasing and selling both put money in your pocket, and both get lumped together in casual conversation as 'doing something with your minerals.' But they're structurally different decisions with different risk profiles, and the right one depends heavily on whether your interest is already producing, where it sits on the decline curve, and how much uncertainty you're willing to carry.",
+  "This guide lays out the honest tradeoffs of each, not a sales pitch for one over the other, since the right answer genuinely depends on your specific interest and situation."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually is",
+   "paragraphs": [
+    "Leasing grants an operator the right to explore for and produce oil and gas on your minerals for a set term, usually in exchange for an upfront bonus payment and an ongoing royalty once, and if, a well is drilled. You keep ownership of the minerals themselves. Leasing works well when your tract is non-producing and sits in an area with active or likely drilling, since it lets you capture upside if a well is drilled, without giving up the asset. The tradeoff is that you're carrying all the same risk as an owner, if nothing gets drilled during the lease term, or a well underperforms, the value doesn't materialize."
+   ]
+  },
+  {
+   "heading": "What selling actually is",
+   "paragraphs": [
+    "Selling transfers your ownership of the minerals entirely, in exchange for a lump sum today. You give up all future royalty income and any future lease-bonus potential, but you also give up all future risk, decline, commodity price swings, an operator that slows down drilling, none of it is your concern anymore. Selling tends to make the most sense once a well is well into its decline curve, where the remaining income is smaller and more front-loaded into the near term than it might appear from the outside."
+   ]
+  },
+  {
+   "heading": "The decline curve is what actually tips the decision",
+   "paragraphs": [
+    "For a producing oil well, this is the crux of it: early in a well's life, when production and remaining value are both high, holding and collecting royalty often captures more total value over time than selling would. Late in the decline curve, when a well's remaining economic life is short and the income stream is thinning, the case for holding weakens, since there's simply less future value left to wait for, and a lump sum today can represent a larger share of what's realistically left than it would have years earlier."
+   ]
+  },
+  {
+   "heading": "Control, taxes, and how much uncertainty you want to carry",
+   "paragraphs": [
+    "Beyond the math, it's worth being honest about preference. Some owners want ongoing involvement, watching statements, tracking activity nearby, and are comfortable with the uncertainty that comes with it. Others would rather have a defined number today and be done managing an asset they can't control the operation of. Selling and leasing are also generally taxed differently, sale proceeds as a capital transaction, royalty income as ordinary income each year, which is worth discussing with your tax advisor as part of the decision, not an afterthought."
+   ]
+  },
+  {
+   "heading": "A middle path some owners overlook",
+   "paragraphs": [
+    "You don't always have to choose all or nothing. Selling a portion of a producing interest, while keeping the rest, lets you capture some value today while retaining exposure to whatever production remains. This can suit an owner who wants to reduce uncertainty without fully exiting, especially on a tract with multiple wells or a long remaining production life, and it's worth raising directly with a buyer if a full sale doesn't feel like the right fit."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease first and sell later?",
+   "answer": "Yes, this is common, an owner leases non-producing minerals, and once a well is drilled and has some production history, the producing interest becomes easier to value and sell if they choose to."
+  },
+  {
+   "question": "Is selling always the wrong move on a strong producing well?",
+   "answer": "Not always, personal circumstances, an immediate need for funds, or a preference to simplify your finances can make selling reasonable even on a well with years of production ahead, it's a legitimate tradeoff that goes beyond the math problem."
+  },
+  {
+   "question": "What if I already leased and the well hasn't been drilled yet?",
+   "answer": "You can typically still sell your mineral interest subject to the existing lease, and a buyer will factor the lease terms and any bonus already paid into their evaluation."
+  },
+  {
+   "question": "Does selling affect my ability to lease other minerals I own elsewhere?",
+   "answer": "No, each mineral interest is independent, so selling one tract has no bearing on your ownership or leasing decisions for minerals you hold in another county or state."
+  },
+  {
+   "question": "How do I know where my well is on the decline curve?",
+   "answer": "Your recent royalty statements are the best starting point, tracking volume trends over six to twelve months gives a real read on whether a well is early, mid, or late in its production life."
+  }
+ ],
+ "status": "written",
+ "wordCount": 852,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-selloilroyaltiesnow-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "metaTitle": "Privacy Policy | Sell Oil Royalties",
+ "metaDescription": "Our privacy policy explains what information we collect when you contact us about selling mineral rights or royalties, how it's used, and your choices.",
+ "heroLead": "This page explains, in plain language, what we collect when you reach out, why we collect it, and how it's handled.",
+ "intro": [
+  "We collect information from you when you request an offer, ask a question, or otherwise contact us about a mineral or royalty interest. This policy describes what that typically includes, how we use it to evaluate and communicate with you about your interest, and the choices you have about it. It applies to information collected through this website and through direct contact by phone, email, or mail.",
+  "We are not selling your personal information to third parties for marketing purposes, and we don't share the details of your mineral interest beyond what's needed to evaluate it and, if you choose to proceed, complete a transaction."
+ ],
+ "sections": [
+  {
+   "heading": "Information we collect",
+   "paragraphs": [
+    "When you contact us, we typically collect your name, phone number, email address, and details about your mineral or royalty interest, which may include the county and state, legal description, decimal interest, and copies of documents you choose to share, such as a deed, division order, or royalty statement. If you submit a form on this site, we also collect the information you enter into that form directly.",
+    "We may also collect basic technical information automatically when you visit the site, such as your browser type and general usage patterns, through standard analytics tools, which helps us understand how the site is used and where it can be improved."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "We use the information you provide to evaluate your interest, prepare and communicate an offer, and, if you choose to proceed, complete the title work and closing process for a purchase. We may also use your contact information to follow up on an inquiry or answer a question you've raised. We do not use the details of your mineral ownership for any purpose beyond evaluating and, where applicable, completing a transaction with you.",
+    "Any documents you share, deeds, statements, division orders, are used solely for the purpose of reviewing your interest and are handled with the same care we'd expect for our own records."
+   ]
+  },
+  {
+   "heading": "When we share information",
+   "paragraphs": [
+    "We may share necessary information with title companies, county recording offices, or other parties directly involved in completing a transaction you've chosen to move forward with. We do not sell your personal information to data brokers or third-party marketers. We may disclose information if required by law, such as in response to a valid legal request, but that is not our default practice."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we hold about you, request that we correct inaccurate details, or ask that we delete information that isn't needed for an active or completed transaction, and we'll accommodate reasonable requests where we're not otherwise required to retain records. Reaching out to discuss your interest doesn't obligate you to continue, and you can ask us to stop contacting you at any point."
+   ]
+  },
+  {
+   "heading": "Data retention and security",
+   "paragraphs": [
+    "We retain information for as long as reasonably necessary to evaluate an inquiry, complete a transaction, or satisfy recordkeeping obligations tied to a closed sale, such as title and closing documentation. We use reasonable administrative and technical safeguards to protect the information you share with us, though no method of transmission or storage online is ever completely without risk, which is worth knowing plainly rather than glossed over."
+   ]
+  },
+  {
+   "heading": "Changes to this policy and how to reach us",
+   "paragraphs": [
+    "We may update this policy from time to time to reflect changes in our practices or for legal reasons, and the version posted here is the current one. If you have questions about how your information is handled, or want to make a request regarding your data, reach out through the contact page and we'll respond directly.",
+    "If we make a material change to how we collect or use information, we'll update the effective date associated with this policy so returning visitors can see that something changed rather than assuming the practices are unchanged year over year."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my information to marketers?",
+   "answer": "No, we don't sell your personal information to data brokers or third-party marketers, and we only share what's necessary with parties directly involved in completing a transaction you've chosen to pursue."
+  },
+  {
+   "question": "What happens to my documents if I don't end up selling?",
+   "answer": "Documents shared for evaluation are used only for that purpose, and you can request they be deleted from our records once an inquiry is no longer active."
+  },
+  {
+   "question": "Can I ask what information you have about me?",
+   "answer": "Yes, reach out through the contact page and we'll provide a reasonable summary of what we hold and address any correction or deletion requests."
+  },
+  {
+   "question": "Do you use cookies or tracking on this site?",
+   "answer": "We may use standard analytics tools to understand general site usage, such as browser type and page visits, which helps us improve the site rather than target you individually."
+  },
+  {
+   "question": "Who can I contact with privacy questions?",
+   "answer": "Use the contact page to reach us directly with any questions about this policy or your personal information."
+  }
+ ],
+ "status": "written",
+ "wordCount": 865,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-selloilroyaltiesnow-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

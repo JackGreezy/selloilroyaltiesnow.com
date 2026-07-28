@@ -1,0 +1,81 @@
+{
+ "slug": "kansas",
+ "title": "Sell Mineral Rights in Kansas",
+ "type": "state",
+ "group": "Mississippian, Hugoton",
+ "primaryKeyword": "mineral rights kansas",
+ "seo": {
+  "vol": 40,
+  "cpc": 4.84
+ },
+ "metaTitle": "Sell Mineral Rights in Kansas | Mississippian Oil Guide",
+ "metaDescription": "Kansas splits between Mississippian Lime oil and Hugoton gas. Learn how water cut affects an oil check here and what it takes to get a fair offer.",
+ "heroLead": "Kansas oil owners in the Mississippian Lime deal with something most other plays do not talk about enough: water. Lots of it, and it changes how the check behaves.",
+ "intro": [
+  "South-central Kansas, across counties like Barber, Harper, Comanche, and Kingman, sits on the Mississippian Lime, an oil-weighted play that saw heavy horizontal drilling activity in the early 2010s. Southwest Kansas, by contrast, sits over the Hugoton field, one of the largest natural gas fields ever discovered in North America, spanning into Oklahoma and Texas. If your interest is Hugoton, you are a gas owner; if it is Mississippian Lime, you are an oil owner, and this page focuses on what that oil production actually looks like.",
+  "The defining feature of Mississippian Lime oil wells is high water cut, meaning these wells produce a lot of saltwater alongside the oil. That reality shapes lifting costs, operator economics, and ultimately how your royalty check behaves over time, so it is worth understanding before you think about selling."
+ ],
+ "sections": [
+  {
+   "heading": "Why Water Cut Matters for Your Kansas Check",
+   "paragraphs": [
+    "A typical Mississippian Lime well produces several barrels of saltwater for every barrel of oil, and the operator has to gather, transport, and dispose of that water, usually through injection wells, at real cost. When oil prices are strong, that cost is easy to absorb; when prices fall, high-water-cut wells are often among the first an operator slows down or shuts in, because the economics get thin faster than on a lower-water-cut well elsewhere.",
+    "This means your Mississippian Lime royalty check can be more sensitive to oil price swings than a comparable well in a play with lower water cut, and it is worth watching your statement's oil volume alongside price rather than assuming price alone explains every change."
+   ]
+  },
+  {
+   "heading": "The 2010s Drilling Wave and What Came After",
+   "paragraphs": [
+    "The Mississippian Lime saw a real horizontal drilling boom roughly from 2011 to 2015, with a large number of wells drilled across Barber, Harper, and neighboring counties. Activity slowed considerably after oil prices fell in 2014 and 2015, and it has stayed relatively quiet since, so most current owners are watching wells that are now several years to a decade past their initial completion, sitting on the flatter, later part of the decline curve rather than early volatile production.",
+    "That timing matters for how you read your own history. If your check has been fairly steady over the past several years, with change tied mostly to price rather than a falling volume line, that is a sign your well has already moved into the mature phase of production, which is generally easier to value than a well still working through its first two or three years."
+   ]
+  },
+  {
+   "heading": "Hugoton Gas: A Different Kansas Story Entirely",
+   "paragraphs": [
+    "If your interest is in Grant, Stevens, Haskell, or a neighboring far-southwest Kansas county, you are almost certainly a Hugoton gas owner. Hugoton has been producing since the 1920s and is one of the longest-lived gas fields in the country, with a slow, gradual decline shaped more by field-wide depletion over a century than by any single well's curve. Your check there moves largely with national gas pricing."
+   ]
+  },
+  {
+   "heading": "Selling a Mississippian Lime Interest",
+   "paragraphs": [
+    "Because Mississippian Lime wells are now years removed from their initial drilling wave, we can price them from real, multi-year production history rather than a projection, which generally makes for a more confident offer. We weigh your recent water and oil volumes together, current oil pricing, and county-level activity when building a figure.",
+    "For Hugoton gas interests, we look at the field's long-term depletion trend and current gas pricing instead, since the underlying dynamics are so different from an oil-weighted Mississippian Lime interest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Kansas an oil state or a gas state?",
+   "answer": "Both. South-central counties like Barber, Harper, and Comanche are Mississippian Lime oil country. Far-southwest counties like Grant, Stevens, and Haskell sit over the Hugoton gas field."
+  },
+  {
+   "question": "Why does my Mississippian Lime check swing more than I expected?",
+   "answer": "These wells typically produce a high ratio of saltwater to oil, and disposal costs eat into the economics faster when oil prices drop. That makes the checks more sensitive to price swings than a comparable well with lower water cut."
+  },
+  {
+   "question": "Is Mississippian Lime drilling still active?",
+   "answer": "Not at the pace it was during the 2011 to 2015 boom. Activity slowed considerably after the 2014 to 2015 oil price drop, and most current wells are several years to a decade past their initial completion."
+  },
+  {
+   "question": "How old is Hugoton field production?",
+   "answer": "Hugoton has been producing since the 1920s, making it one of the longest-lived gas fields in the country. Its decline is gradual and field-wide rather than tied to any single well's curve."
+  },
+  {
+   "question": "What determines an offer on my Kansas interest?",
+   "answer": "For Mississippian Lime oil, we weigh your recent oil and water volumes together, current oil pricing, and county activity. For Hugoton gas, we weigh the field's long-term depletion trend and current gas pricing. Either way, the figure is grounded in your actual data."
+  },
+  {
+   "question": "Should I expect much new drilling near my Mississippian Lime interest?",
+   "answer": "Activity has stayed relatively light since the mid-2010s slowdown, so a near-term jump in drilling near an established interest is not the typical case. Most current value comes from the well's existing production history rather than expected new wells."
+  }
+ ],
+ "status": "written",
+ "wordCount": 912,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-kansas.jpg",
+  "alt": "Replacement Minerals in Kansas location",
+  "width": 1600,
+  "height": 1000
+ }
+}

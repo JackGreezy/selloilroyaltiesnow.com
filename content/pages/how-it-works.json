@@ -1,0 +1,98 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "metaTitle": "How Selling Oil Royalties Works, Step by Step",
+ "metaDescription": "How selling your oil mineral rights or royalty interest works from first contact through closing, including timelines and what each step involves.",
+ "heroLead": "Six steps, most of them handled without you chasing anything. Here's exactly what happens between your first phone call and a recorded deed.",
+ "intro": [
+  "There's no shortage of vague promises about how easy selling minerals is supposed to be. We'd rather just show you the actual sequence, what we need from you, what we do on our end, and roughly how long each stage tends to take, so you know what to expect before you start.",
+  "None of this requires you to already understand decline curves or title law. We handle the technical side, our job is to make each step clear enough that you're never wondering what happens next."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: tell us what you have",
+   "paragraphs": [
+    "Reach out with whatever documents are on hand, a deed, a division order, or recent royalty statements. A partial file is a completely normal starting point, we'll identify what else is needed as we go rather than asking you to assemble everything up front."
+   ]
+  },
+  {
+   "heading": "Step two: we pull the records",
+   "paragraphs": [
+    "We check county records for your legal description and prior deed history, and if the interest is producing, we look at the well's actual production data and how comparable wells nearby have declined over time. This typically takes a few days once we have enough information to start."
+   ]
+  },
+  {
+   "heading": "Step three: we build and explain an offer",
+   "paragraphs": [
+    "Using your decimal interest and the well's decline stage, we build a forecast and translate it into a purchase number. We'll walk you through the basics of how we got there, which wells, roughly what assumptions, so the offer isn't a mystery figure dropped in your inbox."
+   ]
+  },
+  {
+   "heading": "Step four: you decide, on your own timeline",
+   "paragraphs": [
+    "Review the offer, compare it against your own records or another buyer's number if you'd like, and ask any questions. There's no obligation at this stage, and no cost to you either way. If it doesn't fit, walking away costs nothing."
+   ]
+  },
+  {
+   "heading": "Step five: title work and closing prep",
+   "paragraphs": [
+    "If you accept, our title team confirms your ownership through county records and resolves any curative issues, common on older or family-divided tracts, before preparing the purchase agreement and mineral deed. This stage generally takes the most calendar time, typically a few weeks."
+   ]
+  },
+  {
+   "heading": "Step six: sign, close, and it's done",
+   "paragraphs": [
+    "You sign the closing documents, funds are disbursed per the agreed terms, and the deed is recorded at the county courthouse, which finalizes the sale publicly. From that point forward, future production and any operator decisions belong to us, not you."
+   ]
+  },
+  {
+   "heading": "What we handle so you don't have to",
+   "paragraphs": [
+    "County record research, coordinating with the well operator on the division order update, and preparing the closing paperwork are all handled on our end. You're never expected to track down a title abstract yourself or interpret legal filings alone, if something needs your input, like a missing heirship document, we'll tell you specifically what's needed and why."
+   ]
+  },
+  {
+   "heading": "How communication works along the way",
+   "paragraphs": [
+    "You'll hear from the same point of contact at each stage rather than being passed between departments, and we'll flag delays as soon as we're aware of them rather than letting a stage go quiet. If a title issue adds time to the timeline, we'll explain what it is in plain terms and what's being done to resolve it."
+   ]
+  },
+  {
+   "heading": "What this looks like for a producing versus a non-producing interest",
+   "paragraphs": [
+    "On a producing tract, steps two and three lean heavily on your recent royalty statements and the well's decline history, which is usually the fastest part of the process once documents are in hand. On a non-producing tract, we spend more time on nearby permitting and leasing activity instead, since there's no production data yet, and we'll walk you through that difference directly rather than treating both cases the same way."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the very first thing I should send you?",
+   "answer": "Anything you have, a deed, a division order, or a recent statement, is enough to start, there's no single required document to begin the conversation."
+  },
+  {
+   "question": "How long does the title work step usually take?",
+   "answer": "It depends on how many prior owners and heirs are in the chain of title, a clean single-owner tract moves faster than an older, multi-heir tract that needs curative work resolved before documents can be finalized."
+  },
+  {
+   "question": "Can I stop the process at any point before closing?",
+   "answer": "Yes, at any point before you sign closing documents you're free to walk away with no cost or obligation."
+  },
+  {
+   "question": "Do I need to be present in person to close?",
+   "answer": "Most mineral closings can be handled remotely with notarized documents sent by mail or courier, so an in-person meeting generally isn't required, which is convenient for owners who live far from where the minerals are located."
+  },
+  {
+   "question": "What happens to my royalty checks after closing?",
+   "answer": "Once the deed is recorded, future production revenue belongs to the new owner, so your royalty checks stop and the purchase price you received at closing is the full transaction."
+  }
+ ],
+ "status": "written",
+ "wordCount": 850,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-selloilroyaltiesnow-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "colorado",
+ "title": "Sell Mineral Rights in Colorado",
+ "type": "state",
+ "group": "DJ basin, Piceance",
+ "primaryKeyword": "mineral rights colorado",
+ "seo": {
+  "vol": 260,
+  "cpc": 8.49
+ },
+ "metaTitle": "Sell Mineral Rights in Colorado | DJ Basin Oil Guide",
+ "metaDescription": "DJ Basin Niobrara oil and Piceance gas behave very differently on the decline curve. Learn what determines your Colorado royalty check and how to sell.",
+ "heroLead": "Colorado holds two very different mineral stories under one state line: oil-weighted Niobrara horizontals in the DJ Basin, and deep gas in the Piceance Basin on the Western Slope.",
+ "intro": [
+  "If your interest sits in Weld, Adams, or Boulder County, you are in the DJ Basin, and your production is oil-weighted, drilled horizontally into the Niobrara and Codell formations with the same fast early decline that defines every modern shale play. If your interest is on the Western Slope in Garfield, Rio Blanco, or Mesa County, you are almost certainly a Piceance Basin gas owner, a much older and largely conventional or tight-gas play with a different curve entirely.",
+  "This page separates the two so you can read your own royalty statement correctly. We cover how a Wattenberg-area DJ Basin oil well declines through its first years, why Piceance gas behaves more like a mature, long-lived asset, and what to weigh before selling either kind of interest."
+ ],
+ "sections": [
+  {
+   "heading": "The DJ Basin's Oil-Heavy Decline",
+   "paragraphs": [
+    "Wattenberg field wells drilled into the Niobrara and Codell are horizontal, multi-stage fracked wells, and they behave like the shale-type curve most oil owners eventually learn: a steep drop in production during the first twelve to twenty-four months, often losing more than half their initial rate, followed by a much longer, flatter tail that can keep paying smaller checks for a decade or more.",
+    "Weld County has been one of the most actively drilled oil counties in the country for over a decade, so a given royalty interest there may include production from multiple wells drilled at different times, each on its own point along that curve, which is one reason DJ Basin statements can look more layered than a single-well interest elsewhere."
+   ]
+  },
+  {
+   "heading": "Piceance Basin Gas Is a Slower Story",
+   "paragraphs": [
+    "The Piceance Basin, largely in Garfield and Rio Blanco counties, has produced tight gas from the Mesaverde formation for decades, alongside older conventional production. Piceance drilling activity slowed considerably after natural gas prices fell in the 2010s, so most current owners are watching mature wells well past their steepest decline rather than new wells still working through their early years.",
+    "Because Piceance gas is largely tied to national gas pricing rather than the more regional dynamics of an oil play, your check there tends to move with broader Henry Hub trends more directly than a DJ Basin oil check moves with WTI."
+   ]
+  },
+  {
+   "heading": "Reading a Colorado Division Order",
+   "paragraphs": [
+    "Colorado's spacing units, particularly in the DJ Basin, are often larger than in older basins, and horizontal wells frequently cross multiple sections, so your interest may be pooled across more acreage than the surface location suggests. Your division order should spell out your decimal interest and which well or wells it is tied to; if you have interests from more than one well, your statement will often show them as separate line items.",
+    "Colorado also has some of the more active state-level oil and gas regulatory oversight in the country, including setback rules near homes and schools that have affected the pace of new DJ Basin permitting in recent years, which is worth knowing if you are trying to gauge whether more drilling is likely on your acreage."
+   ]
+  },
+  {
+   "heading": "Timing a Colorado Sale",
+   "paragraphs": [
+    "If your DJ Basin interest is tied to a well still in its first two or three years, you are selling into the steepest, least certain part of the curve, and pricing will reflect that uncertainty. An interest tied to older Wattenberg wells further along their decline, or to mature Piceance gas production, is generally easier to price with confidence because there is more history to work from.",
+    "We build Colorado offers from your actual well-level production history, current oil and gas pricing, and county-level activity, and we will tell you plainly which side of the curve your interest sits on before you decide anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my Colorado interest oil or gas?",
+   "answer": "Weld, Adams, and Boulder county interests are typically DJ Basin oil, drilled horizontally into the Niobrara and Codell. Garfield, Rio Blanco, and Mesa county interests on the Western Slope are typically Piceance Basin gas."
+  },
+  {
+   "question": "Why did my DJ Basin oil check drop sharply after the first year?",
+   "answer": "Horizontal Niobrara and Codell wells follow a shale-type decline curve, often losing more than half their initial production rate within the first twelve to twenty-four months before settling into a longer, flatter tail."
+  },
+  {
+   "question": "Why does my Piceance gas check track national gas prices so closely?",
+   "answer": "Piceance production is largely tied to Henry Hub and broader national gas pricing rather than more regional oil dynamics, so your check tends to move with the gas market you read about in the news."
+  },
+  {
+   "question": "Do Colorado setback rules affect my current royalty?",
+   "answer": "Setback and permitting rules mainly affect the pace of new drilling rather than production from wells already online. If you are trying to gauge future development on your acreage, current state and county permitting activity is the thing to watch."
+  },
+  {
+   "question": "What determines an offer on my Colorado interest?",
+   "answer": "We look at well-level production history, where the well sits on its decline curve, current oil and gas pricing, and county activity levels. A DJ Basin well in its first two years prices differently than one further along its tail, and we walk you through that difference."
+  }
+ ],
+ "status": "written",
+ "wordCount": 907,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-colorado.jpg",
+  "alt": "Replacement Minerals in Colorado location",
+  "width": 1600,
+  "height": 1000
+ }
+}

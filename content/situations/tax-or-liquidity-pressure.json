@@ -1,0 +1,81 @@
+{
+ "slug": "tax-or-liquidity-pressure",
+ "title": "Selling for Liquidity",
+ "type": "situation",
+ "note": "medical, retirement, debt-driven sales",
+ "primaryKeyword": "sell mineral rights for cash",
+ "metaTitle": "Need Cash Now? Selling Oil Royalties for Liquidity",
+ "metaDescription": "Facing a medical bill, retirement gap, or tax bill? Learn how a lump-sum royalty sale compares to a declining monthly check when you need cash now.",
+ "heroLead": "A monthly royalty check is not the same thing as cash in hand when a bill is due next week.",
+ "intro": [
+  "Some owners sell minerals because the well is old and declining. Others sell because life presented a need for cash faster than a small monthly check can meet it, a medical bill, a gap between jobs, a tax payment, a debt that is costing more in interest than the royalty is paying out. Both are valid reasons, and they lead to the same math.",
+  "This page walks through how to compare a lump-sum sale against continuing to collect a declining monthly check, and what to have ready if liquidity is the priority."
+ ],
+ "sections": [
+  {
+   "heading": "Why a small monthly check rarely solves a real cash need",
+   "paragraphs": [
+    "If your royalty pays a few hundred dollars a month and you are facing a bill in the thousands, waiting for the check to accumulate means waiting months or years, all while the underlying well continues declining and the monthly amount likely keeps shrinking. The math gets worse the longer you wait, not better.",
+    "A lump-sum sale converts the entire remaining value of that declining stream into one payment now, available for whatever the actual need is, rather than trickling in on a schedule that does not match when the bill is due."
+   ]
+  },
+  {
+   "heading": "Comparing the lump sum to the remaining stream honestly",
+   "paragraphs": [
+    "The fair way to compare the two is to project your well's remaining decline curve forward, estimate the total dollars you would collect over the plausible remaining life of the well, and discount that total back to today's value, since a dollar five years from now is worth less than a dollar today. An offer is essentially that calculation done by the buyer.",
+    "Owners who only compare the offer to next year's expected income, without accounting for the well's ongoing decline and the time value of money, sometimes conclude the offer looks low. Run the fuller comparison before deciding either way; it usually clarifies the picture considerably."
+   ]
+  },
+  {
+   "heading": "What tax or debt pressure specifically changes about timing",
+   "paragraphs": [
+    "If the need is a tax bill with a hard deadline, or debt accruing interest faster than the royalty pays, the cost of waiting is not neutral, it is actively working against you every month the sale is delayed. In those situations the speed of closing matters as much as the offer amount itself.",
+    "A straightforward mineral sale with clear title can often close within a few weeks once paperwork is in order, considerably faster than most other ways of raising a comparable amount of cash from an illiquid asset."
+   ]
+  },
+  {
+   "heading": "What to have ready to move quickly",
+   "paragraphs": [
+    "Gather your most recent division order or check stub, the deed or probate document showing how you acquired the interest, and any prior correspondence from the operator. Having these ready before you request an offer shortens the title review considerably and gets you to a closing date sooner.",
+    "If your specific need has a deadline, say so upfront. Buyers can often prioritize title work and closing scheduling around a known date, but only if they know about it from the start."
+   ]
+  },
+  {
+   "heading": "Weighing a full sale against a partial one",
+   "paragraphs": [
+    "If your cash need is smaller than the full value of your remaining interest, a partial sale, converting only a portion of your future stream into cash now while keeping the rest producing, can meet the immediate need without giving up the entire position. This is worth asking about directly, since not every buyer structures deals this way, but many do.",
+    "A partial sale also leaves you with a smaller, but still real, monthly check going forward, along with the option to sell the remainder later if another need arises or the well's outlook changes."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How fast can a mineral rights sale actually close?",
+   "answer": "With clear title and paperwork in order, many sales close within a few weeks. Complications like unresolved probate or unclear heirship can extend that timeline."
+  },
+  {
+   "question": "Is selling for liquidity a bad financial decision compared to keeping the check?",
+   "answer": "Not necessarily. Compare the lump sum against the well's realistic remaining production, discounted to today's value, rather than just against next year's expected check, to judge fairly."
+  },
+  {
+   "question": "Will I owe taxes on the lump-sum proceeds?",
+   "answer": "Possibly, depending on your basis in the interest and how you acquired it. Talk to your CPA or tax advisor about your specific gain before closing."
+  },
+  {
+   "question": "Can I sell just part of my interest and keep the rest producing?",
+   "answer": "Depending on the buyer and your interest, a partial sale may be possible, letting you raise some cash now while retaining a share of future production. Ask directly when discussing your offer."
+  },
+  {
+   "question": "Does selling under time pressure mean I'll get a worse offer?",
+   "answer": "Not inherently. The offer reflects the well's production and decline curve regardless of your timeline. What time pressure affects is how quickly you can compare multiple offers, so gather documents early to protect your options."
+  }
+ ],
+ "status": "written",
+ "wordCount": 855,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-tax-or-liquidity-pressure-selloilroyaltiesnow-com.jpg",
+  "alt": "Selling for Liquidity mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

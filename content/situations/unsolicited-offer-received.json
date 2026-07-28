@@ -1,0 +1,81 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "primaryKeyword": "unsolicited mineral rights offer",
+ "metaTitle": "Got an Unsolicited Mineral Rights Offer? Read This First",
+ "metaDescription": "A letter showed up offering to buy your oil royalty. Learn how to check if the number is fair against your well's decline curve before you sign anything.",
+ "heroLead": "A letter arrived out of nowhere offering to buy your mineral rights, and now you are wondering whether the number is fair or a lowball.",
+ "intro": [
+  "Unsolicited mineral offers are common, especially for owners whose interest sits in an active or historically active play. Companies mail these letters based on county records, sometimes with no more information about your specific well than what is publicly filed. That does not make the offer bad, but it also does not make it automatically fair.",
+  "This page teaches you how to benchmark an unsolicited offer against your own check history and your well's decline curve, so you can tell whether the number reflects your actual production or was simply a mass mailing with a generic estimate attached."
+ ],
+ "sections": [
+  {
+   "heading": "Why you got this letter and not a phone call from your operator",
+   "paragraphs": [
+    "Mineral buyers pull county division order records or lease filings and mail offers to every owner they can identify in a target area, often before they have looked closely at any individual owner's actual production. The letter you received may not reflect anything specific about your well's current output, just an average or a placeholder pending your response.",
+    "This is standard practice in the industry and is not inherently a scam, but it does mean the printed number is frequently a starting point for a conversation, not a precise reflection of your specific decline curve."
+   ]
+  },
+  {
+   "heading": "How to check the offer against your own numbers",
+   "paragraphs": [
+    "Pull your last twelve to twenty-four monthly statements and look at the trend. If your checks have been declining steadily, project that same rate of decline forward for a rough sense of what the remaining stream is actually worth, then compare that to the offer. If the offer is well below that rough projection, it is worth pushing back or getting a second number.",
+    "Also check whether the offer reflects your full interest or only a portion of it. Some letters are worded ambiguously about whether they cover your entire mineral estate or just the currently producing portion, and that distinction changes the math considerably."
+   ]
+  },
+  {
+   "heading": "What a legitimate buyer should be willing to show you",
+   "paragraphs": [
+    "A straightforward buyer will explain, when asked, roughly how they arrived at the number, whether that is based on recent production data, nearby comparable sales, or a general area estimate. If a buyer is unwilling to explain their reasoning at all, or pressures you to sign quickly without reviewing your own statements first, treat that as a signal to slow down.",
+    "You are also entitled to get a second offer before deciding anything. A single unsolicited letter is not a market, and comparing two or three offers against your own production trend is the most reliable way to know whether a number is reasonable."
+   ]
+  },
+  {
+   "heading": "There is no obligation and no deadline that is really a deadline",
+   "paragraphs": [
+    "Unsolicited offers sometimes include language suggesting urgency, an expiration date, a limited-time number. In practice, your minerals are yours to sell whenever you choose, and a fair buyer will still be interested next month if the fundamentals of your interest have not changed. Real urgency in mineral sales usually comes from your own circumstances, not from the buyer's calendar.",
+    "Take the time to compare your own check history against the offer, and do not feel pressured by a printed deadline on a form letter."
+   ]
+  },
+  {
+   "heading": "What to do if the letter offers to buy sight unseen",
+   "paragraphs": [
+    "Some letters offer a flat number without ever asking for your check history or division order, which usually means the figure is a broad area estimate rather than anything tied to your specific well. Responding with your own recent production trend and asking the buyer to revise their offer accordingly is a reasonable next step, and a serious buyer will engage with that request.",
+    "If a buyer refuses to adjust after you share real production data showing their number is out of line, that is useful information in itself, and a good reason to seek a competing offer instead."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is an unsolicited mineral rights offer a scam?",
+   "answer": "Usually not. Mailing offers based on county records is standard industry practice, but the offer amount is often a generic starting estimate rather than one based on your specific well's current production."
+  },
+  {
+   "question": "How do I know if the offer amount is fair?",
+   "answer": "Compare it against your own recent check history projected forward along the well's decline trend, and get a second offer to compare it against before deciding."
+  },
+  {
+   "question": "Does the offer letter's deadline mean I need to decide quickly?",
+   "answer": "Not really. Your interest remains yours to sell whenever you choose, and a legitimate buyer interested in your minerals now will typically still be interested later if nothing material has changed."
+  },
+  {
+   "question": "Should I ask the company how they calculated their offer?",
+   "answer": "Yes. A reasonable buyer should be able to explain their general approach, whether it's based on recent production, nearby sales, or an area estimate, when you ask."
+  },
+  {
+   "question": "What if the offer is for only part of my interest?",
+   "answer": "Read the letter carefully. Some offers cover only a producing portion or a specific well rather than your full mineral estate, which changes the comparison against your total production considerably."
+  }
+ ],
+ "status": "written",
+ "wordCount": 898,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-selloilroyaltiesnow-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

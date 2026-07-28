@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+qa-out/browser-data
+node_modules
+*.log
+qa-out

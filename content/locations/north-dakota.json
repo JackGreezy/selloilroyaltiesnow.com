@@ -1,0 +1,85 @@
+{
+ "slug": "north-dakota",
+ "title": "Sell Mineral Rights in North Dakota",
+ "type": "state",
+ "group": "Bakken/Three Forks",
+ "primaryKeyword": "mineral rights north dakota",
+ "seo": {
+  "vol": 260,
+  "cpc": 9.7
+ },
+ "metaTitle": "Sell Mineral Rights in North Dakota | Bakken Decline Explained",
+ "metaDescription": "North Dakota Bakken royalty owner? Learn how a hyperbolic decline curve actually works before you sell, then get an offer tied to your own well.",
+ "heroLead": "If you want to understand how oil wells decline, the Bakken is the textbook, and North Dakota is where the textbook was written.",
+ "intro": [
+  "No American oil play has generated more royalty checks, more confusion about those checks, and more questions about when to sell than the Bakken in western North Dakota. McKenzie, Mountrail, Williams, and Dunn counties saw thousands of horizontal wells drilled between roughly 2008 and today, each one following a remarkably consistent production pattern that shapes what your interest is worth right now.",
+  "This page walks through that pattern in plain terms, because understanding it is the single biggest factor in judging whether a buyer's offer on your North Dakota minerals is reasonable."
+ ],
+ "sections": [
+  {
+   "heading": "The shape of a Bakken well's life",
+   "paragraphs": [
+    "A Bakken well doesn't produce at a steady rate and then stop. It comes on strong, often at several hundred barrels a day, and loses a large share of that initial rate within the first twelve months. Engineers call this a hyperbolic decline: steep at first, then flattening into a long, shallow tail that can keep producing smaller volumes for twenty years or more.",
+    "That shape is why two royalty owners on wells drilled five years apart can see wildly different monthly checks even though both wells are performing exactly as expected. It's not that one well is failing. It's that each well is at a different point on the same curve."
+   ]
+  },
+  {
+   "heading": "Why this matters more in North Dakota than almost anywhere else",
+   "paragraphs": [
+    "Because the Bakken boom concentrated so much drilling into a roughly fifteen-year window, a large share of North Dakota's producing wells are now well past their steepest decline and sitting on that long shallow tail. If your check has been trending down for several years and then leveling off, that's the tail, not a sign the well is running dry tomorrow.",
+    "A buyer pricing your interest is essentially forecasting how much oil is left under that remaining curve, discounted back to today's dollars and adjusted for oil price and operating costs. Understanding where your well sits on the curve lets you sanity-check whether an offer reflects that remaining tail fairly."
+   ]
+  },
+  {
+   "heading": "What to check before you get an offer",
+   "paragraphs": [
+    "Pull twenty-four months of check stubs if you can find them. Plot the monthly volume, even roughly, and look at whether the decline from month to month is still steep or has flattened out. A well still dropping sharply month over month is earlier in its life; a well with only small changes has likely reached its long tail.",
+    "Also ask whether there's undrilled acreage left in your spacing unit. Many North Dakota units were drilled to full density years ago, meaning there's no realistic new-well upside left, which a buyer factors directly into their price."
+   ]
+  },
+  {
+   "heading": "North Dakota's split-estate and heir realities",
+   "paragraphs": [
+    "A significant share of North Dakota mineral ownership sits with heirs of the original homestead or ranch owners, often split into small fractional interests across siblings, cousins, and estates that were never formally closed. Some of that land is also tied to tribal trust allotments on or near the Fort Berthold Reservation, which carries its own title process through the Bureau of Indian Affairs.",
+    "If your interest touches trust land or an unresolved estate, expect the sale process to take longer, since a buyer will need clean title work before closing. That's normal and worth planning for rather than a reason to avoid selling."
+   ]
+  },
+  {
+   "heading": "Selling now versus riding out the tail",
+   "paragraphs": [
+    "Selling converts decades of a slowly declining, unpredictable check into one number today, and shifts the risk of future oil price swings and eventual well abandonment onto the buyer. Holding means continuing to collect whatever the tail produces for as long as the well stays economic, which for many Bakken wells could be another one to two decades.",
+    "There's no universally right answer. What matters is that whichever you choose, you're comparing it against an offer that's genuinely tied to your well's position on the decline curve, not a flat number based on the Bakken's reputation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my North Dakota royalty check drop so much after the first year?",
+   "answer": "That's expected. Bakken wells lose a large share of their initial production rate within the first twelve months as part of a normal hyperbolic decline, then settle into a much longer, slower tail."
+  },
+  {
+   "question": "How long will my Bakken well keep producing?",
+   "answer": "Many wells continue producing smaller volumes for twenty years or more once they reach their long tail, though the exact timeline depends on the specific well, reservoir, and operating costs."
+  },
+  {
+   "question": "Is my North Dakota interest connected to tribal trust land?",
+   "answer": "It's possible if your minerals sit on or near the Fort Berthold Reservation. Trust land title work runs through the Bureau of Indian Affairs and typically takes longer to clear for a sale."
+  },
+  {
+   "question": "Does a lower monthly check mean my well is about to stop producing?",
+   "answer": "Not necessarily. A well can produce a small, fairly steady volume for many years once it reaches its long decline tail. A steady low check is different from a well approaching its actual economic limit."
+  },
+  {
+   "question": "What documents does a North Dakota buyer usually ask for?",
+   "answer": "Recent check stubs, your division order, and the deed or probate documents showing how you acquired the interest, plus the well's API number if you have it."
+  }
+ ],
+ "status": "written",
+ "wordCount": 920,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-north-dakota.jpg",
+  "alt": "Replacement Minerals in North Dakota location",
+  "width": 1600,
+  "height": 1000
+ }
+}

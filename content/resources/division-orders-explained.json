@@ -1,0 +1,77 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "metaTitle": "Division Orders Explained: What Owners Should Check",
+ "metaDescription": "A plain-language guide to oil and gas division orders: what the decimal interest means, common errors to check, and why signing one matters before you sell.",
+ "heroLead": "A division order looks like a formality. It's actually the document that fixes the exact fraction of a well's income you're legally owed, so read it before you sign anything.",
+ "intro": [
+  "The first time a well is drilled on or pooled with your minerals, the operator sends a division order asking you to confirm your ownership before they start cutting checks. It's easy to treat it like junk mail, a form with your name and a decimal number, but that decimal is doing real work. It's the operator's own calculation of your share, built from title records, old deeds, and probate filings that may or may not be complete.",
+  "This guide explains what's actually on the form, the errors that show up more often than people expect, and why a clean division order matters just as much when you're selling as it does when you're collecting checks."
+ ],
+ "sections": [
+  {
+   "heading": "What the document is actually confirming",
+   "paragraphs": [
+    "A division order states the well name, the operator, and a decimal interest, expressed as something like 0.00195313, representing your share of production revenue from that specific well or unit. Signing it authorizes the operator to pay you at that rate going forward. It is not a deed and it does not transfer or affect your underlying mineral ownership, it only confirms how a specific well's revenue gets divided among everyone who owns a piece of it.",
+    "Because the decimal is calculated from the operator's title work, not yours, it's worth treating every division order as a claim to be checked rather than a fact to be accepted."
+   ]
+  },
+  {
+   "heading": "Common errors worth checking for",
+   "paragraphs": [
+    "Decimal errors happen more often on inherited or family-divided land than on tracts with a single clean owner. A missed heir from a prior generation, an old deed reservation that got overlooked, or a unit boundary that shifted after a new well was added can all throw your decimal off, sometimes in your favor and sometimes not. Compare the decimal against your own math: your net mineral acres divided by the total acres in the drilling unit, multiplied by your royalty fraction, should land close to what the operator sent.",
+    "If the numbers don't reconcile, contact the operator's division order department directly and ask them to walk through their title calculation with you before you sign."
+   ]
+  },
+  {
+   "heading": "You can negotiate deadlines, but not the decimal itself",
+   "paragraphs": [
+    "Operators sometimes attach a deadline or suggest payments will be held until you sign, and while some states do allow payment to proceed on a reasonable timeline regardless, it's fine to take the time you need to verify the decimal before signing something binding. What you generally cannot do is negotiate the decimal number itself, it's a title calculation, not a business term, so the fix for a wrong number is a corrected division order, not a discussion."
+   ]
+  },
+  {
+   "heading": "Why this matters when you're selling",
+   "paragraphs": [
+    "A buyer will ask for your division orders early in the process because they confirm, in the operator's own words, exactly what interest you hold and in which wells. A clean, signed, error-free division order speeds up both the offer and the closing, since it removes a layer of title uncertainty a buyer would otherwise have to research from scratch. If you've never signed one, or you're not sure where yours is, that's a normal starting point, and it's one of the first things worth tracking down before you talk numbers."
+   ]
+  },
+  {
+   "heading": "What to do if you spot an error before signing",
+   "paragraphs": [
+    "If your own math on decimal interest doesn't match what's on the form, don't sign it as is. Contact the operator's division order analyst, explain the discrepancy, and ask them to walk through their title chain calculation line by line. Most analysts will send a corrected form once the issue is verified, and it's far easier to fix before you sign than to unwind a payment history built on a wrong number.",
+    "Keep a copy of every division order you sign, along with any correction letters, in the same file as your deed and statements. That paper trail is exactly what a buyer's title team will want to see later if you decide to sell."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Practices vary by state and by operator, but signing is generally how you confirm your decimal and get set up for ongoing payment, so it's worth handling promptly once you've verified the numbers."
+  },
+  {
+   "question": "What if I don't have a copy of my division order?",
+   "answer": "Contact the operator's division order or owner-relations department directly and request a reissued copy, which they can typically provide once they've confirmed your identity and current mailing address."
+  },
+  {
+   "question": "Can a division order change my mineral ownership?",
+   "answer": "No, it only governs how a specific well's revenue is divided; your underlying ownership is established by your deed, not by the division order."
+  },
+  {
+   "question": "What happens if I inherited minerals but never got a division order?",
+   "answer": "You'll typically need to provide probate or heirship documents to the operator so they can update title and issue a new division order in your name before payments start."
+  },
+  {
+   "question": "Does a buyer need my division order to make an offer?",
+   "answer": "It helps significantly, since it confirms your decimal interest directly, though we can still work from a deed and recent statements if a division order isn't on hand yet."
+  }
+ ],
+ "status": "written",
+ "wordCount": 919,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-selloilroyaltiesnow-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
