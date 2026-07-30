@@ -80,6 +80,9 @@ PY
 
 python3 "$PROJ/scripts/compliance_scan.py"
 
+# Inject Vercel Web Analytics into all HTML files
+python3 "$PROJ/scripts/inject_analytics.py"
+
 QA_PORT="$(python3 -c 'import socket; s=socket.socket(); s.bind(("127.0.0.1", 0)); print(s.getsockname()[1]); s.close()')"
 node "$S/qa_shots.mjs" "$PROJ" --port "$QA_PORT"
 
