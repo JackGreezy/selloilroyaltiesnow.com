@@ -356,6 +356,13 @@
       "semantic_title_selector": ".page-entry-content > .hero h1",
       "carousels": [
         {
+          "selector": ".page-entry-content > .hero .taglines",
+          "type": "swiper",
+          "slides": ".swiper-wrapper > div",
+          "track": ".swiper-wrapper",
+          "visible": 1
+        },
+        {
           "selector": ".page-entry-content > .post-query",
           "type": "swiper",
           "slides": ".swiper-slide",
