@@ -266,5 +266,13 @@
         "The final file for {name} should preserve the sale agreement, settlement statement, assignment to the qualified intermediary, written identification, delivery evidence, replacement-property contract, title documents, loan records, acquisition settlement statement, and professional advice used for the return. Reconcile dates and dollar amounts before the file is archived. If some proceeds were retained, debt was not fully replaced, or more than one replacement was acquired, flag those facts for the tax professional instead of assuming the result. A complete record cannot guarantee tax treatment, but it gives the owner and advisers a clear trail from relinquished interest through replacement closing."
       ]
     ]
+  },
+  "slug_ui": {
+    "related_kicker": "Decline curve",
+    "related_heading": "Put the next curve input beside the offer",
+    "related_intro": "Carry the barrels, price, deductions, taxes, decimal, downtime, and decline evidence from {item} into these connected royalty checks.",
+    "related_action": "Read the Full Curve Library",
+    "faq_kicker": "Williston curve desk",
+    "faq_intro": "These answers identify which number on the statement or production record should be checked before comparing the royalty stream with an offer."
   }
 }
