@@ -4,3 +4,4 @@ qa-out/browser-data
 node_modules
 *.log
 qa-out
+scripts/__pycache__/

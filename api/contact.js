@@ -1,27 +1,19 @@
 const SITE = {
   businessName: "Sell Oil Royalties",
   businessEmail: "transactions@selloilroyaltiesnow.com",
-  siteUrl: "https://selloilroyaltiesnow.com",
+  siteUrl: "https://selloilroyaltiesnow.com"
 };
 
 const WINDOW_MS = 60 * 1000;
 const REQUEST_LIMIT = 6;
 const buckets = new Map();
-
-const clean = (value, limit = 5000) =>
-  String(value || "")
-    .replace(/[\u0000-\u001f\u007f]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
-    .slice(0, limit);
-
-const escapeHtml = (value) =>
-  clean(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
+const clean = (value) => String(value || "").trim();
+const escapeHtml = (value) => clean(value)
+  .replaceAll("&", "&amp;")
+  .replaceAll("<", "&lt;")
+  .replaceAll(">", "&gt;")
+  .replaceAll('"', "&quot;")
+  .replaceAll("'", "&#39;");
 
 function json(res, status, body) {
   res.statusCode = status;
@@ -35,13 +27,8 @@ function redirect(res, location) {
   res.end();
 }
 
-function wantsJson(req) {
-  return String(req.headers.accept || "").includes("application/json");
-}
-
 function rateLimit(req) {
-  const key =
-    clean(req.headers["cf-connecting-ip"]) ||
+  const key = clean(req.headers["cf-connecting-ip"]) ||
     clean(String(req.headers["x-forwarded-for"] || "").split(",")[0]) ||
     clean(req.headers["x-real-ip"]) ||
     "unknown";
@@ -57,41 +44,55 @@ function rateLimit(req) {
 }
 
 function readBody(req) {
-  if (req.body && typeof req.body === "object") return Promise.resolve(req.body);
   return new Promise((resolve, reject) => {
     let raw = "";
     req.on("data", (chunk) => {
       raw += chunk;
       if (raw.length > 1024 * 1024) reject(new Error("Request body too large"));
     });
-    req.on("end", () => {
-      if (clean(req.headers["content-type"]).toLowerCase().includes("application/json")) {
-        resolve(raw ? JSON.parse(raw) : {});
-      } else {
-        resolve(Object.fromEntries(new URLSearchParams(raw).entries()));
-      }
-    });
+    req.on("end", () => resolve(raw));
     req.on("error", reject);
   });
 }
 
+async function payload(req) {
+  const raw = await readBody(req);
+  if (clean(req.headers["content-type"]).toLowerCase().includes("application/json")) {
+    return raw ? JSON.parse(raw) : {};
+  }
+  return Object.fromEntries(new URLSearchParams(raw).entries());
+}
+
+function first(body, keys) {
+  for (const key of keys) {
+    const value = clean(body[key]);
+    if (value) return value;
+  }
+  return "";
+}
+
 function leadFrom(body, req) {
+  const legacyName = [clean(body.firstName), clean(body.lastName)].filter(Boolean).join(" ");
   return {
-    name: clean(body.name, 160),
-    email: clean(body.email, 240),
-    phone: clean(body.phone, 80),
-    countyState: clean(body.county_state, 200),
-    ownerName: clean(body.owner_name, 200),
-    operator: clean(body.operator, 200),
-    wellStatus: clean(body.well_status, 240),
-    message: clean(body.message),
-    honeypot: clean(body.website || body.company_website, 200),
-    source: clean(req.headers.referer || `${SITE.siteUrl}/contact`, 500),
+    name: first(body, ["name", "contact_name", "owner_name"]) || legacyName,
+    email: first(body, ["email", "emailAddress"]),
+    phone: first(body, ["phone", "phoneNumber"]),
+    message: first(body, [
+      "message",
+      "propertyDetails",
+      "property_details",
+      "property_question",
+      "property_checkpoint",
+      "valuationQuestion",
+      "review_context"
+    ]),
+    honeypot: first(body, ["website", "url"]),
+    source: clean(req.headers.referer || SITE.siteUrl + "/contact")
   };
 }
 
 function invalid(lead) {
-  if (!lead.name || !lead.email || !lead.phone || !lead.countyState || !lead.message) {
+  if (!lead.name || !lead.email || !lead.phone || !lead.message) {
     return "Please complete each required field.";
   }
   if (!/^\S+@\S+\.\S+$/.test(lead.email)) return "Please enter a valid email address.";
@@ -110,96 +111,67 @@ function solicitation(lead) {
     "web design services",
     "first page of google",
     "marketing agency",
-    "crypto investment",
+    "crypto investment"
   ];
-  return (
-    Boolean(lead.honeypot) ||
+  return Boolean(lead.honeypot) ||
     pitches.some((term) => text.includes(term)) ||
-    (text.match(/https?:\/\//g) || []).length > 2
-  );
+    (text.match(/https?:\/\//g) || []).length > 2;
 }
 
 async function sendEmail(to, lead) {
   const apiKey = clean(process.env.SENDGRID_API_KEY);
   if (!apiKey) throw new Error("SENDGRID_API_KEY is missing");
-
   const from = clean(process.env.SENDGRID_FROM_EMAIL) || SITE.businessEmail;
-  const fromName = clean(process.env.SENDGRID_FROM_NAME) || SITE.businessName;
   const rows = [
-    ["Owner or contact", lead.name],
+    ["Name", lead.name],
     ["Email", lead.email],
     ["Phone", lead.phone],
-    ["County and state", lead.countyState],
-    ["Name on statement", lead.ownerName || "Not provided"],
-    ["Operator or payor", lead.operator || "Not provided"],
-    ["Well status", lead.wellStatus || "Not provided"],
-    ["Decision being considered", lead.message],
-    ["Source", lead.source],
+    ["Message", lead.message],
+    ["Source", lead.source]
   ];
   const text = rows.map(([label, value]) => `${label}: ${value}`).join("\n");
-  const html = rows
-    .map(
-      ([label, value]) =>
-        `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`,
-    )
-    .join("");
-
+  const html = rows.map(([label, value]) =>
+    `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`
+  ).join("");
   const response = await fetch("https://api.sendgrid.com/v3/mail/send", {
     method: "POST",
     headers: {
       Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json",
+      "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      from: { email: from, name: fromName },
+      from: { email: from, name: SITE.businessName },
       reply_to: { email: lead.email, name: lead.name },
       personalizations: [{ to: [{ email: to }] }],
-      subject: `Oil royalty review: ${lead.countyState}`,
+      subject: `${SITE.businessName} inquiry: ${lead.name}`,
       content: [
         { type: "text/plain", value: text },
-        { type: "text/html", value: html },
+        { type: "text/html", value: html }
       ],
-      categories: ["mineral-rights-lead", "selloilroyaltiesnow-com"],
-    }),
+      categories: ["mineral-rights-lead", "selloilroyaltiesnow-com"]
+    })
   });
   if (!response.ok) throw new Error(`SendGrid request failed (${response.status})`);
 }
 
 module.exports = async function handler(req, res) {
-  if (req.method !== "POST") {
-    return json(res, 405, { ok: false, error: "Method not allowed." });
-  }
-  if (!rateLimit(req)) {
-    return json(res, 429, { ok: false, error: "Please wait before trying again." });
-  }
-
+  if (req.method !== "POST") return json(res, 405, { ok: false, error: "Method not allowed." });
+  if (!rateLimit(req)) return json(res, 429, { ok: false, error: "Please wait before trying again." });
   try {
-    const lead = leadFrom(await readBody(req), req);
+    const lead = leadFrom(await payload(req), req);
     const error = invalid(lead);
-    if (error) {
-      return wantsJson(req)
-        ? json(res, 400, { ok: false, error })
-        : redirect(res, "/contact?status=missing");
-    }
+    if (error) return json(res, 400, { ok: false, error });
     if (!solicitation(lead)) {
       const recipients = clean(
-        process.env.CONTACT_NOTIFICATION_RECIPIENTS || SITE.businessEmail,
-      )
-        .split(/[\n,;]/)
-        .map(clean)
-        .filter(Boolean);
+        process.env.CONTACT_NOTIFICATION_RECIPIENTS ||
+        process.env.RANKHOUND_NOTIFICATION_EMAIL ||
+        SITE.businessEmail
+      ).split(/[\n,;]/).map(clean).filter(Boolean);
       await Promise.all([...new Set(recipients)].map((to) => sendEmail(to, lead)));
     }
-    return wantsJson(req)
-      ? json(res, 200, { ok: true })
-      : redirect(res, "/contact?status=sent");
+    return redirect(res, "/contact?submitted=1");
   } catch (error) {
     console.error(error);
-    return wantsJson(req)
-      ? json(res, 500, {
-          ok: false,
-          error: "The royalty review request could not be submitted.",
-        })
-      : redirect(res, "/contact?status=unavailable");
+    return json(res, 500, { ok: false, error: "The form could not be submitted. Please call or email the team." });
   }
 };

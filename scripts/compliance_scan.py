@@ -39,8 +39,17 @@ for page in PAGES:
             FAILURES.append(f"{relative}: visible address fragment: {fragment}")
 
     footer = soup.select_one("footer")
-    if footer and footer.select("img,picture,svg,video,canvas,iframe,source"):
-        FAILURES.append(f"{relative}: footer media must be zero")
+    footer_maps = footer.select('iframe[src*="google.com/maps"]') if footer else []
+    footer_other_media = (
+        footer.select("img,picture,svg,video,canvas,source")
+        + footer.select('iframe:not([src*="google.com/maps"])')
+        if footer
+        else []
+    )
+    if footer and len(footer_maps) != 1:
+        FAILURES.append(f"{relative}: footer must contain exactly one Google Maps embed")
+    if footer_other_media:
+        FAILURES.append(f"{relative}: footer contains non-map media")
 
     for image in soup.select("img"):
         src = str(image.get("src", ""))
@@ -55,8 +64,11 @@ for page in PAGES:
 
     maps = soup.select('iframe[src*="google.com/maps"]')
     MAP_COUNT += len(maps)
-    if page.name == "contact.html" and len(maps) != 1:
-        FAILURES.append(f"{relative}: expected exactly one Google Maps embed")
+    expected_maps = 2 if page.name == "contact.html" else 1
+    if len(maps) != expected_maps:
+        FAILURES.append(
+            f"{relative}: expected {expected_maps} Google Maps embed(s), found {len(maps)}"
+        )
 
     for form in soup.select("form"):
         if form.select("input:not([type='search']),textarea,select"):
@@ -84,8 +96,11 @@ if not hero_images or not any(
 ):
     FAILURES.append("homepage hero does not contain a mapped, nonblank image")
 
-if MAP_COUNT != 1:
-    FAILURES.append(f"sitewide Google Maps embed count is {MAP_COUNT}, expected 1")
+expected_map_count = len(PAGES) + 1
+if MAP_COUNT != expected_map_count:
+    FAILURES.append(
+        f"sitewide Google Maps embed count is {MAP_COUNT}, expected {expected_map_count}"
+    )
 
 if FAILURES:
     print("COMPLIANCE: FAIL")
@@ -95,5 +110,6 @@ if FAILURES:
 print(
     f"COMPLIANCE: PASS — {len(PAGES)} pages, one SEO H1, mapped hero, "
     "zero singular first-person copy, zero visible addresses, zero miniature images, "
-    "zero footer media, one map, and canonical form routing"
+    "one footer map per page, one contact body map, no other footer media, "
+    "and canonical form routing"
 )

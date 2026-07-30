@@ -41,6 +41,10 @@ python3 "$S/relabel_engine.py" \
   --config "$CFG" \
   --map "$MAP" \
   --voice "$VOICE"
+python3 "$S/website_taste_fleet.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ" --check
+python3 "$S/website_taste_fleet.py" --project "$PROJ" --check
 python3 "$S/verify_site.py" \
   "$PROJ" \
   --map "$MAP" \

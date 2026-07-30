@@ -24,32 +24,104 @@
     ]
   },
   "scrub": [
-    ["\\bI['’]m\\b", "you are"],
-    ["\\bI['’]ve\\b", "you have"],
-    ["\\bI['’]ll\\b", "you will"],
-    ["\\bI['’]d\\b", "you would"],
-    ["\\bmyself\\b", "yourself"],
-    ["\\bmine\\b", "yours"],
-    ["\\bmy\\b", "your"],
-    ["\\bme\\b", "you"],
-    ["\\bI\\b", "you"],
-    ["\\bwe['’]ll\\b", "the review will"],
-    ["\\bwe['’]re\\b", "the buyer is"],
-    ["\\bwe['’]ve\\b", "the buyer has"],
-    ["\\bwe\\b", "the buyer"],
-    ["\\bour\\b", "the buyer's"],
-    ["\\bus\\b", "the buyer"]
+    [
+      "\\bI['’]m\\b",
+      "you are"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "you have"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "you will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "you would"
+    ],
+    [
+      "\\bmyself\\b",
+      "yourself"
+    ],
+    [
+      "\\bmine\\b",
+      "yours"
+    ],
+    [
+      "\\bmy\\b",
+      "your"
+    ],
+    [
+      "\\bme\\b",
+      "you"
+    ],
+    [
+      "\\bI\\b",
+      "you"
+    ],
+    [
+      "\\bwe['’]ll\\b",
+      "the review will"
+    ],
+    [
+      "\\bwe['’]re\\b",
+      "the buyer is"
+    ],
+    [
+      "\\bwe['’]ve\\b",
+      "the buyer has"
+    ],
+    [
+      "\\bwe\\b",
+      "the buyer"
+    ],
+    [
+      "\\bour\\b",
+      "the buyer's"
+    ],
+    [
+      "\\bus\\b",
+      "the buyer"
+    ]
   ],
   "heroes": [
-    ["Sell Oil Royalties in Williston, North Dakota", "Start with the production curve, then test the offer against what remains."],
-    ["Read the First-Year Drop", "Separate normal shale decline from a genuine operating interruption."],
-    ["Find the Mature Tail", "See how the long, lower-volume years change a hold-versus-sell decision."],
-    ["Check the Netback", "Compare gross oil value with the deductions and taxes that shape the deposited check."],
-    ["Split Every Well", "A lease total can hide a new well, an old tail, and a shut-in month in one number."],
-    ["Confirm the Decimal", "Tie the paid decimal to the lease, division order, spacing unit, and tract allocation."],
-    ["Map the Title Path", "Follow the deed, estate, trust, or family transfer before a closing calendar starts."],
-    ["Price the Unknowns", "Permits, offsets, operator pace, and commodity exposure belong in the same review."],
-    ["Choose the Decision Point", "Hold, sell a portion, or sell the full interest only after the curve is visible."]
+    [
+      "Sell Oil Royalties in Williston, North Dakota",
+      "Start with the production curve, then test the offer against what remains."
+    ],
+    [
+      "Read the First-Year Drop",
+      "Separate normal shale decline from a genuine operating interruption."
+    ],
+    [
+      "Find the Mature Tail",
+      "See how the long, lower-volume years change a hold-versus-sell decision."
+    ],
+    [
+      "Check the Netback",
+      "Compare gross oil value with the deductions and taxes that shape the deposited check."
+    ],
+    [
+      "Split Every Well",
+      "A lease total can hide a new well, an old tail, and a shut-in month in one number."
+    ],
+    [
+      "Confirm the Decimal",
+      "Tie the paid decimal to the lease, division order, spacing unit, and tract allocation."
+    ],
+    [
+      "Map the Title Path",
+      "Follow the deed, estate, trust, or family transfer before a closing calendar starts."
+    ],
+    [
+      "Price the Unknowns",
+      "Permits, offsets, operator pace, and commodity exposure belong in the same review."
+    ],
+    [
+      "Choose the Decision Point",
+      "Hold, sell a portion, or sell the full interest only after the curve is visible."
+    ]
   ],
   "copy": {
     "home_title": "Sell Oil Royalties in Williston, North Dakota",
@@ -128,14 +200,30 @@
     ]
   ],
   "form_fields": [
-    ["name", "text", "Owner or contact name", true],
-    ["email", "email", "Email address", true],
-    ["phone", "tel", "Phone number", true],
-    ["county_state", "text", "County and state", true],
-    ["owner_name", "text", "Name shown on the statement", false],
-    ["operator", "text", "Operator or payor", false],
-    ["well_status", "text", "Producing, shut-in, or non-producing", false],
-    ["message", "textarea", "What changed, and what decision is being considered?", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ],
   "taxonomy_enrichment": {
     "investing": [
