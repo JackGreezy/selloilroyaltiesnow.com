@@ -61,28 +61,20 @@
       "you"
     ],
     [
-      "\\bwe['’]ll\\b",
-      "the review will"
+      ", (?:and|so) this page [^.!?]*([.!?])",
+      "\\1"
     ],
     [
-      "\\bwe['’]re\\b",
-      "the buyer is"
+      "[^.!?<>\\\"]*\\bthis page\\b[^.!?]*[.!?]\\s*",
+      " "
     ],
     [
-      "\\bwe['’]ve\\b",
-      "the buyer has"
+      "\\bon this site\\b",
+      "here"
     ],
     [
-      "\\bwe\\b",
-      "the buyer"
-    ],
-    [
-      "\\bour\\b",
-      "the buyer's"
-    ],
-    [
-      "\\bus\\b",
-      "the buyer"
+      "\\bThis site exists because\\b",
+      "Sell Oil Royalties exists because"
     ]
   ],
   "heroes": [
@@ -154,10 +146,10 @@
     "home_exchange_title": "PUT THE EXCHANGE CLOCK ON PAPER",
     "home_exchange": "A mineral sale may raise a 1031 exchange question. The 45-day identification window, 180-day completion window, qualified intermediary, replacement-property rules, and tax advice must be coordinated before a seller relies on deferral.",
     "hero_cta": "Read the Curve",
-    "index_tagline": "Use this {title} index to move from the broad category to the specific tract, well, document, or decision that needs review.",
+    "index_tagline": "From the broad category to the specific tract, well, document, or decision that needs review.",
     "index_kicker": "THE PRODUCTION NOTEBOOK",
     "index_promise_title": "ONE CATEGORY. EVERY DECISION POINT.",
-    "index_promise": "Each page defines the term, identifies the evidence that matters, explains the effect on value or timing, and ends with the next question to ask. Nothing depends on a bare offer number.",
+    "index_promise": "Define the term, find the evidence that matters, weigh the effect on value or timing, and end with the next question to ask. Nothing depends on a bare offer number.",
     "detail_cta_title": "PUT THE CURVE BESIDE THE OFFER",
     "faq_heading": "Questions Owners Ask at This Stage",
     "about_title": "About Sell Oil Royalties",
@@ -172,7 +164,7 @@
     "contact_map_body": "A deed, division order, check detail, well name, API number, lease, probate record, trust record, or written offer can start the review. The map marks the local review point without publishing the street address as page copy. Share only the records relevant to the interest and remove sensitive payment or account numbers before sending.",
     "footer_tagline": "The production curve explains the check. The paper trail explains the closing.",
     "privacy": "Information submitted through this site is used to respond to the inquiry, review the described mineral or royalty interest, and coordinate requested next steps. Do not submit bank-account numbers, full tax identifiers, or unrelated personal records. Site logs may retain ordinary technical information needed for security and operation.",
-    "terms": "Information on this site is general educational material and is not legal, tax, engineering, reserve, or appraisal advice. A request for review does not create an obligation to sell or buy. Any transaction depends on document review, title confirmation, mutually accepted written terms, and applicable law.",
+    "terms": "Information published by Sell Oil Royalties is general educational material and is not legal, tax, engineering, reserve, or appraisal advice. A request for review does not create an obligation to sell or buy. Any transaction depends on document review, title confirmation, mutually accepted written terms, and applicable law.",
     "nf_title": "That Record Is Not in This File",
     "nf_body": "The requested page may have moved. Return to the production notebook, choose a category, or send the tract and well details that need review.",
     "nf_cta": "Return to the Curve"
@@ -229,50 +221,67 @@
     "investing": [
       [
         "Start {name} with the cash-flow line",
-        "{name} should begin with actual net deposits, not a headline about passive income. Gather at least twelve months of statements when available and split the total by well, product, volume, realized price, deductions, taxes, and decimal interest. A new horizontal well can produce a large early check and then decline sharply; a mature conventional well may be smaller but steadier. Those are different income shapes even when the latest deposit is identical. Plot the months before applying a multiple. Then mark downtime, new completions, workovers, and price changes so one unusual period does not distort the base case. This first pass answers whether the income is concentrated in one young well, diversified across several tails, or dependent on an event that may not repeat."
+        "A royalty review should begin with actual net deposits, not a headline about passive income. Gather at least twelve months of statements when available and split the total by well, product, volume, realized price, deductions, taxes, and decimal interest. A new horizontal well can produce a large early check and then decline sharply; a mature conventional well may be smaller but steadier. Those are different income shapes even when the latest deposit is identical. Plot the months before applying a multiple. Then mark downtime, new completions, workovers, and price changes so one unusual period does not distort the base case. This first pass answers whether the income is concentrated in one young well, diversified across several tails, or dependent on an event that may not repeat."
       ],
       [
         "Separate the curve from the commodity",
-        "Production decline and oil price movement are separate risks. Volume can fall while the check rises because price improved, or volume can hold while the check falls because realized price weakened or deductions increased. For {name}, build at least three views: a production-only curve, a price-and-netback view, and a combined cash-flow view. The production view shows reservoir and operating behavior. The netback view shows what remains after transportation, gathering, processing, taxes, and other allowed charges. The combined view shows what actually reaches the owner. Keeping the three views separate prevents a temporary price rally from being mistaken for improved well performance and prevents a weak price month from being mistaken for a mechanical problem."
+        "Production decline and oil price movement are separate risks. Volume can fall while the check rises because price improved, or volume can hold while the check falls because realized price weakened or deductions increased. Build at least three views: a production-only curve, a price-and-netback view, and a combined cash-flow view. The production view shows reservoir and operating behavior. The netback view shows what remains after transportation, gathering, processing, taxes, and other allowed charges. The combined view shows what actually reaches the owner. Keeping the three views separate prevents a temporary price rally from being mistaken for improved well performance and prevents a weak price month from being mistaken for a mechanical problem."
       ],
       [
         "Price concentration and undeveloped upside",
-        "A mineral package can contain producing royalty, undeveloped minerals, multiple operators, several formations, and tracts spread across more than one county. {name} needs each source identified before risk is summarized. Producing royalty is modeled from existing well history. Undeveloped value depends more on permits, nearby completions, operator inventory, spacing, and the chance that a future well reaches the tract. Concentration matters at every level: one operator, one pad, one commodity, one county, or one early-life well can dominate the result. A clear review states which part of the value is supported by current checks and which part depends on development that has not occurred."
+        "A mineral package can contain producing royalty, undeveloped minerals, multiple operators, several formations, and tracts spread across more than one county. The package needs each source identified before risk is summarized. Producing royalty is modeled from existing well history. Undeveloped value depends more on permits, nearby completions, operator inventory, spacing, and the chance that a future well reaches the tract. Concentration matters at every level: one operator, one pad, one commodity, one county, or one early-life well can dominate the result. A clear review states which part of the value is supported by current checks and which part depends on development that has not occurred."
       ],
       [
         "Turn the review into a decision rule",
-        "The last step for {name} is not a prediction stated as certainty. It is a decision rule. Define the amount of near-term cash needed, the income an owner is willing to keep exposed to decline and price, the portion of undeveloped upside worth retaining, and the records still missing. Compare a hold case, partial-sale case, and full-sale case on the same assumptions. Note what would change the choice: a new permit, a division-order correction, a title issue, a price threshold, or another year of production history. That structure makes the tradeoff visible without pretending the future path of oil prices or operator activity is known."
+        "The last step is not a prediction stated as certainty. It is a decision rule. Define the amount of near-term cash needed, the income an owner is willing to keep exposed to decline and price, the portion of undeveloped upside worth retaining, and the records still missing. Compare a hold case, partial-sale case, and full-sale case on the same assumptions. Note what would change the choice: a new permit, a division-order correction, a title issue, a price threshold, or another year of production history. That structure makes the tradeoff visible without pretending the future path of oil prices or operator activity is known."
       ]
     ],
     "exchange-1031": [
       [
         "Put the exchange question before the sale",
-        "{name} begins before sale proceeds are received. A seller considering tax deferral should speak with a qualified intermediary and independent tax counsel before closing or taking control of funds. The working file should identify the relinquished interest, expected closing date, sale structure, taxpayer name, and the property rights actually being conveyed. Mineral and royalty interests can raise state-specific and fact-specific questions, so general examples are not a substitute for advice on the transaction. Starting early preserves options; waiting until proceeds are already controlled can remove them."
+        "Exchange planning begins before sale proceeds are received. A seller considering tax deferral should speak with a qualified intermediary and independent tax counsel before closing or taking control of funds. The working file should identify the relinquished interest, expected closing date, sale structure, taxpayer name, and the property rights actually being conveyed. Mineral and royalty interests can raise state-specific and fact-specific questions, so general examples are not a substitute for advice on the transaction. Starting early preserves options; waiting until proceeds are already controlled can remove them."
       ],
       [
         "Write the 45-day and 180-day clocks",
-        "The exchange file for {name} should show the identification deadline and completion deadline as calendar dates, not only as rules. The 45-day window is used to identify replacement property in writing under the chosen identification rule. The 180-day window is used to complete the acquisition, subject to the applicable tax-return deadline. These periods run concurrently, so the second clock does not start after the first ends. Add qualified-intermediary instructions, lender milestones, title review, inspections, due diligence, and backup choices to the same calendar."
+        "The exchange file should show the identification deadline and completion deadline as calendar dates, not only as rules. The 45-day window is used to identify replacement property in writing under the chosen identification rule. The 180-day window is used to complete the acquisition, subject to the applicable tax-return deadline. These periods run concurrently, so the second clock does not start after the first ends. Add qualified-intermediary instructions, lender milestones, title review, inspections, due diligence, and backup choices to the same calendar."
       ],
       [
         "Match the taxpayer and the property rights",
-        "A 1031 exchange depends on continuity that can be lost when names, entities, or ownership rights change without planning. For {name}, compare the taxpayer on the relinquished property with the taxpayer expected to acquire the replacement. Confirm how the mineral or royalty interest is classified under the relevant law and how title is held. Trusts, estates, partnerships, disregarded entities, marital ownership, and recent transfers deserve early professional review. The practical goal is simple: do not let a preventable ownership mismatch appear after the identification window has closed."
+        "A 1031 exchange depends on continuity that can be lost when names, entities, or ownership rights change without planning. Compare the taxpayer on the relinquished property with the taxpayer expected to acquire the replacement. Confirm how the mineral or royalty interest is classified under the relevant law and how title is held. Trusts, estates, partnerships, disregarded entities, marital ownership, and recent transfers deserve early professional review. The practical goal is simple: do not let a preventable ownership mismatch appear after the identification window has closed."
       ],
       [
         "Keep primary and backup property evidence together",
-        "{name} needs more than a list of possible replacements. For each candidate, record the property description, asking price or value evidence, debt assumptions, expected income, management demands, title status, inspection access, seller cooperation, and closing risk. Rank primary and backup choices before identification. If a partial exchange or taxable boot is possible, show that scenario separately. The exchange decision should remain tied to the seller's goals and independent advice, not to pressure created by a narrowing deadline."
+        "An exchange needs more than a list of possible replacements. For each candidate, record the property description, asking price or value evidence, debt assumptions, expected income, management demands, title status, inspection access, seller cooperation, and closing risk. Rank primary and backup choices before identification. If a partial exchange or taxable boot is possible, show that scenario separately. The exchange decision should remain tied to the seller's goals and independent advice, not to pressure created by a narrowing deadline."
       ],
       [
         "Close with a complete exchange record",
-        "The final file for {name} should preserve the sale agreement, settlement statement, assignment to the qualified intermediary, written identification, delivery evidence, replacement-property contract, title documents, loan records, acquisition settlement statement, and professional advice used for the return. Reconcile dates and dollar amounts before the file is archived. If some proceeds were retained, debt was not fully replaced, or more than one replacement was acquired, flag those facts for the tax professional instead of assuming the result. A complete record cannot guarantee tax treatment, but it gives the owner and advisers a clear trail from relinquished interest through replacement closing."
+        "The final exchange file should preserve the sale agreement, settlement statement, assignment to the qualified intermediary, written identification, delivery evidence, replacement-property contract, title documents, loan records, acquisition settlement statement, and professional advice used for the return. Reconcile dates and dollar amounts before the file is archived. If some proceeds were retained, debt was not fully replaced, or more than one replacement was acquired, flag those facts for the tax professional instead of assuming the result. A complete record cannot guarantee tax treatment, but it gives the owner and advisers a clear trail from relinquished interest through replacement closing."
       ]
     ]
   },
   "slug_ui": {
     "related_kicker": "Decline curve",
-    "related_heading": "Put the next curve input beside the offer",
-    "related_intro": "Carry the barrels, price, deductions, taxes, decimal, downtime, and decline evidence from {item} into these connected royalty checks.",
-    "related_action": "Read the Full Curve Library",
-    "faq_kicker": "Williston curve desk",
+    "related_heading": "Related royalty guides",
+    "related_intro": "The same barrels, prices, deductions and decline evidence decide value in these related reviews.",
+    "faq_kicker": "Royalty owner questions",
     "faq_intro": "These answers identify which number on the statement or production record should be checked before comparing the royalty stream with an offer."
+  },
+  "taxonomy_titles": {
+    "situations": "Owner Situations",
+    "interest-types": "Mineral and Royalty Interests",
+    "basins": "Oil and Gas Basins",
+    "resources": "Royalty Resources",
+    "investing": "Mineral Investing",
+    "exchange-1031": "1031 Exchange Guides",
+    "locations": "State Royalty Guides"
+  },
+  "taxonomy_intros": {
+    "situations": "Inheritance, a letter in the mailbox, a divorce, a trust distribution. The event sets the deadline; the check history and the title path still decide the number.",
+    "interest-types": "A royalty, an override, an NPRI and a working interest can sit on the same well and still decline, net out and sell differently. Name the interest before comparing any offer.",
+    "basins": "Each basin bends its wells on its own curve. First-year drop, mature tail, gathering limits and price differentials all move the check before a buyer ever prices it.",
+    "resources": "Statements, division orders, deeds and tax questions each answer a different part of the sale. Read the paper first, then decide what the income is worth.",
+    "investing": "Underwrite the income, not the story: net deposits, decline, deductions and concentration come before any yield or multiple.",
+    "exchange-1031": "A possible exchange adds deadlines and an intermediary to the sale. The production case still has to hold up on its own before any proceeds move.",
+    "locations": "State rules change the records, spacing, severance taxes and recording steps behind a sale. The local file still starts with the well and the check."
   }
 }

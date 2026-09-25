@@ -1,0 +1,26 @@
+{
+  "classes": {
+    ".has-animation, .wp-block-heading, .wp-block-paragraph, .wp-block-button, .wp-block-list li, .wp-block-cover, .wp-block-image, .wp-block-media-text__media, .wp-block-embed, .wp-block-video, .wp-block-file, .wp-block-separator, .icon-card, .certificate, .product-specifications__entry": "show-animation",
+    "#contact-form button[type=submit]": "wp-block-button__link wp-element-button"
+  },
+  "remove": {
+    "all": [],
+    "slug": []
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "related": "main#siteMain",
+    "cta": "main#siteMain"
+  },
+  "templates": {
+    "faq": "<div class=\"wp-block-group has-primary-a-background-color has-background\"><p class=\"has-heading-s-font-size wp-block-paragraph\">{kicker}</p><h2 class=\"wp-block-heading\">{heading}</h2><section class=\"entry-cards\">{items}</section></div>",
+    "faq_item": "<div class=\"entry-cards__card\"><div class=\"entry-cards__content\"><h3 class=\"entry-cards__title\">{q}</h3><div class=\"entry-cards__description-wrapper\"><div class=\"entry-cards__description\">{a}</div></div></div></div>",
+    "related": "<section class=\"post-query alignwide\"><h2 class=\"wp-block-heading alignwide\">{heading}</h2><div class=\"swiper-wrapper\">{items}</div><div class=\"wp-block-buttons is-layout-flex\"><div class=\"wp-block-button is-style-secondary\"><a class=\"wp-block-button__link wp-element-button\" href=\"{all_href}\">{all_label}</a></div></div></section>",
+    "related_item": "<div class=\"swiper-slide\"><a class=\"post-card\" href=\"{href}\"><div class=\"post-card__info\"><h4 class=\"post-card__title\">{name}</h4><p class=\"wp-block-paragraph\">{teaser}</p></div></a></div>",
+    "cta": "<section class=\"hero alignfull has-background has-primary-b-gradient-background-color\"><div class=\"hero__inner\"><h2 class=\"wp-block-heading is-style-hero\">{title}</h2><p class=\"wp-block-paragraph\">{intro}</p><div class=\"wp-block-buttons is-layout-flex\"><div class=\"wp-block-button is-style-secondary\"><a class=\"wp-block-button__link wp-element-button\" href=\"{contact_href}\">{label}</a></div><div class=\"wp-block-button is-style-secondary\"><a class=\"wp-block-button__link wp-element-button has-white-background-color has-background\" href=\"{tel_href}\">Call {phone}</a></div></div></div></section>"
+  }
+}

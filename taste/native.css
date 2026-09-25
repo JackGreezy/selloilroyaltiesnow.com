@@ -1,0 +1,133 @@
+/* selloilroyaltiesnow.com — GomSpace native skin for engine-injected components.
+   Donor tokens: Raleway 900 uppercase display, Montserrat body; primary-a navy #0C354E, primary-b
+   teal #008187 and the teal→navy -45deg gradient, secondary-b stone #E3E1DF page, tertiary-a lime
+   #95C11F text-link CTAs, tertiary-c blue #288FBD pill buttons with a right arrow, footer #061C4B. */
+
+/* The captured theme blanks its arrow icon token; restore the donor's right arrow */
+:root{--icon-svg-arrow-right:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M1 6h9M6.5 2.5 10 6l-3.5 3.5' fill='none' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E")!important}
+
+/* Scroll-reveal content never receives its trigger in the static build: show it */
+html body .has-animation,html body .show-animation,html body .wp-block-heading,html body .wp-block-paragraph,html body .wp-block-button,html body .wp-block-list li,html body .wp-block-cover,html body .wp-block-image,html body .wp-block-media-text__media,html body .wp-block-embed,html body .wp-block-video,html body .icon-card,html body .product-specifications__entry,html body .site-footer__contact,html body .site-footer__navigation{opacity:1!important;visibility:visible!important;transform:none!important;filter:none!important;transition:none!important}
+
+/* ---------- Header: navy bar under the donor's white hairline, white Montserrat caps ---------- */
+html body header#siteHeader{background:#0C354E!important;border-bottom:1px solid rgba(255,255,255,.25)!important}
+html body header#siteHeader .site-header__buttons-wrapper{background:#061C4B!important}
+html body header#siteHeader .rr-header-phone{color:#fff!important;font:700 13px/1 Montserrat,sans-serif!important;letter-spacing:.04em!important;text-decoration:none!important}
+html body header#siteHeader a.rr-header-cta{min-height:0!important;padding:10px 40px 10px 22px!important;border:0!important;border-radius:100px!important;background:#288FBD!important;color:#fff!important;font:600 12px/1 Montserrat,sans-serif!important;letter-spacing:.04em!important;text-transform:uppercase!important;box-shadow:none!important}
+html body header#siteHeader a.rr-header-cta:hover{background:#008187!important}
+html body header#siteHeader a.rr-header-cta::after{right:18px!important;top:50%!important;margin-top:-6px!important}
+html body header#siteHeader .menu-item__link{color:#fff!important}
+html body header .rr-dropdown-menu{padding:10px 0!important;border:0!important;border-radius:16px!important;background:#0C354E!important;box-shadow:0 20px 40px rgba(6,28,75,.35)!important}
+html body header .rr-dropdown-menu .rr-dropdown-link{padding:10px 22px!important;border:0!important;background:none!important;color:#fff!important;font:500 14px/1.35 Montserrat,sans-serif!important;text-transform:none!important}
+html body header .rr-dropdown-menu .rr-dropdown-link:hover,html body header .rr-dropdown-menu .rr-dropdown-link:focus-visible{background:rgba(255,255,255,.08)!important;color:#95C11F!important}
+html body header .rr-dropdown-menu .rr-dropdown-link--all{margin-top:6px!important;border-top:1px solid rgba(255,255,255,.18)!important;color:#95C11F!important;font-weight:700!important}
+html body header .rr-burger span{background:#fff!important}
+
+/* Wordmark: Raleway black caps like the donor display type, two lines, never split */
+html body .rr-wordmark{color:#fff!important;font-family:Raleway,sans-serif!important;line-height:.95!important;text-decoration:none!important;white-space:nowrap!important}
+html body .rr-wordmark .rr-wm-1,html body .rr-wordmark .rr-wm-2{font-size:17px!important;font-weight:900!important;letter-spacing:.02em!important;text-transform:uppercase!important;white-space:nowrap!important;overflow-wrap:normal!important;opacity:1!important}
+html body .rr-wordmark .rr-wm-2{color:#95C11F!important}
+html body header#siteHeader .site-logo--dark{display:none!important}
+
+/* Mobile drawer: donor navy burger menu, white caps, lime accents */
+html body [data-rr-mobile]{background:#0C354E!important;color:#fff!important}
+html body.rr-nav-open [data-rr-mobile]{padding:76px 24px 28px!important}
+html body [data-rr-mobile] .rr-m-link{padding:15px 0!important;border-bottom:1px solid rgba(255,255,255,.18)!important;color:#fff!important;font:900 20px/1.2 Raleway,sans-serif!important;letter-spacing:.01em!important;text-transform:uppercase!important;text-decoration:none!important}
+html body [data-rr-mobile] .rr-m-link[href^="tel:"]{color:#95C11F!important;font:700 16px/1.2 Montserrat,sans-serif!important}
+html body [data-rr-mobile] .rr-x{color:#fff!important;background:none!important;border:0!important}
+html body .rr-scrim{background:rgba(6,28,75,.55)!important}
+
+/* ---------- Slug: donor product hero (gradient, light-weight caps title) ---------- */
+html body .rr-taste-hero.hero-product{position:relative!important;left:50%!important;display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;align-items:center!important;gap:48px!important;box-sizing:border-box!important;width:100vw!important;max-width:none!important;min-height:0!important;height:auto!important;margin:0 0 0 -50vw!important;padding:96px max(24px,calc((100vw - 1320px)/2)) 96px!important;background:linear-gradient(-45deg,#008187 1.31%,#0C354E 70%)!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:hidden!important}
+html body .rr-taste-hero::before,html body .rr-taste-hero::after{content:none!important;display:none!important}
+html body .rr-taste-hero .rr-taste-hero-copy{position:static!important;grid-column:1!important;grid-row:1!important;box-sizing:border-box!important;width:auto!important;max-width:none!important;margin:0!important;padding:0!important;background:none!important;text-align:left!important}
+html body .rr-taste-hero .rr-taste-hero-copy h1{margin:0!important;color:#fff!important;font-family:Raleway,sans-serif!important;font-size:clamp(40px,4.6vw,76px)!important;font-weight:300!important;letter-spacing:0!important;line-height:1!important;text-transform:uppercase!important;text-shadow:none!important}
+html body .rr-taste-hero .rr-taste-hero-media{position:static!important;grid-column:2!important;grid-row:1!important;width:100%!important;height:clamp(280px,28vw,440px)!important;max-width:none!important;margin:0!important;border:0!important;border-radius:40px!important;opacity:1!important;filter:none!important;box-shadow:0 30px 60px rgba(0,0,0,.35)!important}
+html body .rr-taste-prose-shell{position:relative!important;left:auto!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:0!important;padding:96px 24px 32px!important;background:#E3E1DF!important;border:0!important;box-shadow:none!important}
+html body .rr-taste-prose-shell>[data-rr-taste-prose]{box-sizing:border-box!important;width:100%!important;max-width:860px!important;margin:0 auto!important;padding:0!important;background:none!important;color:#2d2d2d!important}
+html body [data-rr-taste-prose]>p,html body [data-rr-taste-prose]>ul li,html body [data-rr-taste-prose]>ol li{max-width:none!important;color:#2d2d2d!important;font:400 17px/1.7 Montserrat,sans-serif!important;letter-spacing:0!important}
+html body [data-rr-taste-prose]>h2{margin:64px 0 18px!important;padding:0!important;border:0!important;color:#0C354E!important;font:900 clamp(28px,3vw,44px)/1.05 Raleway,sans-serif!important;letter-spacing:0!important;text-transform:uppercase!important}
+html body [data-rr-taste-prose]>p{margin:0 0 18px!important}
+html body.rr-taste-slug main#siteMain{padding-top:0!important;margin-top:0!important}
+html body [data-rr-taste-prose]>h3{color:#0C354E!important;font:700 22px/1.3 Raleway,sans-serif!important}
+html body [data-rr-taste-prose] a:not(.wp-block-button__link){color:#08656B!important;text-decoration:underline!important}
+
+/* FAQ: the donor's navy entry-cards list — heavy caps rows split by thin rules */
+html body [data-rr-taste-faq].wp-block-group{position:relative!important;left:50%!important;box-sizing:border-box!important;width:100vw!important;max-width:none!important;margin:88px 0 0 -50vw!important;padding:88px max(24px,calc((100vw - 860px)/2)) 72px!important;background:#0C354E!important;color:#fff!important;border:0!important}
+html body [data-rr-taste-faq]>p.has-heading-s-font-size{margin:0 0 14px!important;color:#95C11F!important;font:600 13px/1.2 Montserrat,sans-serif!important;letter-spacing:.12em!important;text-transform:uppercase!important}
+html body [data-rr-taste-faq]>h2{margin:0 0 36px!important;color:#fff!important;font:900 clamp(30px,3.4vw,52px)/1 Raleway,sans-serif!important;text-transform:uppercase!important}
+html body [data-rr-taste-faq] .entry-cards{display:block!important;margin:0!important;padding:0!important;background:none!important}
+html body [data-rr-taste-faq] .entry-cards__card{display:block!important;margin:0!important;padding:28px 0!important;border-top:1px solid rgba(217,224,230,.35)!important;background:none!important;min-height:0!important}
+html body [data-rr-taste-faq] .entry-cards__content{display:block!important;width:auto!important;max-width:none!important;margin:0!important;padding:0!important;color:#fff!important;text-decoration:none!important}
+html body [data-rr-taste-faq] .entry-cards__title{margin:0 0 12px!important;color:#fff!important;font:800 clamp(20px,1.8vw,26px)/1.25 Raleway,sans-serif!important;letter-spacing:0!important;text-transform:none!important}
+html body [data-rr-taste-faq] .entry-cards__description-wrapper{display:block!important;max-height:none!important;opacity:1!important;overflow:visible!important;transform:none!important}
+html body [data-rr-taste-faq] .entry-cards__description,html body [data-rr-taste-faq] .entry-cards__description p{margin:0!important;color:#D9E0E6!important;font:400 16px/1.7 Montserrat,sans-serif!important}
+
+/* Related: the donor post-card row — stone cards with Raleway titles, text only */
+html body [data-rr-taste-related].post-query{display:block!important;box-sizing:border-box!important;width:auto!important;max-width:1320px!important;margin:0 auto!important;padding:96px 24px!important;background:none!important;overflow:visible!important}
+html body [data-rr-taste-related]>h2{margin:0 0 36px!important;color:#0C354E!important;font:900 clamp(30px,3.4vw,52px)/1 Raleway,sans-serif!important;text-transform:uppercase!important}
+html body [data-rr-taste-related] .swiper-wrapper{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:24px!important;transform:none!important;height:auto!important}
+html body [data-rr-taste-related] .swiper-slide{width:auto!important;height:auto!important;margin:0!important}
+html body [data-rr-taste-related] a.post-card{display:block!important;height:100%!important;box-sizing:border-box!important;padding:32px 28px!important;border-radius:16px!important;background:#fff!important;color:#2d2d2d!important;text-decoration:none!important;transition:background-color .3s ease!important}
+html body [data-rr-taste-related] a.post-card:hover{background:#D9E0E6!important}
+html body [data-rr-taste-related] .post-card__info{padding:0!important}
+html body [data-rr-taste-related] .post-card__info::before,html body [data-rr-taste-related] a.post-card::after,html body [data-rr-taste-related] a.post-card::before,html body [data-rr-taste-related] .post-card__info::after,html body [data-rr-taste-related] .post-card__title::after{content:none!important;display:none!important}
+html body [data-rr-taste-related] .post-card__title{margin:0 0 12px!important;color:#0C354E!important;font:800 22px/1.2 Raleway,sans-serif!important}
+html body [data-rr-taste-related] .post-card__info p{margin:0!important;color:#2d2d2d!important;font:400 15px/1.6 Montserrat,sans-serif!important}
+html body [data-rr-taste-related] .wp-block-buttons,html body [data-rr-taste-cta] .wp-block-buttons{display:flex!important;flex-wrap:wrap!important;gap:16px!important;margin:40px 0 0!important}
+
+/* Donor pill button (blue, arrow at right) */
+html body [data-rr-taste-related] a.wp-block-button__link,html body [data-rr-taste-cta] a.wp-block-button__link,html body #contact-form>button.wp-block-button__link{position:relative!important;display:inline-flex!important;align-items:center!important;padding:12px 44px 12px 24px!important;border:0!important;border-radius:100px!important;background:#288FBD!important;color:#fff!important;font:600 13px/1.2 Montserrat,sans-serif!important;letter-spacing:.04em!important;text-transform:uppercase!important;text-decoration:none!important}
+html body [data-rr-taste-related] a.wp-block-button__link:hover,html body [data-rr-taste-cta] a.wp-block-button__link:hover,html body #contact-form>button.wp-block-button__link:hover{background:#0C354E!important}
+html body [data-rr-taste-related] a.wp-block-button__link::after,html body [data-rr-taste-cta] a.wp-block-button__link::after,html body #contact-form>button.wp-block-button__link::after{right:20px!important;top:50%!important;margin-top:-6px!important}
+
+/* Closing CTA: donor gradient hero band with a big Raleway caps line */
+html body [data-rr-taste-cta].hero{display:block!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;min-height:0!important;margin:0!important;padding:120px max(24px,calc((100vw - 1320px)/2))!important;background:linear-gradient(-45deg,#008187 1.31%,#0C354E 70%)!important;color:#fff!important;border:0!important}
+html body [data-rr-taste-cta] .hero__inner{position:static!important;max-width:900px!important;min-height:0!important;margin:0!important;padding:0!important}
+html body [data-rr-taste-cta] h2{margin:0 0 22px!important;color:#fff!important;font:900 clamp(34px,4.6vw,76px)/.98 Raleway,sans-serif!important;text-transform:uppercase!important}
+html body [data-rr-taste-cta] .hero__inner>p{max-width:640px!important;margin:0!important;color:#fff!important;font:400 17px/1.7 Montserrat,sans-serif!important}
+html body [data-rr-taste-cta] a.wp-block-button__link.has-white-background-color{background:#fff!important;color:#0C354E!important}
+html body [data-rr-taste-cta] a.wp-block-button__link.has-white-background-color:hover{background:#95C11F!important;color:#0C354E!important}
+
+/* ---------- Contact: donor stone page, white rounded field wells, blue pill submit ---------- */
+html body #contact-form{box-sizing:border-box!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:22px 20px!important;max-width:880px!important;margin:48px auto 0!important;padding:40px!important;border:0!important;border-radius:40px!important;background:#fff!important;box-shadow:none!important}
+html body #contact-form .rr-contact-field{display:flex!important;flex-direction:column!important;gap:8px!important;margin:0!important;padding:0!important;background:none!important;border:0!important}
+html body #contact-form .rr-contact-field:nth-child(n+3),html body #contact-form>button{grid-column:1/-1!important}
+html body #contact-form label{margin:0!important;color:#0C354E!important;font:600 14px/1.3 Montserrat,sans-serif!important;letter-spacing:0!important;text-transform:none!important}
+html body #contact-form input,html body #contact-form textarea{box-sizing:border-box!important;width:100%!important;min-height:48px!important;padding:12px 18px!important;border:1px solid #D9E0E6!important;border-radius:10px!important;background:#f7f7f7!important;color:#2d2d2d!important;font:400 16px/1.4 Montserrat,sans-serif!important;box-shadow:none!important}
+html body #contact-form textarea{min-height:170px!important}
+html body #contact-form input:focus,html body #contact-form textarea:focus{outline:0!important;border-color:#288FBD!important;background:#fff!important}
+html body #contact-form>button.wp-block-button__link{justify-self:start!important;width:auto!important;margin:4px 0 0!important;cursor:pointer!important}
+html body .rr-contact-map{box-sizing:border-box!important;max-width:880px!important;height:340px!important;margin:48px auto 0!important;border:0!important;border-radius:40px!important;background:#D9E0E6!important;box-shadow:none!important;overflow:hidden!important}
+html body .rr-contact-map iframe,html body footer .rr-footer-map iframe{position:relative!important;top:-72px!important;height:calc(100% + 72px)!important}
+
+/* Donor lime text-link CTAs read on dark bands; on the stone page they switch to the donor teal */
+html body .wp-block-media-text:not(.has-background) a.wp-block-button__link:not(.has-background){color:#08656B!important}
+html body .has-primary-a-background-color .wp-block-media-text a.wp-block-button__link:not(.has-background){color:#95C11F!important}
+
+/* ---------- Footer: donor deep navy, map rounded into the column grid ---------- */
+html body footer.site-footer a{color:#fff!important}
+html body footer.site-footer .site-footer__contact-title{color:#95C11F!important}
+html body footer .rr-footer-map{box-sizing:border-box!important;width:min(1320px,calc(100% - 48px))!important;max-width:none!important;height:240px!important;min-height:240px!important;margin:0 auto 48px!important;padding:0!important;border:0!important;border-radius:40px!important;background:#0C354E!important;box-shadow:none!important;overflow:hidden!important}
+html body footer .rr-footer-map iframe{display:block!important;width:100%!important;border:0!important;filter:grayscale(.5) contrast(.95)!important}
+
+@media(max-width:1023px){
+  html body [data-rr-taste-related] .swiper-wrapper{grid-template-columns:1fr 1fr!important}
+}
+@media(max-width:720px){
+  html body .rr-taste-hero.hero-product{grid-template-columns:1fr!important;gap:28px!important;padding:56px 20px!important}
+  html body .rr-taste-hero .rr-taste-hero-media{grid-column:1!important;grid-row:2!important;height:240px!important;border-radius:16px!important}
+  html body .rr-taste-hero .rr-taste-hero-copy h1{font-size:clamp(34px,10vw,44px)!important}
+  html body .rr-taste-prose-shell{padding:56px 20px 16px!important}
+  html body [data-rr-taste-prose]>h2{font-size:28px!important;margin-top:48px!important}
+  html body [data-rr-taste-faq].wp-block-group{margin-top:56px!important;padding:56px 20px!important}
+  html body [data-rr-taste-related].post-query{padding:64px 20px!important}
+  html body [data-rr-taste-related] .swiper-wrapper{grid-template-columns:1fr!important}
+  html body [data-rr-taste-cta].hero{padding:72px 20px!important}
+  html body #contact-form{grid-template-columns:1fr!important;padding:24px 20px!important;border-radius:16px!important}
+  html body #contact-form>button.wp-block-button__link{width:100%!important;justify-content:center!important}
+  html body .rr-contact-map,html body footer .rr-footer-map{height:220px!important;min-height:220px!important;border-radius:16px!important}
+  html body header#siteHeader .site-header__main{padding-left:20px!important}
+  html body section.hero h1.wp-block-heading[data-rr-home-h1]{font-size:clamp(34px,11vw,44px)!important;line-height:1!important;word-break:normal!important;overflow-wrap:normal!important}
+  html body h1.wp-block-heading,html body h2.wp-block-heading,html body .entry-cards__title{word-break:normal!important;overflow-wrap:normal!important}
+}
