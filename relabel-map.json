@@ -349,7 +349,7 @@
             {"sel": ".wp-block-heading", "copy": "home_about_title"},
             {"sel": ".wp-block-media-text__content > p", "nth": 0, "copy": "home_about"},
             {"sel": ".wp-block-button__link", "text": "About the Curve Method", "href": "/about"},
-            {"sel": ".wp-block-media-text__media img", "img": "/ours/pages/mineral-rights-pages-about-selloilroyaltiesnow-com.jpg", "alt": "Oil royalty production notebook"}
+            {"sel": ".wp-block-media-text__media img", "img": "/ours/pages/mineral-rights-pages-how-it-works-selloilroyaltiesnow-com.jpg", "alt": "Oil royalty production notebook"}
           ]
         }
       ],
@@ -392,7 +392,7 @@
           "action": "relabel",
           "ops": [
             {"sel": ":scope > .hero h1", "copy": "about_title"},
-            {"sel": ":scope > .hero .hero__media img", "img": "/ours/pages/mineral-rights-pages-about-selloilroyaltiesnow-com.jpg", "alt": "About Sell Oil Royalties"},
+            {"sel": ":scope > .hero .hero__media img", "img": "/ours/pages/mineral-rights-pages-get-an-offer-selloilroyaltiesnow-com.jpg", "alt": "About Sell Oil Royalties"},
             {"sel": ":scope > p", "nth": 0, "copy": "about_kicker"},
             {"sel": ":scope > h2", "nth": 0, "copy": "about_block_0_title"},
             {"sel": ":scope > p", "nth": 1, "copy": "about_block_0"},
