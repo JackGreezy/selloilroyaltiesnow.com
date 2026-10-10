@@ -60,7 +60,7 @@
         "noscript"
       ],
       "link_map": {
-        "(+45) 71 741 741": ["701-555-1017", "tel:+17015551017"],
+        "(+45) 71 741 741": ["701-394-8321", "tel:+17013948321"],
         "info@gomspace.com": ["transactions@selloilroyaltiesnow.com", "mailto:transactions@selloilroyaltiesnow.com"],
         "sales@gomspace.com": ["Read the Curve", "/contact"]
       },
@@ -68,7 +68,7 @@
         "Contact": "ROYALTY REVIEW"
       },
       "regex_text_map": {
-        "\\+45": "701-555-1017"
+        "\\+45": "701-394-8321"
       },
       "columns": [
         {
@@ -214,7 +214,7 @@
             {"sel": "h2", "nth": 7, "copy": "hero_line_8"},
             {"sel": "h2", "nth": 8, "copy": "hero_line_9"},
             {"sel": ".hero__inner > p", "copy": "home_intro"},
-            {"sel": ".hero__media img", "img": "/ours/pages/mineral-rights-pages-home-selloilroyaltiesnow-com.jpg", "alt": "Sell oil royalties in Williston, North Dakota"}
+            {"sel": ".hero__media img", "img": "/ours/pages/mineral-rights-pages-home-selloilroyaltiesnow-com.jpg", "alt": "Sell oil royalties from any producing basin"}
           ]
         },
         {
@@ -260,7 +260,7 @@
           "selector": ".page-entry-content > .wp-block-group > .wp-block-cover",
           "action": "relabel",
           "ops": [
-            {"sel": ".wp-block-cover__image-background", "img": "/ours/locations/sell-mineral-rights-north-dakota.jpg", "alt": "Oil royalty interests in North Dakota"}
+            {"sel": ".wp-block-cover__image-background", "img": "/ours/locations/sell-mineral-rights-north-dakota.jpg", "alt": "Oil royalty interests across producing states"}
           ]
         },
         {
@@ -317,7 +317,7 @@
             {"sel": ".wp-block-media-text__content > p", "nth": 0, "copy": "home_locations"},
             {"sel": ".wp-block-media-text__content > p", "nth": 1, "drop": true},
             {"sel": ".wp-block-button__link", "text": "Explore State Guides", "href": "/locations"},
-            {"sel": ".wp-block-media-text__media img", "img": "/ours/locations/sell-mineral-rights-north-dakota.jpg", "alt": "North Dakota oil royalty ownership"}
+            {"sel": ".wp-block-media-text__media img", "img": "/ours/locations/sell-mineral-rights-north-dakota.jpg", "alt": "Oil royalty ownership across state lines"}
           ]
         },
         {
@@ -438,7 +438,7 @@
         {
           "selector": ".page-entry-content > .wp-block-columns",
           "action": "relabel",
-          "html_self": "<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><h2 class=\"wp-block-heading\">WILLISTON REVIEW POINT</h2><p class=\"wp-block-paragraph\">A deed, division order, check detail, well name, API number, lease, probate record, trust record, or written offer can start the review. The map marks the local review point without publishing the street address as page copy. Share only the records relevant to the interest and remove sensitive payment or account numbers before sending.</p><iframe title=\"Google Maps location for Sell Oil Royalties\" src=\"https://www.google.com/maps?q=113%204th%20St%20E%2C%20Williston%2C%20ND%2058801&amp;output=embed\" width=\"100%\" height=\"520\" loading=\"lazy\" style=\"border:0\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>"
+          "html_self": "<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><h2 class=\"wp-block-heading\">THE REVIEW POINT</h2><p class=\"wp-block-paragraph\">A deed, division order, check detail, well name, API number, lease, probate record, trust record, or written offer can start the review. The map marks the review point without publishing the street address as page copy. Share only the records relevant to the interest and remove sensitive payment or account numbers before sending.</p><iframe title=\"Google Maps location for Sell Oil Royalties\" src=\"https://www.google.com/maps?q=113%204th%20St%20E%2C%20Williston%2C%20ND%2058801&amp;output=embed\" width=\"100%\" height=\"520\" loading=\"lazy\" style=\"border:0\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>"
         },
         {
           "selector": ".page-entry-content > .wp-block-columns",

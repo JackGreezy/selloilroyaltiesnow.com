@@ -1,6 +1,6 @@
 {
   "identity": {
-    "name": "Bakken production notebook",
+    "name": "Oil production notebook",
     "domain_lock": "selloilroyaltiesnow.com",
     "reusable": false,
     "cadence": "statement, term, consequence, decision",
@@ -79,7 +79,7 @@
   ],
   "heroes": [
     [
-      "Sell Oil Royalties in Williston, North Dakota",
+      "Sell Oil Royalties From Any Producing Basin",
       "Start with the production curve, then test the offer against what remains."
     ],
     [
@@ -116,8 +116,8 @@
     ]
   ],
   "copy": {
-    "home_title": "Sell Oil Royalties in Williston, North Dakota",
-    "home_meta": "Read the production curve, check the netback, confirm title, and evaluate a direct oil royalty sale from Williston with no unexplained jargon.",
+    "home_title": "Sell Oil Royalties From Any Producing Basin",
+    "home_meta": "Read the production curve, check the netback, confirm title, and evaluate a direct oil royalty sale from any producing basin with no unexplained jargon.",
     "hero_line_1": "READ THE first-year DROP",
     "hero_line_2": "FIND THE mature TAIL",
     "hero_line_3": "SEPARATE PRICE FROM VOLUME",
@@ -137,7 +137,7 @@
     "home_resources_detail": "The aim is not to turn an owner into an engineer. It is to make the next question obvious.",
     "home_locations_title": "STATE RULES CHANGE THE REVIEW",
     "home_locations": "A sale follows the records, spacing rules, deductions, severance taxes, and recording practice of the state where the minerals sit. The location library keeps those differences visible instead of forcing every interest through a national shortcut.",
-    "home_about_title": "BUILT AROUND THE OWNER'S DECISION",
+    "home_about_title": "ORGANIZED FOR THE OWNER'S DECISION",
     "home_about": "Sell Oil Royalties is organized like a production notebook: evidence first, defined terms second, consequences third, and a decision last. The work stays centered on the tract, the wells, the check history, and the title path rather than a mailer deadline.",
     "home_interests_title": "KNOW WHAT THE DEED ACTUALLY CONVEYS",
     "home_interests": "Mineral rights, royalty interests, non-participating royalty, overriding royalty, working interests, and the surface estate carry different rights and obligations. Start with the interest type before treating any per-acre or cash-flow comparison as meaningful.",
@@ -154,14 +154,14 @@
     "faq_heading": "Questions Owners Ask at This Stage",
     "about_title": "About Sell Oil Royalties",
     "about_intro": "A clearer sale decision starts with the well history and the paper trail, not the envelope an offer arrived in.",
-    "about_kicker": "THE BAKKEN PRODUCTION NOTEBOOK",
+    "about_kicker": "THE OIL PRODUCTION NOTEBOOK",
     "about_mission_kicker": "THE WORKING METHOD",
     "about_statement": "STATEMENT. CURVE. NETBACK. TITLE. DECISION.",
     "contact_title": "Talk Through an Oil Royalty",
     "contact_intro": "Send the county and state, operator or payor, owner name, recent statement, and the question behind the review. The first response will identify which record or number should be checked next.",
     "contact_form_title": "START WITH THE RECORDS ALREADY IN HAND",
-    "contact_map_title": "WILLISTON REVIEW POINT",
-    "contact_map_body": "A deed, division order, check detail, well name, API number, lease, probate record, trust record, or written offer can start the review. The map marks the local review point without publishing the street address as page copy. Share only the records relevant to the interest and remove sensitive payment or account numbers before sending.",
+    "contact_map_title": "THE REVIEW POINT",
+    "contact_map_body": "A deed, division order, check detail, well name, API number, lease, probate record, trust record, or written offer can start the review. The map marks the review point without publishing the street address as page copy. Share only the records relevant to the interest and remove sensitive payment or account numbers before sending.",
     "footer_tagline": "The production curve explains the check. The paper trail explains the closing.",
     "privacy": "Information submitted through this site is used to respond to the inquiry, review the described mineral or royalty interest, and coordinate requested next steps. Do not submit bank-account numbers, full tax identifiers, or unrelated personal records. Site logs may retain ordinary technical information needed for security and operation.",
     "terms": "Information published by Sell Oil Royalties is general educational material and is not legal, tax, engineering, reserve, or appraisal advice. A request for review does not create an obligation to sell or buy. Any transaction depends on document review, title confirmation, mutually accepted written terms, and applicable law.",
@@ -283,5 +283,6 @@
     "investing": "Underwrite the income, not the story: net deposits, decline, deductions and concentration come before any yield or multiple.",
     "exchange-1031": "A possible exchange adds deadlines and an intermediary to the sale. The production case still has to hold up on its own before any proceeds move.",
     "locations": "State rules change the records, spacing, severance taxes and recording steps behind a sale. The local file still starts with the well and the check."
-  }
+  },
+  "hero_city_suffix": false
 }
