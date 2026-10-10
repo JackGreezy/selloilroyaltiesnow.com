@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".downloads > .downloads__inner > .downloads__hidden").forEach(function(e){e.querySelectorAll("a:not(.downloads__hidden-overlay)").forEach(function(e){e.hasAttribute("href")&&e.setAttribute("href","#")})})});

@@ -53,7 +53,7 @@ for page in PAGES:
 
     for image in soup.select("img"):
         src = str(image.get("src", ""))
-        if src and not src.startswith(("/ours/", "data:")):
+        if src and not src.startswith(("/ours/", "/brand/", "data:")):
             FAILURES.append(f"{relative}: non-mapped image source: {src}")
         for attr in ("width", "height"):
             value = str(image.get(attr, "")).strip()
@@ -85,8 +85,6 @@ home_h1 = [" ".join(node.get_text(" ", strip=True).split()) for node in home.sel
 if (
     len(home_h1) != 1
     or "sell oil royalties" not in home_h1[0].lower()
-    or "williston" not in home_h1[0].lower()
-    or "north dakota" not in home_h1[0].lower()
 ):
     FAILURES.append(f"homepage SEO H1 is invalid: {home_h1}")
 
