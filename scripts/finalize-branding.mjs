@@ -41,7 +41,8 @@ for(const file of walk(pub).filter(file=>file.endsWith('.html'))){
   return logo;
  });
  const position=html.toLowerCase().lastIndexOf('</body>');
- html=html.slice(0,position)+block+html.slice(position);
+ const analytics=html.includes('/_vercel/insights/script.js')?'':'<script data-rr-vercel-analytics="init">window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script><script data-rr-vercel-analytics="loader" defer src="/_vercel/insights/script.js"></script>';
+ html=html.slice(0,position)+analytics+block+html.slice(position);
  for(const asset of html.matchAll(/\/(?:ours|brand)\/[^\s"'<>\)]+?\.(?:jpe?g|png|webp|avif|svg|ico)/gi)){
   if(!fs.existsSync(path.join(pub,decodeURIComponent(asset[0]))))throw Error('Missing published image: '+asset[0]);
  }
