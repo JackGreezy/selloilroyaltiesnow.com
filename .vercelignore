@@ -1,7 +1,6 @@
 content
 images
 qa-out
-scripts
 *.html.ref
 AGENTS.md
 build.sh
